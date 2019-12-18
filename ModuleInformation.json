@@ -10682,11 +10682,7 @@
     "moduleDisplayName": "Ultimate Custom Night",
     "moduleID": "qkUCN",
     "moduleScoreOverride": false,
-<<<<<<< HEAD
-    "moduleScoreIsDynamic": false,
-=======
     "moduleScoreIsDynamic": null,
->>>>>>> 758878905609678d08a9c48e71bd17480846b0d3
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
