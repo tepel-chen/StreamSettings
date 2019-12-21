@@ -6769,27 +6769,6 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-<<<<<<< HEAD
-    "moduleScore": null,
-    "moduleScoreIsDynamic": null,
-    "moduleDisplayName": "Pay Respects",
-    "moduleID": "lgndPayRespects",
-    "moduleScoreOverride": false,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": null,
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightOverride": false,
-    "statusLightLeft": false,
-    "statusLightDown": false,
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
     "moduleScore": null,
     "moduleDisplayName": "Pay Respects",
     "moduleID": "lgndPayRespects",
@@ -6810,8 +6789,6 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-=======
->>>>>>> c3dbe517c3a925b4ee24a839cb30891cb727420d
     "moduleDisplayName": "Periodic Table",
     "moduleID": "periodicTable",
     "moduleScoreOverride": false,
