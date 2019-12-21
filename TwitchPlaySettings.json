@@ -15,7 +15,7 @@
   "EnableSoloPlayMode": true,
   "EnableRetryButton": true,
   "EnableWhiteList": false,
-  "EnableInteractiveMode": false,
+  "EnableInteractiveMode": true,
   "EnableAutomaticEdgework": true,
   "EnableEdgeworkCommand": false,
   "EnableAutomaticCameraWall": true,
@@ -92,6 +92,7 @@
     "NoKeys",
     "NoTroll",
     "NoUCN",
+    "No14"
     "\nModules Profiles",
     "NoAnts",
     "NoBA",
