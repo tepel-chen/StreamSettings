@@ -1526,7 +1526,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "",
+    "helpText": "!{0} submit <note> <type> [submit a chord] | b and # can be used for flat and sharp. | Types: major, minor and diminished",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -2291,7 +2291,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} answer [submit an answer] | !{0} toggle [move all columns down one character]",
+    "helpText": "!{0} submit answer [submit an answer] | !{0} toggle [move all columns down one character]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -3352,7 +3352,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Enter the Forget It Not sequence with \"!{0} press 531820...\" or \"!{0} submit 531820...\". The sequence length depends on how many stages were shown on the module. You may use spaces and commas in the digit sequence.",
@@ -3362,7 +3362,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Forget Me Later",
@@ -9873,7 +9873,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": true
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Ultimate Cycle",
