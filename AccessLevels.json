@@ -4,7 +4,7 @@
   "MinimumAccessLevelForTimeoutCommand": "Mod",
   "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
-    "strike_kaboom": "Mod, Admin, SuperUser, Streamer",
+    "strike_kaboom": "Mod, Admin, SuperUser",
     "seanktane": "Admin, SuperUser",
     "romz3k57": "User",
     "exish": "User",
@@ -410,7 +410,11 @@
     "boastfulatol29": "User",
     "pkgn_iamerror": "User",
     "sparky_075": "User",
-    "_tpdebug": "Mod, Admin, SuperUser, Streamer"
+    "cirax856": "Banned",
+    "uppity_prince": "User",
+    "howtodothiis": "User",
+    "silverthehedgehog_1": "User",
+    "imafanofbs": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -510,6 +514,11 @@
     },
     "gordohunter76543": {
       "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "cirax856": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
