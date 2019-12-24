@@ -9618,7 +9618,7 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Time Signature",
+    "moduleDisplayName": "Time Signatures",
     "moduleID": "timeSignatures",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -9627,8 +9627,8 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use '!{0} t1 h b2 c' to hit the top button once, hold the button, hit the bottom button twice, and cycle the top button.",
-    "manualCodeOverride": true,
-    "manualCode": "https://ktane.timwi.de/HTML/Time%20Signatures.html",
+    "manualCodeOverride": false,
+    "manualCode": null,
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
@@ -10534,7 +10534,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} press <1234> [Presses the specified buttons in reading order]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
