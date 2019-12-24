@@ -55,6 +55,7 @@
   "TimeModeMinimumTimeLost": 15,
   "TimeModeMinimumTimeGained": 20,
   "AwardDropMultiplierOnStrike": 0.8,
+  "TimeModeTimeForActions": true,
   "EnableFactoryZenModeCameraWall": true,
   "EnableFactoryAutomaticNextBomb": true,
   "EnableZenModeForEveryone": true,
@@ -92,7 +93,7 @@
     "NoKeys",
     "NoTroll",
     "NoUCN",
-    "No14"
+    "No14",
     "\nModules Profiles",
     "NoAnts",
     "NoBA",

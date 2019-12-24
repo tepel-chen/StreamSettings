@@ -4,7 +4,7 @@
   "MinimumAccessLevelForTimeoutCommand": "Mod",
   "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
-    "strike_kaboom": "Mod, Admin, SuperUser",
+    "strike_kaboom": "Mod, Admin, SuperUser, Streamer",
     "seanktane": "Admin, SuperUser",
     "romz3k57": "User",
     "exish": "User",
@@ -409,7 +409,8 @@
     "andrio_celos": "User",
     "boastfulatol29": "User",
     "pkgn_iamerror": "User",
-    "sparky_075": "User"
+    "sparky_075": "User",
+    "_tpdebug": "Mod, Admin, SuperUser, Streamer"
   },
   "Bans": {
     "bomb_griefer": {
