@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "FactoryRoom",
     "BusGameplayRoom",
     "Portal Room",
     "speakEnglish",
@@ -8,10 +7,12 @@
     "複雑漢字Module",
     "TextAdventureModule",
     "MagickaModule",
-    "meter",
     "timingIsEverything",
     "Krit4CardMonte",
-    "BookOfMarioModule"
+    "BookOfMarioModule",
+    "organizationModule",
+    "disorderedKeys",
+    "PrimeChecker"
   ],
   "Operation": 1
 }
