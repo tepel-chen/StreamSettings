@@ -8742,6 +8742,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "The cRule",
+    "moduleID": "the_cRule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Type '!{0} {c} {#}'' to set the squares listed in {#} to the abbreviated color {c}. Type '!{0} submit' to submit your answer, and type '!{0} reset' to reset. Colors and cells can be chained, such as in '!{0} r 4 12 c 5 k 16'. Colors are blac(k), (r)ed, (g)reen, (b)lue, (w)hite, (c)yan, (m)agenta, and (y)ellow.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "The Cube",
     "moduleID": "cube",
     "moduleScoreOverride": false,
@@ -10534,7 +10552,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press <1234> [Presses the specified buttons in reading order]",
+    "helpText": null,
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
