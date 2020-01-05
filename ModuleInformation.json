@@ -491,8 +491,8 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Press a character using using !{0} press <character>. Characters: baba, keke, me, rock, flag and wall.",
-    "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCodeOverride": true,
+    "manualCode": "https://ktane.timwi.de/HTML/Baba%20Is%20Who.html",
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
