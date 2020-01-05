@@ -5861,6 +5861,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Naughty or Nice",
+    "moduleID": "lgndNaughtyOrNice",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Type '!{0} press naughty', '!{0} press nice', '!{0} naughty' or '!{0} nice' to press the desired button",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Needy Button Masher",
     "moduleID": "buttonMasherNeedy",
     "moduleScoreOverride": false,
@@ -7676,7 +7694,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Submit by \"!{0} RGBY...\" (initial letter of colors to press)",
+    "helpText": "!{0} RBGY [Presses the buttons red, blue, green, and yellow in that order] | !{0} colorblind [Toggles colorblind mode]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
