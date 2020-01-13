@@ -14,7 +14,7 @@
     "inferno_atlantic": "Defuser",
     "riverbui": "SuperUser",
     "asew54321": "Defuser",
-    "agood_usernam3": "Admin",
+    "agood_usernam3": "Defuser",
     "mix2013_1": "User",
     "rdzanu": "Defuser",
     "tactful_tactics": "Mod, Admin",
@@ -53,7 +53,7 @@
     "r4y697": "User",
     "crazycaleb147": "Defuser",
     "ddeuceman45": "User",
-    "epictoast1868": "Admin",
+    "epictoast1868": "Defuser",
     "samfun1234": "SuperUser",
     "lordofdruid": "User",
     "legend_darkstar": "Admin",
@@ -414,7 +414,38 @@
     "uppity_prince": "User",
     "howtodothiis": "User",
     "silverthehedgehog_1": "User",
-    "imafanofbs": "User"
+    "imafanofbs": "User",
+    "bradgc21": "User",
+    "swordodo": "User",
+    "llamartell": "User",
+    "idontloveher": "User",
+    "bananapajama": "User",
+    "ktaneish223": "Banned",
+    "xxthedweebxx": "User",
+    "kieshi12": "User",
+    "anthonygamergs": "User",
+    "nerfarian0169": "User",
+    "nidboj132pl": "User",
+    "bananajoe90211": "User",
+    "heavydk": "User",
+    "tomino911": "User",
+    "simpleperson98": "User",
+    "friends99": "User",
+    "kodipherz": "User",
+    "aerisleo": "Banned",
+    "user670_": "User",
+    "azndude1324": "User",
+    "racionais231": "Banned",
+    "nexusvoxx": "User",
+    "mcd573": "User",
+    "cooldoom5": "User",
+    "kingmario2973": "User",
+    "giantyvetalo": "User",
+    "anaveragearceus": "User",
+    "__첫눈__": "User",
+    "dunkel_traum": "User",
+    "thenoviceexpert": "User",
+    "betshet": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -519,6 +550,21 @@
     },
     "cirax856": {
       "BannedBy": "MrPeanut1028",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "ktaneish223": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "aerisleo": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "racionais231": {
+      "BannedBy": "SeanKTANE",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
