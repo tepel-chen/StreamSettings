@@ -170,7 +170,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use '!{0} reset left 0 1 10101 submit' to reset the module, press the buttons, and submit. The first letter of the reset and submit commands can be used also.",
+    "helpText": "Use '!{0} reset 0 1 10101 submit' to reset the module, press the buttons, and submit. The first letter of the reset and submit commands can be used also.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -7747,7 +7747,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} press <#> [Presses buttons at positions 1-10 in reading order with a space between each number]",
@@ -7757,7 +7757,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Simon Literally Says",
@@ -8174,7 +8174,7 @@
     "helpText": "Use “!{0} press <n>” to press the button numbered n!",
     "manualCodeOverride": false,
     "manualCode": null,
-    "statusLightPosition": "Default",
+    "statusLightPosition": "TopLeft",
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
