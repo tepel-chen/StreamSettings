@@ -22,6 +22,7 @@ installed locally into this "mods" folder
 The mods included in this folder are:
 - The Triangle by Royal_Flu$h (Twitch Plays, Colorblind, and Gamepad support)
 - The Crystal Maze by Royal_Flu$h (Twitch Plays support)
+- Spinning Buttons by Royal_Flu$h (Twitch Plays support)
 - The Stock Market by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
