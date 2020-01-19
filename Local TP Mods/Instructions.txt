@@ -4,20 +4,44 @@ You have the ability to download these versions and install them
 locally in place of the steam versions so these bugfixes and supports
 can work on your end. To do this, follow the instructions below:
 
-1. Go to the steam workshop for KTANE and unsubscribe from the mods that
+1. Close KTANE if its open
+
+2. Go to the steam workshop for KTANE and unsubscribe from the mods that
 are in this folder that you would like to have installed locally
 
-2. Locate the folder where KTANE is stored, usually its
+3. Locate the folder where KTANE is stored, usually its at
 C:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody Explodes
 
-3. If a folder called "mods" does not already exist here, create it
+4. If a folder called "mods" does not already exist here, create it
 
-4. Drag all the folders for each mod here that you would like to have
+5. Drag all the folders for each mod here that you would like to have
 installed locally into this "mods" folder
 
-5. Load up KTANE and enjoy!
+6. Load up KTANE and enjoy!
 
 The mods included in this folder are:
-- The Triangle by Royal_Flu$h
-- The Stock Market by Royal_Flu$h
-- Know Your Way by Joostoos
+- The Triangle by Royal_Flu$h (Twitch Plays, Colorblind, and Gamepad support)
+- The Crystal Maze by Royal_Flu$h (Twitch Plays support)
+- The Stock Market by Royal_Flu$h (Bugfixes)
+- Know Your Way by Joostoos (Module removed from workshop)
+
+The Crystal Maze has a special Twitch Plays support where the support itself
+has its own manual! To replace the manual with the Twitch Plays variant
+on your version of Twitch Plays, follow the steps below:
+
+1. Close KTANE
+
+2. Locate the module information file for Twitch Plays called ModuleInformation.JSON,
+usually its at
+C:\Users\username\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes
+(replace 'username' with whatever your computer has "its most likely your name")
+
+3. Open this file and search for (Ctrl+F) "The Crystal Maze"
+
+4. Once found, locate the setting [manualCodeOverride: null] and change it to
+[manualCodeOverride: true]
+
+5. Now locate the setting [manualCode: null] and change it to
+[manualCode: "https://drive.google.com/file/d/1des6hvF8pN8vatwAzvjhEWKH_53T32RD/view?usp=sharing"]
+
+6. Load up KTANE and enjoy!
