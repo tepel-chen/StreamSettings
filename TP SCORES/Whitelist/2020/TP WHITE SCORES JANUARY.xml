@@ -3,22 +3,22 @@
   <LeaderboardEntry>
     <UserName>Alpha_Canis_Minoris</UserName>
     <UserColor>
-      <r>0</r>
-      <g>0</g>
-      <b>1</b>
+      <r>0.31</r>
+      <g>0.31</g>
+      <b>0.31</b>
       <a>1</a>
     </UserColor>
     <SolveCount>187</SolveCount>
-    <StrikeCount>9</StrikeCount>
-    <SolveScore>1615</SolveScore>
-    <LastAction>2020-01-25T22:51:31.1692447-08:00</LastAction>
+    <StrikeCount>8</StrikeCount>
+    <SolveScore>1621</SolveScore>
+    <LastAction>2020-01-26T00:42:27.4471931-08:00</LastAction>
     <Rank>1</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
     <TotalSoloClears>0</TotalSoloClears>
     <SoloRank>0</SoloRank>
     <Team xsi:nil="true" />
-    <Active>true</Active>
+    <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>RyanDuarte56</UserName>
