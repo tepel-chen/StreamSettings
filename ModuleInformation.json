@@ -1,6 +1,21 @@
 [
   {
     "moduleDisplayName": "",
+    "moduleID": "AdditionModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit or input a number using '!{0} <submit|input> <number>'. Cycle, clear, or submit by using '!{0} <cycle|clear|submit>'.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "",
     "moduleID": "Yoinkingmodule",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -6175,7 +6190,7 @@
     "unclaimable": false,
     "scoreMethod": "NeedySolves",
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} yes, !{0} y [answer yes] | !{0} no, !{0} n [answer no]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
