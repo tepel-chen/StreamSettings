@@ -1,21 +1,6 @@
 [
   {
     "moduleDisplayName": "",
-    "moduleID": "AdditionModule",
-    "moduleScoreOverride": false,
-    "moduleScore": null,
-    "moduleScoreIsDynamic": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "Submit or input a number using '!{0} <submit|input> <number>'. Cycle, clear, or submit by using '!{0} <cycle|clear|submit>'.",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
     "moduleID": "Yoinkingmodule",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -250,6 +235,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Addition",
+    "moduleID": "AdditionModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit or input a number using '!{0} <submit|input> <number>'. Cycle, clear, or submit by using '!{0} <cycle|clear|submit>'.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Adjacent Letters",
     "moduleID": "AdjacentLettersModule",
     "moduleScoreOverride": false,
@@ -388,6 +388,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Alphabetical Ruling",
+    "moduleID": "alphabeticalRuling",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <#> [Presses the button labeled '#'] | Valid numbers are 1-9",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
