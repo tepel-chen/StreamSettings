@@ -515,6 +515,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "ASCII Art",
+    "moduleID": "asciiArt",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} query 42' to query that number. Use '!{0} submit <topleft|topright|bottomleft|bottomright> to submit that button. You can also use <tl|tr|bl|br>.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Astrology",
     "moduleID": "spwizAstrology",
     "moduleScoreOverride": false,
