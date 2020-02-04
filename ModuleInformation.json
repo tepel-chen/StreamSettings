@@ -5829,7 +5829,7 @@
     "helpTextOverride": false,
     "helpText": "Use a move with !{0} use splash.",
     "manualCodeOverride": true,
-    "manualCode": "https://ktane.timwi.de/HTML/Monsplode,%20Fight!.html",
+    "manualCode": "https://ktane.timwi.de/HTML/Monsplode%2C%20Fight%21.html",
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
