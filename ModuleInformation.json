@@ -7502,7 +7502,7 @@
     "helpTextOverride": false,
     "helpText": "!{0} cycle [Cycles through all pieces on the module] | !{0} left/right [Cycle the pieces to the left or right by 1] | !{0} press [Presses the piece that is currently displayed] | !{0} press 2 4 5 [Presses several pieces in a specified order, in this case the 2nd piece, 4th piece, and 5th piece] | !{0} reset [Resets the module to display the 1st piece]",
     "manualCodeOverride": true,
-    "manualCode": "https://ktane.timwi.de/HTML/Roman%20Art%20censored.html,"
+    "manualCode": "https://ktane.timwi.de/HTML/Roman%20Art%20censored.html",
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
