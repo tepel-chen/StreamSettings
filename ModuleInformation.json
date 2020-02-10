@@ -4227,6 +4227,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Hide And Seek",
+    "moduleID": "hideAndSeek",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Go forward using !{0} f/u/forward/up . Turn left with !{0} l/left . Turn right with !{0} r/right. Commands are chainable, but please use spaces inbetween commands.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Hieroglyphics",
     "moduleID": "hieroglyphics",
     "moduleScoreOverride": false,
@@ -5090,6 +5108,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Logic Statement",
+    "moduleID": "logicStatement",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit “True” with “!{0} T/True”. Submit “False” with “!{0} F/False”.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6203,7 +6239,7 @@
     "unclaimable": false,
     "scoreMethod": "NeedySolves",
     "helpTextOverride": false,
-    "helpText": "Press the keys with !{0} C C# D.",
+    "helpText": "Press a button using !{0} C C# D",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
