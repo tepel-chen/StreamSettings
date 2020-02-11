@@ -2671,6 +2671,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Dimension Disruption",
+    "moduleID": "dimensionDisruption",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cycle [Tilts the cube to show the above and right sides] | !{0} press <pos/light> [Presses the button in the specified position or the status light] | Valid positions are tl, tr, bl, and br",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Discolored Squares",
     "moduleID": "DiscoloredSquaresModule",
     "moduleScoreOverride": false,
