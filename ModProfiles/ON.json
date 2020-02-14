@@ -10,7 +10,9 @@
     "deckOfManyThings",
     "chordProgressions",
     "V",
-    "topsyTurvy"
+    "topsyTurvy",
+    "passwordGenerator",
+    "alliances"
   ],
   "Operation": 1
 }
