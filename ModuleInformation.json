@@ -10547,7 +10547,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Submit your answer by entering !{0} 1234 abcd 1234 abcd.",
+    "helpText": "Submit your answer by entering !{0} submit 1234 abcd 1234 abcd.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
