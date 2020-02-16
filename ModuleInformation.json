@@ -584,6 +584,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Baccarat",
+    "moduleID": "baccarat",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Place a bet with \"!{0} bet <amount> on <location>\". Bet on multiple locations with \"!{0} bet <amount1> on <location1>, <amount2> on <location2>, ...\". Betting locations are \"player\", \"banker\", \"tie\", \"player pair\", and \"banker pair\". Use \"!{0} colorblind\" to activate colorblind mode. Use \"!{0} tilt d\" to get a better view of the table limits.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Backgrounds",
     "moduleID": "Backgrounds",
     "moduleScoreOverride": false,
@@ -3971,6 +3989,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Going Backwards",
+    "moduleID": "GoingBackwardsModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <#> [Presses buttons at positions 1-10 in reading order with a space between each number] | !{0} display [presses the display]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10858,6 +10894,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Westeros",
+    "moduleID": "westeros",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cycle (sigil) (words) ... [Cycles through the specified display(s)] | !{0} submit <sigil> <forename> <house> <words> <seat> [Submits the specified Westerosi house stats, where 'words' and 'seat' must have no spaces. 'sigil' must be a valid house name]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
