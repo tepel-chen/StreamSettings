@@ -10122,6 +10122,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "The World's Largest Button",
+    "moduleID": "WorldsLargestButton",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} hold/release XX:XX/X:XX/XX/X [Holds or releases the button at the specified time (XX:XX/#X:XX/##:XX/##:#X)]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Thinking Wires",
     "moduleID": "thinkingWiresModule",
     "moduleScoreOverride": false,
