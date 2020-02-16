@@ -25,6 +25,7 @@ The mods included in this folder are:
 - Homophones by Royal_Flu$h (Twitch Plays support)
 - Spinning Buttons by Royal_Flu$h (Twitch Plays support)
 - Sonic & Knuckles by Royal_Flu$h (Twitch Plays support)
+- Westeros by Royal_Flu$h (Twitch Plays and Gamepad support)
 - The Stock Market by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
