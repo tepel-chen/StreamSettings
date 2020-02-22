@@ -86,3 +86,8 @@ modSettings.xml
 modSelectorConfig.json
 playerSettings.xml
 records.xml
+leaderboard-backups/regular/other/*
+leaderboard-backups/whitelist/other/*
+ModProfiles/idiot.json
+ModProfiles/testing.json
+ModProfiles/BIGBOMB.json
