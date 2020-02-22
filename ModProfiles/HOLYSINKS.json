@@ -501,7 +501,6 @@
     "Wavetapping",
     "webDesign",
     "weirdAlYankovic",
-    "westeros",
     "whiteCipher",
     "WhosOnFirstTranslated",
     "wire",
@@ -569,14 +568,18 @@
     "AdditionModule",
     "alphabeticalRuling",
     "Microphone",
-    "V",
     "dimensionDisruption",
     "topsyTurvy",
     "symbolicTasha",
-    "alliances",
     "dungeon",
     "pwGenerator",
-    "UnicodeModule"
+    "UnicodeModule",
+    "GoingBackwardsModule",
+    "westeros",
+    "baccarat",
+    "WorldsLargestButton",
+    "V",
+    "alliances"
   ],
   "Operation": 0
 }
