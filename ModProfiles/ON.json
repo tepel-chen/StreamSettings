@@ -5,9 +5,10 @@
     "複雑漢字Module",
     "TextAdventureModule",
     "MagickaModule",
-    "Krit4CardMonte",
     "forgetUsNot",
-    "deckOfManyThings"
+    "deckOfManyThings",
+    "calcModule",
+    "oldFogey"
   ],
   "Operation": 1
 }
