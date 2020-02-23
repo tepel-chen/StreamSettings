@@ -482,7 +482,8 @@
     "oteku2k": "User",
     "xaxtonrevolution": "User",
     "cyber12": "User",
-    "djhero2903": "User"
+    "djhero2903": "User",
+    "livplaysyt": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -602,6 +603,11 @@
     },
     "racionais231": {
       "BannedBy": "SeanKTANE",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "livplaysyt": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
