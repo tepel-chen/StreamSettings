@@ -300,7 +300,6 @@
     "moduleMovements",
     "ModuleAgainstHumanity",
     "modulo",
-    "modulusManipulation",
     "monsplodeFight",
     "monsplodeCards",
     "moon",
@@ -579,7 +578,9 @@
     "baccarat",
     "WorldsLargestButton",
     "V",
-    "alliances"
+    "alliances",
+    "modulusManipulation",
+    "primeEncryption"
   ],
   "Operation": 0
 }
