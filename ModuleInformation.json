@@ -5935,13 +5935,10 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} 123 4 [submits 123 when there is 4 minutes left on the clock]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7152,6 +7149,21 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Prime Encryption",
+    "moduleID": "primeEncryption",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit 123 456 [submit 123 and 456 as the bases]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
