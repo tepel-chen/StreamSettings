@@ -580,7 +580,9 @@
     "V",
     "alliances",
     "modulusManipulation",
-    "primeEncryption"
+    "primeEncryption",
+    "AMessageForTheReader",
+    "boxing"
   ],
   "Operation": 0
 }
