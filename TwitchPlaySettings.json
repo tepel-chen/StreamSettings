@@ -29,7 +29,7 @@
   "BombLiveMessageDelay": 0,
   "ShowUnrecognizedCommandError": true,
   "ClaimCooldownTime": 15,
-  "ModuleClaimLimit": 4,
+  "ModuleClaimLimit": 3,
   "DynamicScorePercentage": 0.5,
   "EnableTwitchPlayShims": true,
   "UnsubmittablePenaltyPercent": 0.3,
