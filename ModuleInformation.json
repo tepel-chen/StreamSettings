@@ -8057,6 +8057,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Silhouettes",
+    "moduleID": "silhouettes",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} u/d/l/r/a/c <0-360> [Rotates the shape. Rotations can be chained] | !{0} <a-h><1-8> [Changes coordinate]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Silly Slots",
     "moduleID": "SillySlots",
     "moduleScoreOverride": false,
