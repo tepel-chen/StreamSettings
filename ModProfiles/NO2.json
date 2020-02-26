@@ -4,7 +4,8 @@
     "LightsOut",
     "EdgeworkModule",
     "EncryptedValuesModule",
-    "QRCode"
+    "QRCode",
+    "silhouettes"
   ],
   "Operation": 1
 }
