@@ -8,7 +8,10 @@
     "R4YNeedyFlowerMash",
     "3x3Grid",
     "hideAndSeek",
-    "logicStatement"
+    "logicStatement",
+    "lgndOddModOut",
+    "lgndNaughtyOrNice",
+    "timeAccumulation"
   ],
   "Operation": 1
 }
