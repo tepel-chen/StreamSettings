@@ -3,8 +3,6 @@ Crashes/*
 Custom Music/*
 Manual/*
 ModifiedManuals/*
-TP WEEKDAY SCORES/*
-TP WHITELIST SCORES/*
 TwitchPlaysShared/*
 Modsettings/BombCreator-settings.txt
 Modsettings/BossModules.json
@@ -81,7 +79,6 @@ progression.xml
 TwitchPlaysStats.json
 TwitchPlaysLastClaimed.json
 ModProfiles/NoBack.json
-TwitchPlaysUsers.xml
 modSettings.xml
 modSelectorConfig.json
 playerSettings.xml

@@ -33,6 +33,12 @@
   "FindClaimLimit": 3,
   "FindClaimTerms": 3,
   "FindClaimAddTime": 5,
+  "VoteCountdownTime": 60,
+  "EnableVoting": true,
+  "MinimumYesVotes": {
+    "Detonation": 51,
+    "VSModeToggle": 51
+  },
   "DynamicScorePercentage": 0.5,
   "EnableTwitchPlayShims": true,
   "UnsubmittablePenaltyPercent": 0.3,

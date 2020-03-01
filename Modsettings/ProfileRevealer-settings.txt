@@ -1,0 +1,5 @@
+{
+  "ShowModuleNames": false,
+  "Delay": 2.0,
+  "PopupKey": "F1"
+}

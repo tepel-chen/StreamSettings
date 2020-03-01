@@ -4,7 +4,7 @@
   "MinimumAccessLevelForTimeoutCommand": "Mod",
   "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
-    "strike_kaboom": "Mod, Admin, SuperUser",
+    "strike_kaboom": "Mod, Admin, SuperUser, Streamer",
     "seanktane": "Admin, SuperUser",
     "romz3k57": "User",
     "exish": "User",

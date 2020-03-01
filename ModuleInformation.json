@@ -1,6 +1,21 @@
 [
   {
     "moduleDisplayName": "",
+    "moduleID": "ShapeMemoryComponentSolver",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "",
     "moduleID": "Yoinkingmodule",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -2457,6 +2472,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Cruel Kanji",
+    "moduleID": "CruelKanjiModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7985,6 +8018,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Settlers of KTaNE",
+    "moduleID": "SettlersOfKTaNE",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Roll the dice with !{0} roll. Roll the dice until a specific number appears with !{0} roll until <number1> <number1> <...> Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>.| Build a street with !{0} build street <streetPosition>. StreetPositions are numbered in reading order. The 4 diagonal streets on the top are numbered 1,2,3,4.| The verticals in the next row are numbered 5,6,7. And so on...| Claim one or multiple ressources with !{0} hex <hexCardinal> <hexCardinal> <...>| Trade ressources using !{0} trade <ress><ress>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid ressources are BRICK, WOOD, ORE, GRAIN, WOOL.| Discard ressources durin thiefmode with !{0} discard <ress> <opti. number>. You can add a number, if you want to discard more than 1.  e.g. !{0} discard brick 4 discards 4 brick.| Valid Cardinals are N,NE,SE... & 1,2,3,...(in reading order when referring to the Hex OR in clockwise order beginning at the t) & T,TR,BR...",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Seven Choose Four",
     "moduleID": "sevenChooseFour",
     "moduleScoreOverride": false,
@@ -9621,6 +9672,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Hidden Value",
+    "moduleID": "theHiddenValue",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} set 9 7 1 sets the 1st, 2nd, and 3rd dials to 9, 7, and 1. !{0} submit 5 presses the submit button when the countdown timer's last digit is a 5.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
