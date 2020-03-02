@@ -1,5 +1,5 @@
 {
   "ShowModuleNames": false,
   "Delay": 2.0,
-  "PopupKey": "F1"
+  "PopupKeys": "F1"
 }
