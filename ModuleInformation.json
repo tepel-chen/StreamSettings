@@ -5906,6 +5906,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Misery Squares",
+    "moduleID": "SquaresOfMisery",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} setsquare <#> <col> [Sets square '#' in the bottom row to the color 'col'] | !{0} submit [Submits the current bottom color sequence] | !{0} colorblind (#) [Enables colorblind mode (Optionally briefly displays the color of the '#' square in the top row)] | Valid squares are 1-10, valid colors are in the manual (color guide abbreviations may be used)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Misordered Keys",
     "moduleID": "misorderedKeys",
     "moduleScoreOverride": false,
@@ -10110,6 +10128,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Simpleton",
+    "moduleID": "SimpleButton",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} push [Pushes the button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {

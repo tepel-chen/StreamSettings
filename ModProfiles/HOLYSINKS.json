@@ -582,7 +582,13 @@
     "modulusManipulation",
     "primeEncryption",
     "AMessageForTheReader",
-    "boxing"
+    "boxing",
+    "echolocation",
+    "LightBulbs",
+    "SquaresOfMisery",
+    "SettlersOfKTaNE",
+    "theHiddenValue",
+    "SimpleButton"
   ],
   "Operation": 0
 }
