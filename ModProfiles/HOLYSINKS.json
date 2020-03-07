@@ -588,7 +588,19 @@
     "SquaresOfMisery",
     "SettlersOfKTaNE",
     "theHiddenValue",
-    "SimpleButton"
+    "SimpleButton",
+    "NotComplicatedWires",
+    "NotKeypad",
+    "NotMaze",
+    "NotMemory",
+    "NotMorseCode",
+    "NotPassword",
+    "NotSimaze",
+    "NotButton",
+    "NotWhosOnFirst",
+    "NotWireSequence",
+    "NotWiresword",
+    "sequencesModule"
   ],
   "Operation": 0
 }
