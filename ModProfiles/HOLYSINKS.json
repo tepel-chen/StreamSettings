@@ -600,7 +600,8 @@
     "NotWhosOnFirst",
     "NotWireSequence",
     "NotWiresword",
-    "sequencesModule"
+    "sequencesModule",
+    "R4YMultiColoredSwitches"
   ],
   "Operation": 0
 }
