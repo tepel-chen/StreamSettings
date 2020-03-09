@@ -11,7 +11,8 @@
     "logicStatement",
     "lgndOddModOut",
     "lgndNaughtyOrNice",
-    "timeAccumulation"
+    "timeAccumulation",
+    "NotCapacitorDischarge"
   ],
   "Operation": 1
 }
