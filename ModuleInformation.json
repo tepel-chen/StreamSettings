@@ -7648,6 +7648,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Quaternions",
+    "moduleID": "quaternions",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use \"!{0} submit 1234\", \"!{0} press 1234\", or \"!{0} 1234\" to submit your answer. Any previous input will automatically be cleared.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Question Mark",
     "moduleID": "Questionmark",
     "moduleScoreOverride": false,

@@ -601,7 +601,8 @@
     "NotWireSequence",
     "NotWiresword",
     "sequencesModule",
-    "R4YMultiColoredSwitches"
+    "R4YMultiColoredSwitches",
+    "quaternions"
   ],
   "Operation": 0
 }
