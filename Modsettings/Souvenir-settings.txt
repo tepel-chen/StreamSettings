@@ -1,0 +1,3 @@
+{
+  "ExcludeVanillaModules": false
+}
