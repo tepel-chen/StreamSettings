@@ -715,7 +715,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "To hold a given button at a specific time: \"!{0} hold l[eft]/m[iddle]/r[ight] at ##:##\" To tap a given button at a specific time: \"!{0} tap l[eft]/m[iddle]/r[ight] at ##:##\"\nTo release a button at a specific time based on the display or bomb timer: \"!{0} release display/bombtime at ##:##\" To release a button based on the seconds timer: \"!{0} release display/bombtime at ## ##\"\nTime format is MM:SS with MM being able to exceed 99 min, multiple time stamps are acceptable when releasing. To get the current time on the display: \"!{0} display time\"\nTo switch between stages: \"!{0} toggle/switch\" To activate colorblind mode: \"!{0} colorblind\" You can only activate colorblind mode or switch stages if you are NOT holding a button!",
+    "helpText": "To interact a given button at a specific time: \"!{0} hold/tap l[eft]/m[iddle]/r[ight] at ##:##\" Time format is MM:SS with MM being able to exceed 99 min, multiple time stamps are acceptable when releasing.\nTo release a button at a specific time based on the display or bomb timer: \"!{0} release display/bombtime at ##:##\" To release a button based on the seconds timer: \"!{0} release display/bombtime at ## ##\"\nTo get the current time on the display: \"!{0} display time\" To switch between stages: \"!{0} toggle/switch\"\nTo activate colorblind mode: \"!{0} colorblind\" You can only activate colorblind mode or switch stages if you are NOT holding a button!",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
