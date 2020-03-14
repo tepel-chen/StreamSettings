@@ -602,7 +602,10 @@
     "NotWiresword",
     "sequencesModule",
     "R4YMultiColoredSwitches",
-    "quaternions"
+    "quaternions",
+    "dungeon2",
+    "osu",
+    "kataWireOrdering"
   ],
   "Operation": 0
 }
