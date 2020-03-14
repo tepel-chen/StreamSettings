@@ -36,7 +36,7 @@
   "VoteCountdownTime": 60,
   "EnableVoting": true,
   "MinimumYesVotes": {
-    "Detonation": 100,
+    "Detonation": 75,
     "VSModeToggle": 51
   },
   "DynamicScorePercentage": 0.5,
