@@ -605,7 +605,9 @@
     "quaternions",
     "dungeon2",
     "osu",
-    "kataWireOrdering"
+    "kataWireOrdering",
+    "placeholderTalk",
+    "sorting"
   ],
   "Operation": 0
 }
