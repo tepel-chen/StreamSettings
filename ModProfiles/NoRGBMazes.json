@@ -1,6 +1,7 @@
 {
   "DisabledList": [
-    "rgbMaze"
+    "rgbMaze",
+    "faultyrgbMaze"
   ],
   "Operation": 1
 }
