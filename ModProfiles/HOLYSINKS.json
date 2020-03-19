@@ -607,7 +607,8 @@
     "osu",
     "kataWireOrdering",
     "placeholderTalk",
-    "sorting"
+    "sorting",
+    "punctuationMarks"
   ],
   "Operation": 0
 }

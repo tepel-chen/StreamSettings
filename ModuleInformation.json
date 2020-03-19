@@ -54,6 +54,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "...?",
+    "moduleID": "punctuationMarks",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "odule after a logic dive can be chained.gic dive. !{0} logic 1-9 to tap the button in that position in reading order. !{0} cut 1-3 to cut wires (Three Wires). !{0} press/tap 1-6 to press a button (Colored Buttons/Punctuation Buttons/Colored Piano/Colorful Message).  Commands that are related to a selected module after a logic dive can be chained. To press the small button in Colorful Message, do !{0} message.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "❖",
     "moduleID": "nonverbalSimon",
     "moduleScoreOverride": false,
