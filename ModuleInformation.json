@@ -3920,6 +3920,24 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "Forget The Colors",
+    "moduleID": "ForgetTheColors",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <##> (Cycles through both nixies to match '##', then hits submit. | Valid numbers are from 0-99)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": true
+  },
+  {
     "moduleDisplayName": "Forget Them All",
     "moduleID": "forgetThemAll",
     "moduleScoreOverride": false,
