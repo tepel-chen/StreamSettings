@@ -6238,7 +6238,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} <button> [Presses the specified button] | !{0} <button>,<button> [Presses the specified buttons] | Valid buttons are: TL, TM, TR, BL, BM, and BR",
+    "helpText": "To press a button: \"!{0} press tl top-left BR\" \"press\" is optional. Valid buttons are TL, TM, TR, BL, BM, and BR and numbered 1-6 in reading order. To enable colorblind mode: \"!{0} colorblind\" or \"!{0} colourblind\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -7173,7 +7173,7 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Osu!",
+    "moduleDisplayName": "osu!",
     "moduleID": "osu",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -8548,7 +8548,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...> Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>.| Build a street with !{0} build street <streetPosition>. StreetPositions are numbered in reading order. The 4 diagonal streets on the top are numbered 1,2,3,4.| The verticals in the next row are numbered 5,6,7. And so on...| Claim one or multiple ressources with !{0} hex <hexCardinal> <hexCardinal> <...>| Trade ressources using !{0} trade <ress><ress>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid ressources are BRICK, WOOD, ORE, GRAIN, WOOL.| Discard ressources durin thiefmode with !{0} discard <ress> <number>. e.g. !{0} discard brick 4 discards 4 brick.| Valid Cardinals are N,NE,SE... & 1,2,3,...(in reading order when referring to the Hex OR in clockwise order beginning at the t) & T,TR,BR...",
+    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...> Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>.| Build a street with !{0} build street <streetPosition>. StreetPositions are numbered in reading order. The 4 diagonal streets on the top are numbered 1,2,3,4.| The verticals in the next row are numbered 5,6,7. And so on...| Claim one or multiple ressources with !{0} hex <hexCardinal> <hexCardinal> <...>| Trade resources using !{0} trade <res> <res>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid ressources are BRICK, WOOD, ORE, GRAIN, WOOL.| Discard resources durin thiefmode with !{0} discard <ress> <number>. e.g. !{0} discard brick 4 discards 4 brick.| Valid Cardinals are N,NE,SE... & 1,2,3,...(in reading order when referring to the Hex OR in clockwise order beginning at the t) & T,TR,BR...",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
