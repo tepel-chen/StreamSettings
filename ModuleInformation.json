@@ -6096,7 +6096,7 @@
     "moduleScoreIsDynamic": null,
     "announceModule": false,
     "unclaimable": false,
-    "helpTextOverride": false,
+    "helpTextOverride": true,
     "helpText": "Type '!{0} start' to start the lesson. Type '!{0} press 1' (Or 'press button1') to answer with Answer 1. Buttons are 1, 2, 3 and 4 in reading order.",
     "manualCodeOverride": false,
     "manualCode": null,
