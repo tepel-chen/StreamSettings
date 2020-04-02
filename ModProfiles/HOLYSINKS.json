@@ -615,7 +615,9 @@
     "ForgetTheColors",
     "R4YRecoloredSwitches",
     "etterna",
-    "revPolNot"
+    "revPolNot",
+    "LabelPrioritiesModule",
+    "numberedButtonsModule"
   ],
   "Operation": 0
 }

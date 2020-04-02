@@ -5101,6 +5101,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Label Priorities",
+    "moduleID": "LabelPrioritiesModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} 1 3 4 to press buttons 1, 3 and 4 in order. Buttons start from 1 at the top.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Langton's Ant",
     "moduleID": "langtonAnt",
     "moduleScoreOverride": false,
@@ -6909,6 +6927,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Not Venting Gas",
+    "moduleID": "NotVentingGas",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} N | !{0} Y",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Not Who's on First",
     "moduleID": "NotWhosOnFirst",
     "moduleScoreOverride": false,
@@ -6993,6 +7029,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Numbered Buttons",
+    "moduleID": "numberedButtonsModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} 2 4 5 15 to press buttons 2, 4, 5 and 15 in reading order. Buttons start from 1 in the top left.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
