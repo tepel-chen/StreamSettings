@@ -3884,6 +3884,24 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "Forget Infinity",
+    "moduleID": "forgetInfinity",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Enter the sequence with \"!{0} press 01234\". To press the back space button, append as many \"back\" commands as needed to press the backspace button. 0-9 are acceptable digits. Space out the commands (digits excluded)!",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Forget It Not",
     "moduleID": "forgetItNot",
     "moduleScoreOverride": false,
@@ -11957,6 +11975,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Widdershins",
+    "moduleID": "widdershins",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} [left/right] [1-7]: Presses that arrow that many times. !{0} submit: Submits the current position. !{0} reset: Resets.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
