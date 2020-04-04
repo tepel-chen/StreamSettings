@@ -410,7 +410,7 @@
     "boastfulatol29": "User",
     "pkgn_iamerror": "User",
     "sparky_075": "User",
-    "cirax856": "Banned",
+    "cirax856": "User",
     "uppity_prince": "User",
     "howtodothiis": "User",
     "silverthehedgehog_1": "User",
@@ -507,7 +507,12 @@
     "tigerheart_xiii": "User",
     "ministerblack": "User",
     "としりん": "User",
-    "012820090892265": "User"
+    "012820090892265": "User",
+    "cheeseits1223": "User",
+    "dailyevilkiller": "User",
+    "garuda2002": "User",
+    "피씨": "User",
+    "eatrandy53": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -607,11 +612,6 @@
     },
     "gordohunter76543": {
       "BannedBy": "Strike_Kaboom",
-      "BannedReason": null,
-      "BanExpiry": "Infinity"
-    },
-    "cirax856": {
-      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     },
