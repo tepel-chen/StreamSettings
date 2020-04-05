@@ -1,4 +1,5 @@
 {
-  "ExcludeVanillaModules": false,
-  "ExcludeIgnoredModules": false
+  "ExcludeVanillaModules": true,
+  "ExcludeSouvenir": false,
+  "ExcludeIgnoredModules": true
 }
