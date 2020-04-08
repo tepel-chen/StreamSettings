@@ -512,7 +512,18 @@
     "dailyevilkiller": "User",
     "garuda2002": "User",
     "피씨": "User",
-    "eatrandy53": "User"
+    "eatrandy53": "User",
+    "biglittleorme": "User",
+    "adachor3": "User",
+    "gigiplay33": "User",
+    "haveagr8day1": "User",
+    "funnieman05": "User",
+    "liilnuggeet": "User",
+    "cloudgaming827": "User",
+    "pokeminee": "User",
+    "leonsuchy1": "Banned",
+    "sad_eva": "User",
+    "thealyssateam29": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -632,6 +643,11 @@
     },
     "livplaysyt": {
       "BannedBy": "MrPeanut1028",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "leonsuchy1": {
+      "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
