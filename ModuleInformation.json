@@ -162,6 +162,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "1D Maze",
+    "moduleID": "OneDimensionalMaze",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} up/down (#) [Press the up or down arrow (optionally '#' times)] | !{0} submit [Presses the LED]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "3D Maze",
     "moduleID": "spwiz3DMaze",
     "moduleScoreOverride": false,
