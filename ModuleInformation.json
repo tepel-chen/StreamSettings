@@ -3039,7 +3039,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} prev/previous [Presses the button 'previous'] | !{0} next [Presses the button 'next'] | !{0} toggle [Flips the switch] | !{0} toggle <word> [Flips the switch at the specified word (Will press 'next' at word if corresponding quirk rule applies)] | !{0} reset [Resets the module, ENTIRELY (new numbers/sets)]",
+    "helpText": "To press the \"previous\" button: \"!{0} prev\" or \"!{0} previous\", To press the \"next\" button: \"!{0} next\", \"Press\" is optional.\nTo flip/toggle the switch any time: \"!{0} toggle\" or \"!{0} flip\", To flip/toggle the switch on a specific keyword: \"!{0} toggle <word>\" or \"!{0} flip <word>\" This will press 'next' at the given word if corresponding quirk rule applies.\nTo start over or to reset the module ENTIRELY: \"!{0} reset\" or \"!{0} restart\" This WILL create new numbers and/or sets upon using this command!",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11586,6 +11586,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Uncolored Switches",
+    "moduleID": "R4YUncoloredSwitches",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} 1 2 3 4 5 [Toggles the specified switches where 1 is leftmost and 5 is rightmost]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
