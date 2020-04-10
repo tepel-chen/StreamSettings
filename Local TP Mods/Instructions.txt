@@ -27,6 +27,8 @@ The mods included in this folder are:
 - Sonic & Knuckles by Royal_Flu$h (Twitch Plays support)
 - Westeros by Royal_Flu$h (Twitch Plays and Gamepad support)
 - The Stock Market by Royal_Flu$h (Bugfixes)
+- Countdown by Royal_Flu$h (Bugfixes)
+- Cruel Countdown by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
 The Crystal Maze has a special Twitch Plays support where the support itself
