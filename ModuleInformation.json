@@ -4252,7 +4252,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 1234OC [O = OK, C = CLR, buttons are 1–4 in reading order]",
+    "helpText": "To press the following buttons: \"!{0} 1234OC\" Numbers 1-4 are the scrambled ATCG buttons from left to right with 1 being the left-most button; O for OK; C for CLR",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
