@@ -6115,7 +6115,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} submit [submit the singers]. !{0} (names) (names) (names) (names) [input the names].Names include: Limeboy, Sam, BananaLord, Strike, Jack, Weird, Finder, CrunchyBot, Cooldoom, Pruz, Kavinkul, Blanana, River, LordKabewm, Legend, RockDood, Kat, Timwi, Red, Emik. Names must have their corresponding letters capitalized.",
+    "helpText": "!{0} submit [submit the singers]. !{0} (names) (names) (names) (names) [input the names].Names include: Limeboy, Sam, BananaLord, Strike, Jack, Weird, Finder, CrunchyBot, Cooldoom, Pruz, Kavinkul, Blanana, River, LordKabewm, Legend, RockDood, Kat, Timwi, Red, Emik, Qkrisi. Names must have their corresponding letters capitalized.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
