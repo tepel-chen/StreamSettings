@@ -3598,6 +3598,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Fencing",
+    "moduleID": "fencing",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Press a key with \"!{0} press key(s)\"  where key can be: salute, wait, parry, follow, hand, head or torso. e.g. \"!{0} press parry torso\"",
+    "manualCodeOverride": false,
+    "manualCode": "Fencing",
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Festive Piano Keys",
     "moduleID": "FestivePianoKeys",
     "moduleScoreOverride": false,
@@ -6590,6 +6608,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Name Changer",
+    "moduleID": "nameChanger",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} l # [Presses the left button # of times.] | !{0} r # [Presses the right button # of times.] | !{0} u # [Presses the up button # of times] | !{0} d # [Presses the left button # of times] | !{0} submit [Presses the submit button.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
