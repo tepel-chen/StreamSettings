@@ -5,7 +5,10 @@
     "EdgeworkModule",
     "EncryptedValuesModule",
     "QRCode",
-    "silhouettes"
+    "silhouettes",
+    "redLightGreenLight",
+    "hyperneedy",
+    "boozleglyphIdentification"
   ],
   "Operation": 1
 }

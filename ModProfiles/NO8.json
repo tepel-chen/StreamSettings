@@ -65,7 +65,12 @@
     "needyWingdings",
     "lgndNaughtyOrNice",
     "LedSolver",
-    "silhouettes"
+    "silhouettes",
+    "redLightGreenLight",
+    "hyperneedy",
+    "boozleglyphIdentification",
+    "rotatingSquares",
+    "marcoPolo"
   ],
   "Operation": 1
 }
