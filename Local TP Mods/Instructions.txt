@@ -29,6 +29,7 @@ The mods included in this folder are:
 - The Stock Market by Royal_Flu$h (Bugfixes)
 - Countdown by Royal_Flu$h (Bugfixes)
 - Cruel Countdown by Royal_Flu$h (Bugfixes)
+- The Jewel Vault by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
 The Crystal Maze has a special Twitch Plays support where the support itself
