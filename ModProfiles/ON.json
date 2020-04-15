@@ -15,7 +15,8 @@
     "kataWireOrdering",
     "kataCheatCheckout",
     "AMessageForTheReader",
-    "AMessage"
+    "AMessage",
+    "nameChanger"
   ],
   "Operation": 1
 }
