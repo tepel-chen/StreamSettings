@@ -253,7 +253,7 @@
   },
   {
     "moduleDisplayName": "A Message",
-    "moduleID": "AMessageForTheReader",
+    "moduleID": "AMessage",
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
