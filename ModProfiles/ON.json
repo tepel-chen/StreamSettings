@@ -8,12 +8,12 @@
     "forgetUsNot",
     "calcModule",
     "oldFogey",
-    "skinnyWires",
     "Krit4CardMonte",
     "necronomicon",
     "kataWireOrdering",
     "kataCheatCheckout",
-    "nameChanger"
+    "nameChanger",
+    "pwGenerator"
   ],
   "Operation": 1
 }
