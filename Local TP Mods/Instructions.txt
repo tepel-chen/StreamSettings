@@ -26,10 +26,14 @@ The mods included in this folder are:
 - Spinning Buttons by Royal_Flu$h (Twitch Plays support)
 - Sonic & Knuckles by Royal_Flu$h (Twitch Plays support)
 - Westeros by Royal_Flu$h (Twitch Plays and Gamepad support)
+- Modulo by Royal_Flu$h (Improved TP Support)
+- Christmas Presents by Royal_Flu$h (Improved TP Support)
 - The Stock Market by Royal_Flu$h (Bugfixes)
 - Countdown by Royal_Flu$h (Bugfixes)
 - Cruel Countdown by Royal_Flu$h (Bugfixes)
 - The Jewel Vault by Royal_Flu$h (Bugfixes)
+- Skinny Wires by Royal_Flu$h (Bugfixes)
+- The Cube by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
 The Crystal Maze has a special Twitch Plays support where the support itself
