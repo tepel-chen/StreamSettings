@@ -33,7 +33,6 @@ The mods included in this folder are:
 - Cruel Countdown by Royal_Flu$h (Bugfixes)
 - The Jewel Vault by Royal_Flu$h (Bugfixes)
 - Skinny Wires by Royal_Flu$h (Bugfixes)
-- The Cube by Royal_Flu$h (Bugfixes)
 - Know Your Way by Joostoos (Module removed from workshop)
 
 The Crystal Maze has a special Twitch Plays support where the support itself
