@@ -8818,7 +8818,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "To submit the score on the current scoreboard, do !{0} submit [score] | To decide the result of the battle, submit !{0} flag [color] | Colors that are valid are: red, blue, and gray",
@@ -8828,7 +8828,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Rubik’s Clock",
