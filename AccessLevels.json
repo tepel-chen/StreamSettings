@@ -508,7 +508,7 @@
     "ministerblack": "User",
     "としりん": "User",
     "012820090892265": "User",
-    "cheeseits1223": "User",
+    "cheeseits1223": "Banned",
     "dailyevilkiller": "User",
     "garuda2002": "User",
     "피씨": "User",
@@ -523,7 +523,14 @@
     "pokeminee": "User",
     "leonsuchy1": "Banned",
     "sad_eva": "User",
-    "thealyssateam29": "User"
+    "thealyssateam29": "User",
+    "hhvanillaice": "User",
+    "dbros1000": "User",
+    "marksam32": "User",
+    "keksicperimetar": "User",
+    "sweedcircle2": "User",
+    "emalettin": "User",
+    "the_jaydawgggg": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -650,6 +657,11 @@
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
+    },
+    "cheeseits1223": {
+      "BannedBy": "K_S_",
+      "BannedReason": null,
+      "BanExpiry": 63723150349.205093
     }
   }
 }
