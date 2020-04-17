@@ -605,7 +605,7 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Answer to ...",
+    "moduleDisplayName": "Answer to...",
     "moduleID": "answerTo",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -6492,8 +6492,8 @@
     "moduleScoreIsDynamic": null,
     "announceModule": false,
     "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "Use '!{0} 123' to press the buttons  1, 2, 3. To submit your answer use '!{0} submit'! And use '!{0} clear' to clear your answer!",
+    "helpTextOverride": true,
+    "helpText": "Use !{0} submit <number> to submit the specified number!",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
