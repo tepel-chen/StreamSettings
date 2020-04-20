@@ -33,6 +33,7 @@ The mods included in this folder are:
 - Cruel Countdown by Royal_Flu$h (Bugfixes)
 - The Jewel Vault by Royal_Flu$h (Bugfixes)
 - Skinny Wires by Royal_Flu$h (Bugfixes)
+- Simon's Stages by Royal_Flu$h (Bugfixes)
 
 The Crystal Maze has a special Twitch Plays support where the support itself
 has its own manual! To replace the manual with the Twitch Plays variant
