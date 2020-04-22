@@ -6145,7 +6145,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} rgby to move North West South East.",
+    "helpText": "Use !{0} rgby to press the Red, Green, Blue, and Yellow buttons. Use !{0} Reset to reset the module.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
