@@ -508,7 +508,7 @@
     "ministerblack": "User",
     "としりん": "User",
     "012820090892265": "User",
-    "cheeseits1223": "Banned",
+    "cheeseits1223": "User",
     "dailyevilkiller": "User",
     "garuda2002": "User",
     "피씨": "User",
@@ -534,7 +534,21 @@
     "shrimpslime": "User",
     "amusment5678": "User",
     "spartan_sm": "User",
-    "emik03": "User"
+    "emik03": "User",
+    "setra4271": "User",
+    "lotsaninjas": "User",
+    "asapscuf": "User",
+    "jikjok05": "User",
+    "pepejam99": "User",
+    "virtuesglitch": "User",
+    "zlatartv": "User",
+    "ogausti": "User",
+    "playzroyale": "User",
+    "sineovex": "User",
+    "krisjaafer": "User",
+    "qt_da_best": "User",
+    "bakersdozenbagels": "User",
+    "stormyies": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -661,11 +675,6 @@
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
-    },
-    "cheeseits1223": {
-      "BannedBy": "K_S_",
-      "BannedReason": null,
-      "BanExpiry": 63723150349.205093
     }
   }
 }
