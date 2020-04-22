@@ -10072,6 +10072,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Stars",
+    "moduleID": "stars",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "To press the buttons that is in a star formation, use the command !{0} press [1-5] (You can perform the command in a chain) | To submit your answer, use the command !{0} submit | To clear all your inputs, use the command !{0} clear",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Sticky Notes",
     "moduleID": "stickyNotes",
     "moduleScoreOverride": false,
@@ -10189,6 +10207,24 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Switching Maze",
+    "moduleID": "MazeSwitching",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "To move in the maze, use the command !{0} north/south/east/west or up/down/left/right | To activate your current platform, use the command !{0} set",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
