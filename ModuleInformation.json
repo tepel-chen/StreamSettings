@@ -11633,7 +11633,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} hold/rel XX:XX/X:XX/XX/X [Holds or releases the button at the specified time (XX:XX/#X:XX/##:XX/##:#X)]",
+    "helpText": "!{0} hold/release XX:XX/X:XX/XX/X [Holds or releases the button at the specified time (XX:XX/#X:XX/##:XX/##:#X)]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
