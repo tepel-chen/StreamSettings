@@ -528,7 +528,7 @@
     "dbros1000": "User",
     "marksam32": "User",
     "keksicperimetar": "User",
-    "sweedcircle2": "User",
+    "sweedcircle2": "Banned",
     "emalettin": "User",
     "the_jaydawgggg": "User",
     "shrimpslime": "User",
@@ -548,7 +548,21 @@
     "krisjaafer": "User",
     "qt_da_best": "User",
     "bakersdozenbagels": "User",
-    "stormyies": "User"
+    "stormyies": "User",
+    "shotkaa": "User",
+    "nexenti": "User",
+    "aluqard_": "User",
+    "thehero6965": "User",
+    "locktits": "User",
+    "geekgamick": "User",
+    "woopxd": "User",
+    "timothy686": "User",
+    "darkknightc6": "User",
+    "billy_bao": "User",
+    "huughjass": "User",
+    "kompetenzghgenie": "User",
+    "kaigiak": "User",
+    "sweedcircle": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -673,6 +687,16 @@
     },
     "leonsuchy1": {
       "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "sweedcircle": {
+      "BannedBy": "MrPeanut1028",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "sweedcircle2": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
