@@ -18,7 +18,8 @@
     "encryptionBingo",
     "nameChanger",
     "burgerAlarm",
-    "MinesweeperModule"
+    "MinesweeperModule",
+    "mysterymodule"
   ],
   "Operation": 1
 }
