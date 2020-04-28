@@ -562,7 +562,22 @@
     "huughjass": "User",
     "kompetenzghgenie": "User",
     "kaigiak": "User",
-    "sweedcircle": "Banned"
+    "sweedcircle": "Banned",
+    "pepe_0_": "User",
+    "not_rsd": "User",
+    "stepyman5": "User",
+    "cky1975": "User",
+    "zumaniac": "User",
+    "gaming08397": "Banned",
+    "th3sm0k3ybear": "User",
+    "glocksic": "User",
+    "poppers1234": "User",
+    "roadstertracker": "User",
+    "th3sh4dow1": "User",
+    "jhessel": "User",
+    "fickdich11": "User",
+    "swiitchu": "User",
+    "twitch_ekone": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -697,6 +712,16 @@
     },
     "sweedcircle2": {
       "BannedBy": "MrPeanut1028",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "gaming08397": {
+      "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "twitch_ekone": {
+      "BannedBy": "xmaster6726",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
