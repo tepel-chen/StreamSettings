@@ -577,7 +577,22 @@
     "jhessel": "User",
     "fickdich11": "User",
     "swiitchu": "User",
-    "twitch_ekone": "Banned"
+    "twitch_ekone": "Banned",
+    "draistis": "User",
+    "copyright48": "User",
+    "tpptrumpet": "User",
+    "goofy1807": "User",
+    "starrydafolf": "User",
+    "anczak_xd": "User",
+    "cookiepocalypse": "User",
+    "yayvinny2": "User",
+    "tyg8mer": "User",
+    "orinamiii": "User",
+    "pruz_": "User",
+    "danybad": "User",
+    "somethingudontsee": "Banned",
+    "sw3atercs": "User",
+    "iundercovertroll": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -721,6 +736,11 @@
       "BanExpiry": "Infinity"
     },
     "twitch_ekone": {
+      "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "somethingudontsee": {
       "BannedBy": "xmaster6726",
       "BannedReason": null,
       "BanExpiry": "Infinity"
