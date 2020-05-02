@@ -605,7 +605,7 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Answer to...",
+    "moduleDisplayName": "Answer to ...",
     "moduleID": "answerTo",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -613,7 +613,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "'!{0} # # # #' to input numbers into the module, Button index is the same as the label | '!{0} submit' to press the submit button | '!{0} clear' to clear the input",
+    "helpText": null,
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11795,7 +11795,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press <#> (#)... [Press the button when the number of seconds remaining on the counter is <#> (or (#) and so on)] | Reference currently lit arrows for seconds remaining (1-9)",
+    "helpText": "!{0} press <#> (#)... [Press the button when the number of seconds remaining on the counter is <#> (or (#) and so on)] | Reference currently lit arrows for seconds remaining (1-9), actual seconds remaining is slightly extended in TP",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
