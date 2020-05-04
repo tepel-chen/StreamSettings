@@ -1739,7 +1739,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} submit <num> [Submits the answer with the coefficient of <num>, valid answers range from -9 to 9]",
+    "helpText": "!{0} submit <num> [Submits the answer with the coefficient of <num>] | Valid answers range from -9 to 9",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
