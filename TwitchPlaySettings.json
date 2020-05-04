@@ -117,6 +117,7 @@
     "NoRPS",
     "NoRAM",
     "NoMM",
+    "NoIconic",
     "\nModules Profiles",
     "NoAnt",
     "NoBA",
