@@ -782,6 +782,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Badugi",
+    "moduleID": "ksmBadugi",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Choose the left or right hand with '!{0} left' or '!{0} right'. Switch decks with '!{0} deck <name>'. (Try 'default' or 'four-color'; there may be others.)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Bamboozled Again",
     "moduleID": "bamboozledAgain",
     "moduleScoreOverride": false,
