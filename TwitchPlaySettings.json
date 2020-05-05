@@ -67,7 +67,7 @@
   "TimeModeTimeForActions": true,
   "AutoSetVSModeTeams": true,
   "VSModeBalancedTeams": true,
-  "VSModePlayerLockout": true,
+  "VSModePlayerLockout": false,
   "VSModeGoodSplit": 35,
   "EnableFactoryTrainingModeCameraWall": true,
   "EnableFactoryAutomaticNextBomb": true,

@@ -5130,7 +5130,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} press <coord> [Presses the pixel as the specified coordinate] | Valid coordinates are A1-AF32 (after Z it becomes AA)",
@@ -5140,7 +5140,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Identity Parade",
@@ -9415,7 +9415,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...> Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>.| Build a street with !{0} build street <hexCardinal> <CardinalOfThatHex>. | Claim one or multiple ressources with !{0} hex <hexCardinal> <hexCardinal> <...>| Trade resources using !{0} trade <res> <res>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid ressources are BRICK, WOOD, ORE, GRAIN, WOOL.| Discard resources durin thiefmode with !{0} discard <ress> <number>. e.g. !{0} discard brick 4, discards 4 brick.| Valid Cardinals are N,NE,SE... & T,TR,BR...",
+    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...> Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>.| Build a street with !{0} build street <hexCardinal> <CardinalOfThatHex>. | Claim one or multiple ressources with !{0} hex <hexCardinal> <hexCardinal> <...>| Trade resources using !{0} trade <res> <res>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid ressources are BRICK, WOOD, ORE, GRAIN, WOOL.| Discard resources durin thiefmode with !{0} discard <ress> <number>. e.g. !{0} discard brick 4, discards 4 brick.| Valid Cardinals are N,NE,SE... & T,TR,BR,M,C... !{0} toggleNoSolveMode <-- its self-explanatory @L.W. :P",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
