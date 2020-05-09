@@ -665,15 +665,12 @@
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
     "announceModule": false,
-    "unclaimable": false,
+    "unclaimable": true,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "Zoom the module ('!{0} zoom 60') to appreciate the art.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
