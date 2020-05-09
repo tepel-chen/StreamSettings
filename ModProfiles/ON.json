@@ -6,9 +6,7 @@
     "TextAdventureModule",
     "MagickaModule",
     "oldFogey",
-    "asciiArt",
     "R4YMultiColoredSwitches",
-    "elderPassword",
     "theSamsung",
     "manometers",
     "answerTo",
@@ -16,7 +14,9 @@
     "nameChanger",
     "KritLockpickMaze",
     "punctuationMarks",
-    "SquaresOfMisery"
+    "burgerAlarm",
+    "Krit4CardMonte",
+    "kataCheatCheckout"
   ],
   "Operation": 1
 }
