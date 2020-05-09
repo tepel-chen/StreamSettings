@@ -7269,6 +7269,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Negativity",
+    "moduleID": "Negativity",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit presses the submit button | !{0} clear presses the clear button | !{0} [- or +] delivers the answer to the module (This command can be performed in a chain)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Neutralization",
     "moduleID": "neutralization",
     "moduleScoreOverride": false,
