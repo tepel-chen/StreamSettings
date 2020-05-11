@@ -15,7 +15,11 @@
     "KritLockpickMaze",
     "punctuationMarks",
     "Krit4CardMonte",
-    "kataCheatCheckout"
+    "kataCheatCheckout",
+    "moduleListening",
+    "kataDeckCreating",
+    "tetriamonds",
+    "yesandno"
   ],
   "Operation": 1
 }
