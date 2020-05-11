@@ -12061,7 +12061,7 @@
     "helpTextOverride": false,
     "helpText": "Press a button with “!{0} tl” or “!{0} 1”. Buttons are tl, tm, tr, ml, mm, mr, bl, bm, br, or numbered 1–9 in reading order. Use “!{0} pass” or “!{0} 0” to press the PASS button.",
     "manualCodeOverride": false,
-    "manualCode": "Tic-Tac-Toe",
+    "manualCode": "Tic Tac Toe",
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
