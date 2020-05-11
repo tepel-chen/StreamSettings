@@ -53,6 +53,7 @@
   "MinScoreForNewbomb": 100,
   "StrikePenalty": 6,
   "ModuleToStrikeRatio": 8,
+  "PacingEventsOnRunBomb": true,
   "EnableTimeModeForEveryone": true,
   "TimeModeStartingTime": 7,
   "TimeModeStartingMultiplier": 9.0,
@@ -212,110 +213,348 @@
     "BombCreatorAllowedToHaveMoreNeedyThanSolvable": false,
     "ColorblindHelperEnabled": true
   },
-  "ModDistributions": {
+  "ModDistributionSettings": {
     "vanilla": {
       "DisplayName": "Vanilla",
-      "Vanilla": 1.0,
-      "Modded": 0.0,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "extralight": {
-      "DisplayName": "Extra Light",
-      "Vanilla": 0.9,
-      "Modded": 0.1,
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, BASE",
+          "Weight": 1.0
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": false
     },
     "light": {
-      "DisplayName": "Light",
-      "Vanilla": 0.8,
-      "Modded": 0.2,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "lightmixed": {
-      "DisplayName": "Mixed Light",
-      "Vanilla": 0.67,
-      "Modded": 0.33,
+      "DisplayName": "Mods",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, BASE",
+          "Weight": 0.8
+        },
+        {
+          "Definition": "ALL_SOLVABLE, MODS",
+          "Weight": 0.2
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": true
     },
-    "mixedlight": {
-      "DisplayName": "Mixed Light",
-      "Vanilla": 0.67,
-      "Modded": 0.33,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
     "mixed": {
-      "DisplayName": "Mixed",
-      "Vanilla": 0.5,
-      "Modded": 0.5,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "mixedheavy": {
-      "DisplayName": "Mixed Heavy",
-      "Vanilla": 0.33,
-      "Modded": 0.67,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "heavymixed": {
-      "DisplayName": "Mixed Heavy",
-      "Vanilla": 0.33,
-      "Modded": 0.67,
+      "DisplayName": "Mods",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, BASE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "ALL_SOLVABLE, MODS",
+          "Weight": 0.5
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": true
     },
     "heavy": {
-      "DisplayName": "Heavy",
-      "Vanilla": 0.2,
-      "Modded": 0.8,
+      "DisplayName": "Mods",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, BASE",
+          "Weight": 0.2
+        },
+        {
+          "Definition": "ALL_SOLVABLE, MODS",
+          "Weight": 0.8
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
-      "Hidden": false
-    },
-    "extraheavy": {
-      "DisplayName": "Extra Heavy",
-      "Vanilla": 0.1,
-      "Modded": 0.9,
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
+      "Hidden": true
     },
     "mods": {
-      "DisplayName": "Modded",
-      "Vanilla": 0.0,
-      "Modded": 1.0,
+      "DisplayName": "Mods",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, MODS",
+          "Weight": 1.0
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": false
     },
     "fair": {
-      "DisplayName": "Fair mix",
-      "Vanilla": 0.0,
-      "Modded": 0.0,
+      "DisplayName": "Fair Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "fair+needy": {
+      "DisplayName": "Fair + Needy",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        },
+        {
+          "Definition": "ALL_NEEDY, MODS",
+          "Weight": 0.0,
+          "Reward": 20,
+          "Time": 0
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "lighteasy": {
+      "DisplayName": "Light Easy Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.7
+        },
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 0.3,
+          "Reward": 3,
+          "Time": 120
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "easy": {
+      "DisplayName": "Easy Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 0.5,
+          "Reward": 3,
+          "Time": 120
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "heavyeasy": {
+      "DisplayName": "Heavy Easy Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.2
+        },
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 0.8,
+          "Reward": 3,
+          "Time": 120
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "alleasy": {
+      "DisplayName": "All Easy",
+      "Pools": [
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 1.0,
+          "Reward": 3,
+          "Time": 120
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "lightmedium": {
+      "DisplayName": "Light Medium Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.7
+        },
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 0.3
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "medium": {
+      "DisplayName": "Medium Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 0.5
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "heavymedium": {
+      "DisplayName": "Heavy Medium Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.2
+        },
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 0.8
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "allmedium": {
+      "DisplayName": "All Medium",
+      "Pools": [
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 1.0
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "lighthard": {
+      "DisplayName": "Light Hard Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.7
+        },
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 0.3,
+          "Reward": 10,
+          "Time": 240
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "hard": {
+      "DisplayName": "Hard Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 0.5,
+          "Reward": 10,
+          "Time": 240
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "heavyhard": {
+      "DisplayName": "Heavy Hard Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.8
+        },
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 0.2,
+          "Reward": 10,
+          "Time": 240
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "allhard": {
+      "DisplayName": "All Hard",
+      "Pools": [
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 1.0,
+          "Reward": 10,
+          "Time": 240
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "variety": {
+      "DisplayName": "Variety Mix",
+      "Pools": [
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 0.3,
+          "Reward": 3,
+          "Time": 120
+        },
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 0.25
+        },
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 0.2,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.25
+        }
+      ],
       "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
@@ -394,6 +633,7 @@
   "RunCommandDisabled": "Sorry @{0}, Only authorized users may use the !run command.",
   "ProfileCommandDisabled": "Sorry @{0}, profile management is currently disabled.",
   "RetryInactive": "Sorry, retry is inactive. Returning to hallway instead.",
+  "RetryModeOrProfileChange": "There has been a change to profiles and/or game modes since the last bomb. Returning to hallway instead.",
   "ProfileActionUseless": "That profile ({0}) is already {1}.",
   "ProfileNotWhitelisted": "That profile ({0}) cannot be enabled/disabled.",
   "ProfileListEnabled": "Currently enabled profiles: {0}",
