@@ -4547,6 +4547,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Goofy's Game",
+    "moduleID": "goofysgame",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} 12345 [input 12345] | !{0} submit [press submit] | !{0} del 12 [press delete 12 times]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Graffiti Numbers",
     "moduleID": "graffitiNumbers",
     "moduleScoreOverride": false,
@@ -7033,7 +7051,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press 1/2/3/4/5 [presses the button in that position from top to bottom]",
+    "helpText": "!{0} press <1/2/3/4/5> [presses the button in that position from top to bottom]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
