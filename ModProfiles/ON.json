@@ -9,7 +9,6 @@
     "manometers",
     "answerTo",
     "powModule",
-    "nameChanger",
     "KritLockpickMaze",
     "punctuationMarks",
     "Krit4CardMonte",
@@ -17,7 +16,9 @@
     "kataDeckCreating",
     "V",
     "intervals",
-    "R4YMultiColoredSwitches"
+    "R4YMultiColoredSwitches",
+    "robotProgramming",
+    "StandardCrazyTalk"
   ],
   "Operation": 1
 }
