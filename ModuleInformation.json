@@ -10591,6 +10591,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Standard Crazy Talk",
+    "moduleID": "StandardCrazyTalk",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} cycle to cycle all the top buttons. Use !{0} highlight 1-5 to highligt specific button along the top. Use !{0} press (tl|tr|bl|br|sl) to press in 4 corners and a status light.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Stars",
     "moduleID": "stars",
     "moduleScoreOverride": false,
