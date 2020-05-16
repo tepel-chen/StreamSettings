@@ -325,6 +325,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Accelerando",
+    "moduleID": "accelerando",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} go/start [press the GO button] | !{0} WLMN [press these letters (note: This will also press the GO button)]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Accumulation",
     "moduleID": "accumulation",
     "moduleScoreOverride": false,
