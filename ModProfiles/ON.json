@@ -17,9 +17,9 @@
     "V",
     "intervals",
     "robotProgramming",
-    "tetriamonds",
     "modkit",
-    "veryAnnoyingButton"
+    "MinesweeperModule",
+    "encryptedHangman"
   ],
   "Operation": 1
 }
