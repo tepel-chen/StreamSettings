@@ -119,6 +119,8 @@
     "NoRAM",
     "NoMM",
     "NoIconic",
+    "NoHM",
+    "NoHeart",
     "\nModules Profiles",
     "NoAnt",
     "NoBA",

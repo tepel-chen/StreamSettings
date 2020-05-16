@@ -3528,6 +3528,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Encrypted Hangman",
+    "moduleID": "encryptedHangman",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} select ABCDEFG to enter or query those letters. WARNING: The command will not stop upon querying a wrong letter! ",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": true
+  },
+  {
     "moduleDisplayName": "Encrypted Morse",
     "moduleID": "EncryptedMorse",
     "moduleScoreOverride": false,
@@ -5848,6 +5866,24 @@
     "manualCodeOverride": false,
     "manualCode": "Letter%20Keys",
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Life Iteration",
+    "moduleID": "LifeIteration",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Clear the grid: !{0} clear. Toggle a cell by giving its coordinate: !{0} a1 b2. Submit your answer: !{0} submit. Reset back to the intial state: !{0} reset. All commands are chainable.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11025,7 +11061,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} press pink blue green yellow to press buttons. You can also use the first letters, or positions.",
+    "helpText": "Use !{0} press pink blue green yellow to press buttons. You can also use the first letters, or positions. Use !{0} colorblind to toggle colorblind mode.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11527,6 +11563,24 @@
     "manualCode": null,
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Heart",
+    "moduleID": "TheHeart",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} defibrillate' to defibrillate the heart. Append with seconds (00-59) to defibrillate the heart at that specific amount of seconds, eg.: '!{0} defibrillate 00' to defibrillate on the whole minute exactly.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "The Hexabutton",
