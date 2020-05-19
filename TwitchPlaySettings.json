@@ -561,6 +561,23 @@
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": false
+    },
+    "extraheavy": {
+      "DisplayName": "Extra Heavy",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE, BASE",
+          "Weight": 0.1
+        },
+        {
+          "Definition": "ALL_SOLVABLE, MODS",
+          "Weight": 0.9
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": true
     }
   },
   "TwitchBotColorOnQuit": "",
