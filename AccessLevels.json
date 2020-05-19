@@ -598,7 +598,17 @@
     "lkva": "User",
     "ghostsalt12": "User",
     "alberozuko": "User",
-    "ctrike": "User"
+    "ctrike": "User",
+    "tehsecretgeek": "User",
+    "aiden_miller07": "Banned",
+    "procyon_ktane": "User",
+    "mandarancio": "User",
+    "ob3vious": "User",
+    "riwiri": "User",
+    "wafuh": "User",
+    "simpleuserna": "User",
+    "acorlei": "User",
+    "st3vi3wond3r": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -748,6 +758,11 @@
     },
     "somethingudontsee": {
       "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "aiden_miller07": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
