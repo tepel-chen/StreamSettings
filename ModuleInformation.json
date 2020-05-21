@@ -4933,7 +4933,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} start [start listening to the sequence] | !{0} stop [stop listening] | !{0} sound 1,2,3,4 [presses buttons in that order] | !{0} instrument music/xylo/piano/harp [sets the instrument] | !{0} reset [clears all inputted sounds]",
+    "helpText": "!{0} start [start listening to the sequence] | !{0} stop [stop listening] | !{0} sound 1234 [presses buttons in that order, with 1 being the left most button] | !{0} instrument music/xylo/piano/harp [sets the instrument] | !{0} reset [clears all inputted sounds]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
