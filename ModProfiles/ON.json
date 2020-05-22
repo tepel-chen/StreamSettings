@@ -15,7 +15,8 @@
     "modkit",
     "nameChanger",
     "kataCheatCheckout",
-    "accelerando"
+    "accelerando",
+    "switchModule"
   ],
   "Operation": 1
 }
