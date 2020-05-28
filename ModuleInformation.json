@@ -5770,6 +5770,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Kyudoku",
+    "moduleID": "kyudoku",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} A1,C3,D5 [Toggle cells A1, C3 and D5] | !{0} set A1,C3,D5 [Circle cells A1, C3 and D5] | !{0} reset [Resets the module]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Label Priorities",
     "moduleID": "LabelPrioritiesModule",
     "moduleScoreOverride": false,
