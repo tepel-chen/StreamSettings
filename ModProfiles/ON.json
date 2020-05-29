@@ -5,9 +5,7 @@
     "複雑漢字Module",
     "TextAdventureModule",
     "MagickaModule",
-    "oldFogey",
     "manometers",
-    "answerTo",
     "punctuationMarks",
     "Krit4CardMonte",
     "modkit",
@@ -15,9 +13,10 @@
     "kataCheatCheckout",
     "theSamsung",
     "alphabeticalRuling",
-    "CruelGarfieldKart",
     "R4YNeedyFlowerMash",
-    "KritLockpickMaze"
+    "KritLockpickMaze",
+    "SettlersOfKTaNE",
+    "kookyKeypadModule"
   ],
   "Operation": 1
 }
