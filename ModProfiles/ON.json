@@ -18,10 +18,10 @@
     "SettlersOfKTaNE",
     "kookyKeypadModule",
     "xtrpasscodes",
-    "kataWireOrdering",
     "colourcode",
     "BlindMaze",
-    "GuessWho"
+    "GuessWho",
+    "kataDeckCreating"
   ],
   "Operation": 1
 }
