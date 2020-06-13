@@ -13882,6 +13882,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Wolf, Goat, and Cabbage",
+    "moduleID": "wolfGoatCabbageModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} c/cycle to cycle for creatures. Use !{0} reset to reset the module. Use !{0} board/aboard <creature> to board the specified creatures. The module will press aboard button if <creatures> is empty. Use !{0} left/right <1-digit number> to press the left or right button that many times. Default to 1 press if number is not specified. Use !{0} row to press row button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Wonder Cipher",
     "moduleID": "WonderCipher",
     "moduleScoreOverride": false,
