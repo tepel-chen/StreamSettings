@@ -12720,7 +12720,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} select led,arrows [Selects the specified component(s), in this example 'led' and 'arrows'] | !{0} cut wire 1,4 [Cuts the specified wire(s), in this example wire 1 & 4] | !{0} press right,alpha2,symbol1,bigdiamond [Presses the specified button(s), in this example the right arrow, 2nd alphabet, 1st symbol, and big diamond] | !{0} press bigdiamond at <#> [Presses the 'Big Diamond' button when the last digit of the number of seconds remaining is <#>] | Commands may be chained with a semicolon",
+    "helpText": "Select the specified component(s) with \"!{0} select led,arrows\" (In this example, select 'led' and 'arrows'). To cut the specified wire(s): \"!{0} cut wire 1,4\" (in this example wires 1 & 4) \nPress the specified buttons with \"!{0} press right,alpha2,symbol1,bigdiamond\" (In this example, the right arrow, 2nd alphabet, 1st symbol, and big diamond) Press '❖' based on the last seconds digit with: \"!{0} press bigdiamond at <#>\" Interaction commands may be chained with a semicolon (\";\", I.E \"!{0} select wires; cut wire 5\"). Combine presses/wire cuts with a comma (\",\")",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
