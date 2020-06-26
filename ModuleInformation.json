@@ -54,24 +54,6 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "% Grey",
-    "moduleID": "PercentageGreyModule",
-    "moduleScoreOverride": false,
-    "moduleScore": null,
-    "moduleScoreIsDynamic": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} <percent> [Holds the module backing and releases when the module displays the specified percentage]",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
     "moduleDisplayName": "...?",
     "moduleID": "punctuationMarks",
     "moduleScoreOverride": false,
