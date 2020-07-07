@@ -3,7 +3,7 @@
   "AnarchyMode": false,
   "SkipModManagerInstructionScreen": false,
   "EnableRewardMultipleStrikes": true,
-  "EnableWhispers": true,
+  "EnableWhispers": false,
   "WhisperCommandsRequireExclaimationPoint": true,
   "EnableMissionBinder": true,
   "EnableFreeplayBriefcase": true,
