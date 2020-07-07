@@ -1897,7 +1897,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} submit 1101001010 (Sets the binary to 1101001010, then submits.)",
@@ -1907,7 +1907,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Button Grid",
