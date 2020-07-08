@@ -11338,6 +11338,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Simon's Ultimate Showdown",
+    "moduleID": "simonsUltimateShowdownModule",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <colors> [Presses the specified colors (no full color names)] | !{0} colorblind [Toggles colorblind mode] | Valid colors are R(ed), B(lue), Y(ellow), O(range), M(agenta), G(reen), (p)I(nk), P(urple), L(ime), C(yan), and W(hite)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Sink",
     "moduleID": "Sink",
     "moduleScoreOverride": false,
