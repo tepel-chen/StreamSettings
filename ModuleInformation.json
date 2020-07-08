@@ -9555,6 +9555,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Prime Time",
+    "moduleID": "primeTime",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} 420' to press the button when the bomb timer has 420 seconds left. Commands can be chained using spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Probing",
     "moduleID": "Probing",
     "moduleScoreOverride": false,
