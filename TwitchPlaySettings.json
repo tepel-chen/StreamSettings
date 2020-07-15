@@ -75,6 +75,8 @@
   "EnableZenModeForEveryone": true,
   "EnableTrainingModeForEveryone": true,
   "EnableFilledgeworkForEveryone": true,
+  "EnableDMGForEveryone": false,
+  "TrainingModeDetonationTime": 120,
   "MinTimeLeftForClaims": 60,
   "MinUnsolvedModulesLeftForClaims": 3,
   "IRCManagerBackgroundImage": "C:/Users/mrpea/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\\TwitchPlaysIRCManagerBackground.png",
