@@ -680,7 +680,16 @@
     "xxkatonaxx": "User",
     "joncv": "User",
     "happycoooow": "User",
-    "vycter": "User"
+    "vycter": "User",
+    "burniel": "User",
+    "twysted_abyss": "User",
+    "arceehh": "User",
+    "alucardisok": "User",
+    "im_a_meme_lord": "User",
+    "tanguilol": "User",
+    "threepointman34": "User",
+    "sniperkid1395": "User",
+    "renatozz1": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -835,6 +844,11 @@
     },
     "aiden_miller07": {
       "BannedBy": "MrPeanut1028",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "renatozz1": {
+      "BannedBy": "xmaster6726",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }

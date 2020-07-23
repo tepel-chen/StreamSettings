@@ -92,7 +92,7 @@
   {
     "moduleDisplayName": "0",
     "moduleID": "0",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
     "announceModule": false,
@@ -3651,7 +3651,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} hour/minute add <#> // set <##:##> // mode // reset // temp. Time specified are to be 24 hour format.",
+    "helpText": "Use !{0} hours/minutes add <#> // set <##:##> // mode // reset // temp. Time specified are to be 24 hour format.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -8171,7 +8171,7 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Multi-Colored Switches",
+    "moduleDisplayName": "Multicolored Switches",
     "moduleID": "R4YMultiColoredSwitches",
     "moduleScoreOverride": false,
     "moduleScore": null,
@@ -12431,7 +12431,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} submit <num> [Submits the specified number ONLY IF it is in base 4. The highest an answer can be is 2 digits]",
+    "helpText": "!{0} submit <num> [Submits the specified number ONLY IF it is in base 4] | Valid numbers cannot contain more than 2 digits",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
