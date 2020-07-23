@@ -3480,6 +3480,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "D-CODE",
+    "moduleID": "xelDcode",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <glyph> at <#> [Presses the specified glyph when the last digit of the bomb's timer is '#'] | Valid glyphs are left, middle, and right",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Deaf Alley",
     "moduleID": "deafAlleyModule",
     "moduleScoreOverride": false,
@@ -6062,6 +6080,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Increasing Indices",
+    "moduleID": "increasingIndices",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit roots for x with “!{0} press 1 -1”.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10380,6 +10416,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "ReGret-B Filtering",
+    "moduleID": "regretbFiltering",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} 1' to move to stage 1. '!{0} #D42069' to insert hex code #D42069. On Twitch Plays, the system allows for submit delays of 15 seconds (2 LEDs on max).",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Regular Crazy Talk",
     "moduleID": "RegularCrazyTalkModule",
     "moduleScoreOverride": false,
@@ -12528,6 +12582,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Tell Me When",
+    "moduleID": "GSTellMeWhen",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'Use !{0} 07' to press the button, then press it again when the timer displays 07. Note that single digit numbers need to be preceded with a 0.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
