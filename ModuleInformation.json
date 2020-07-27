@@ -4285,6 +4285,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Entry Number Four",
+    "moduleID": "GSEntryNumberFour",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} 1234567890' to type in 1234567890 and use '!{0} submit' to press the 'GO' button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Equations",
     "moduleID": "equations",
     "moduleScoreOverride": false,
@@ -9576,6 +9594,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Pitch Perfect",
+    "moduleID": "pitchPerfect",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} [note name] to cycle screen to that note. Use # for sharp and b for flat. Either flat, sharp, or both will work (ie c#, db, and c#/db will work) Type !{0} play to play stage note, !{0} ref to play reference, !{0} submit to submit. Next stage note will automatically play on a correct answer.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Pixel Art",
     "moduleID": "PixelArt",
     "moduleScoreOverride": false,
@@ -13310,6 +13346,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Kanye Encounter",
+    "moduleID": "TheKanyeEncounter",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} # to select the corresponding option. Use !{0} highlight to highlight the module (the module will need to be highlighted in order to see the options).",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
