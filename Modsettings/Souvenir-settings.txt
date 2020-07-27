@@ -1,7 +1,6 @@
 {
   "ExcludeVanillaModules": true,
   "ExcludeIgnoredModules": true,
-  "ExcludeMinibossModules": false,
   "ExcludeMysteryModule": true,
   "ExcludeSouvenir": false
 }

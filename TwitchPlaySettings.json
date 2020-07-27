@@ -43,7 +43,7 @@
   "EnableTwitchPlayShims": true,
   "UnsubmittablePenaltyPercent": 0.3,
   "UnclaimedColor": "0, 255, 0",
-  "ShowModuleDifficulty": false,
+  "ShowModuleDifficulty": true,
   "ShowModuleType": true,
   "AllowTurnTheKeyEarlyLate": true,
   "DisableTurnTheKeysSoftLock": false,
@@ -238,7 +238,7 @@
       ],
       "MinModules": 1,
       "MaxModules": 101,
-      "Enabled": true,
+      "Enabled": false,
       "Hidden": false
     },
     "light": {
@@ -302,7 +302,7 @@
       ],
       "MinModules": 1,
       "MaxModules": 101,
-      "Enabled": true,
+      "Enabled": false,
       "Hidden": false
     },
     "fair": {
