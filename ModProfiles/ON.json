@@ -14,10 +14,11 @@
     "SettlersOfKTaNE",
     "lunchtime",
     "nameChanger",
-    "kataCheatCheckout",
     "punctuationMarks",
-    "sphere",
-    "Binary"
+    "Binary",
+    "FaultyBinary",
+    "TheArena",
+    "robotProgramming"
   ],
   "Operation": 1
 }
