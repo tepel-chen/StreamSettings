@@ -298,7 +298,7 @@
     "definenull": "User",
     "xxjamie_xx": "User",
     "meoweycupentcmc": "User",
-    "xmaster6726": "Defuser, Admin",
+    "xmaster6726": "Admin",
     "perichole": "User",
     "ockerjj": "User",
     "short_c1rcu1t": "User",
@@ -698,7 +698,24 @@
     "the_iron_kaiser": "User",
     "daffafm20": "User",
     "boyyyyy152": "User",
-    "wubsyman": "User"
+    "wubsyman": "User",
+    "nshep98": "User",
+    "sky__a": "User",
+    "sizeofjacksforehead": "User",
+    "snapson111": "User",
+    "apple26548": "User",
+    "aquilla1734": "User",
+    "끠씨": "User",
+    "wow_its_a_logan": "User",
+    "seanciphermsater3": "User",
+    "sadceasar": "User",
+    "marlondasphantom": "User",
+    "kumaboi615": "User",
+    "rubybfb": "User",
+    "slothgamerhd": "User",
+    "smartbrain95": "User",
+    "fdg_man": "User",
+    "kaoscola": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -857,6 +874,11 @@
       "BanExpiry": "Infinity"
     },
     "renatozz1": {
+      "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "kaoscola": {
       "BannedBy": "xmaster6726",
       "BannedReason": null,
       "BanExpiry": "Infinity"
