@@ -18,7 +18,12 @@
     "Binary",
     "FaultyBinary",
     "TheArena",
-    "robotProgramming"
+    "assemblyCode",
+    "speakEnglish",
+    "regretbFiltering",
+    "GSTellMeWhen",
+    "neutrinos",
+    "JustNumbersModule"
   ],
   "Operation": 1
 }
