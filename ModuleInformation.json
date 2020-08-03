@@ -14261,7 +14261,7 @@
     "helpText": "Do nothing.",
     "manualCodeOverride": false,
     "manualCode": null,
-    "statusLightPosition": "Default",
+    "statusLightPosition": "BottomRight",
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
