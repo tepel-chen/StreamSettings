@@ -15,15 +15,11 @@
     "lunchtime",
     "nameChanger",
     "punctuationMarks",
-    "Binary",
-    "FaultyBinary",
-    "TheArena",
     "assemblyCode",
     "speakEnglish",
-    "regretbFiltering",
-    "GSTellMeWhen",
     "neutrinos",
-    "JustNumbersModule"
+    "JustNumbersModule",
+    "kataCheatCheckout"
   ],
   "Operation": 1
 }
