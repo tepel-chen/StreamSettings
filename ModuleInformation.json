@@ -294,7 +294,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} hold (Starts the number cycle) | !{0} release [1-11] (Releases at the specified number (11 is blank))",
@@ -304,7 +304,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "501",
@@ -312,7 +312,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} hold (Starts the number cycle) | !{0} release [1-11] (Releases at the specified number (11 is blank))",
@@ -322,7 +322,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "64",
