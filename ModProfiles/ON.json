@@ -10,7 +10,6 @@
     "GuessWho",
     "omegaForget",
     "KritLockpickMaze",
-    "Cookieclicker",
     "SettlersOfKTaNE",
     "lunchtime",
     "nameChanger",
@@ -19,16 +18,15 @@
     "speakEnglish",
     "neutrinos",
     "JustNumbersModule",
-    "kataCheatCheckout",
-    "toolneedy",
-    "greekLetterGrid",
-    "tams",
     "oneLinksToAllModule",
-    "Rules",
     "Krit4CardMonte",
     "Jailbreak",
     "valves",
-    "ipa"
+    "ipa",
+    "busyBeaver",
+    "tenpins",
+    "kataCheatCheckout",
+    "WonderCipher"
   ],
   "Operation": 1
 }
