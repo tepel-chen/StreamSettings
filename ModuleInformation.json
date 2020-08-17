@@ -14511,7 +14511,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} submit arena_name to submit an arena. ",
+    "helpText": "Use !{0} submit arena_name to submit an arena. Example: !{0} submit Church Campgrounds",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
