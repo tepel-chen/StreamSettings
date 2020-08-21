@@ -361,6 +361,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "9-Ball",
+    "moduleID": "GSNineBall",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} pot 3 5' to pot the balls labelled 3 and 5.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "A Message",
     "moduleID": "AMessage",
     "moduleScoreOverride": false,
@@ -1314,6 +1332,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Birthdays",
+    "moduleID": "birthdays",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} 31 12 [Submits December 31st. Single digit numbers must be submitted with leading zeroes, e.g. March 5th is 05 03.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3072,24 +3108,6 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Cookie Clicker",
-    "moduleID": "Cookieclicker",
-    "moduleScoreOverride": false,
-    "moduleScore": null,
-    "moduleScoreIsDynamic": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "'!{0} tap #' to click the cookie a number of times where # being any number within reasonable range | '!{0} Buildings' to go to the Buildings menu | '!{0} Rebirth' to click on the Rebirth button | '!{0} buy x/none' to buy a building while in the Buidlings menu and x being the buildings name and nothing there buys|'!{0} set x#' to select a multiplier for how much to buy where # is 1, 10, 100, 1000 | '!{0} Return' to go back to the Cookie.",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
