@@ -11842,7 +11842,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press <#> [Presses buttons at positions 1-10 in reading order with a space between each number]",
+    "helpText": "!{0} p|press <#> [Presses buttons at positions 1-10 in reading order with a space between each number]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
