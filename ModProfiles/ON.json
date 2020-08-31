@@ -1,10 +1,5 @@
 {
   "DisabledList": [
-    "BusGameplayRoom",
-    "Portal Room",
-    "複雑漢字Module",
-    "TextAdventureModule",
-    "MagickaModule",
     "R4YNeedyFlowerMash",
     "omegaForget",
     "SettlersOfKTaNE",
@@ -12,13 +7,13 @@
     "assemblyCode",
     "neutrinos",
     "JustNumbersModule",
-    "Krit4CardMonte",
     "busyBeaver",
     "iconic",
     "EarthboundModule",
-    "robotProgramming",
     "simonForgets",
-    "identifyingSoulless"
+    "identifyingSoulless",
+    "lyricalNonsense",
+    "xelNegation"
   ],
   "Operation": 1
 }
