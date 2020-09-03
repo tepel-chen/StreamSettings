@@ -11,7 +11,12 @@
     "EarthboundModule",
     "simonForgets",
     "xelNegation",
-    "SynchronizationModule"
+    "SynchronizationModule",
+    "robotProgramming",
+    "Rules",
+    "brushStrokes",
+    "GSTellMeWhen",
+    "xelButterflies"
   ],
   "Operation": 1
 }
