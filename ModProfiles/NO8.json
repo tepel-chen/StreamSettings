@@ -66,12 +66,19 @@
     "lgndNaughtyOrNice",
     "LedSolver",
     "silhouettes",
-    "redLightGreenLight",
-    "hyperneedy",
-    "boozleglyphIdentification",
-    "rotatingSquares",
-    "marcoPolo",
-    "needyFlagIdentification"
+    "needyFlagIdentification",
+    "birthdays",
+    "faulty7SegmentDisplays",
+    "NeeDeezNuts",
+    "gameOfLifeNeedy",
+    "NotCapacitorDischarge",
+    "NotKnob",
+    "NotVentingGas",
+    "rapidSubtraction",
+    "ReversedEdgework",
+    "rgbLogic",
+    "simonStashes",
+    "toolneedy"
   ],
   "Operation": 1
 }
