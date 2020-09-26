@@ -10,7 +10,8 @@
     "xelNegation",
     "SynchronizationModule",
     "0",
-    "remotemath"
+    "remotemath",
+    "BrokenBinary"
   ],
   "Operation": 1
 }
