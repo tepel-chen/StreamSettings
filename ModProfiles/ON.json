@@ -11,7 +11,8 @@
     "SynchronizationModule",
     "0",
     "remotemath",
-    "BrokenBinary"
+    "BrokenBinary",
+    "TheBioscanner"
   ],
   "Operation": 1
 }
