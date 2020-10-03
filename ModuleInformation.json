@@ -6217,7 +6217,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} play (Plays the sequence provided by the module.) - !{0} submit <###> (Submits the number by holding the button at those specific times. | Valid numbers range from 0-999 | Example: !{0} submit 420)",
+    "helpText": "!{0} play (Plays the sequence provided by the module.) - !{0} submit <###> (Submits the number by holding the button at those specific times. | Valid numbers range from 0-999 | Example: !{0} submit 420) - !{0} mash (Mashes the screen, in octOS it is used for regenerating the module in case of a bug)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
