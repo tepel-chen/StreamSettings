@@ -15026,6 +15026,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Thread the Needle",
+    "moduleID": "threadTheNeedle",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "To cycle down a wheel on the module, use the command !{0} cycle [1-5] | To press the down button on a wheel, use the command !{0} press [1-5] [1-8] | To submit your answer, use the command !{0} submit",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Three Cryptic Steps",
     "moduleID": "ThreeCrypticSteps",
     "moduleScoreOverride": false,
