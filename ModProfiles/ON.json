@@ -7,10 +7,9 @@
     "EarthboundModule",
     "xelNegation",
     "SynchronizationModule",
-    "remotemath",
     "BrokenBinary",
-    "TheBioscanner",
-    "iconic"
+    "greekLetterGrid",
+    "HoleInOne"
   ],
   "Operation": 1
 }
