@@ -28,7 +28,6 @@
   "AllowSolvingCurrentBombWithCommandsDisabled": true,
   "BombLiveMessageDelay": 0,
   "ShowUnrecognizedCommandError": true,
-  "ClaimCooldownTime": 15,
   "ModuleClaimLimit": 3,
   "FindClaimLimit": 3,
   "FindClaimTerms": 3,
