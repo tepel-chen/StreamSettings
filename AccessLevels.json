@@ -481,7 +481,7 @@
     "lotsofs": "User",
     "oteku2k": "User",
     "xaxtonrevolution": "User",
-    "cyber12": "Banned",
+    "cyber12": "User",
     "djhero2903": "User",
     "livplaysyt": "Banned",
     "cocktail0387": "User",
@@ -817,11 +817,15 @@
     "dualwieldcats": "User",
     "chooch1998": "User",
     "itslexie_": "User",
-    "hoomerboom": "User",
+    "hoomerboom": "Banned",
     "currymakertv": "User",
     "genericbread": "User",
     "sample_text47": "User",
-    "macko0303": "User"
+    "macko0303": "User",
+    "iamspeedylol": "User",
+    "hoodieboi_": "User",
+    "c0mputable": "User",
+    "flagflayer": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -989,8 +993,8 @@
       "BannedReason": null,
       "BanExpiry": "Infinity"
     },
-    "cyber12": {
-      "BannedBy": "MrPeanut1028",
+    "hoomerboom": {
+      "BannedBy": "PrettyKittyAshy",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
