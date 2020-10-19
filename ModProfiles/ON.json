@@ -9,7 +9,12 @@
     "SynchronizationModule",
     "BrokenBinary",
     "greekLetterGrid",
-    "HoleInOne"
+    "HoleInOne",
+    "xelDcrypt",
+    "NotMemory",
+    "omegaForget",
+    "Rules",
+    "NandNs"
   ],
   "Operation": 1
 }
