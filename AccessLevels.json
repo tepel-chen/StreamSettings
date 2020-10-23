@@ -817,7 +817,7 @@
     "dualwieldcats": "User",
     "chooch1998": "User",
     "itslexie_": "User",
-    "hoomerboom": "Banned",
+    "hoomerboom": "User",
     "currymakertv": "User",
     "genericbread": "User",
     "sample_text47": "User",
@@ -825,7 +825,13 @@
     "iamspeedylol": "User",
     "hoodieboi_": "User",
     "c0mputable": "User",
-    "flagflayer": "User"
+    "flagflayer": "User",
+    "bobba9882": "User",
+    "chillinm9": "User",
+    "nelsonboi8": "User",
+    "mikeyvaranakis": "User",
+    "miki2003pl": "User",
+    "huzaifahnmore": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -990,11 +996,6 @@
     },
     "kaoscola": {
       "BannedBy": "xmaster6726",
-      "BannedReason": null,
-      "BanExpiry": "Infinity"
-    },
-    "hoomerboom": {
-      "BannedBy": "PrettyKittyAshy",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
