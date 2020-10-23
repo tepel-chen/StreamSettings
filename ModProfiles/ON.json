@@ -1,20 +1,15 @@
 {
   "DisabledList": [
     "R4YNeedyFlowerMash",
-    "SettlersOfKTaNE",
     "nameChanger",
     "assemblyCode",
     "EarthboundModule",
     "xelNegation",
-    "SynchronizationModule",
     "BrokenBinary",
-    "greekLetterGrid",
-    "HoleInOne",
     "xelDcrypt",
-    "NotMemory",
     "omegaForget",
     "Rules",
-    "NandNs"
+    "oneLinksToAllModule"
   ],
   "Operation": 1
 }
