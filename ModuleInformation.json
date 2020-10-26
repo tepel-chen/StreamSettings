@@ -670,7 +670,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "To start the cycle of the module, use !{0} play | To toggle the sound in the cycle, use !{0} mute/unmute | To stop the cycle of the module, use !{0} stop | To select a letter during the countdown, use !{0} press [VALID LETTER FROM THE GRID]",
+    "helpText": "To start the cycle of the module, use !{0} play | To toggle the sound in the cycle, use !{0} mute/unmute | To stop the cycle of the module, use !{0} stop | To select a letter during the countdown, use !{0} press [VALID LETTER FROM THE GRID] or !{0} press [A-E][1-5] to press the designated coordinate of the tile (letters are columns and numbers are rows)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
