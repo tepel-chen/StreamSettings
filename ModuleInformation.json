@@ -180,6 +180,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "16 Coins",
+    "moduleID": "sixteenCoins",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <pos> [Presses the coin in the specified position] | Valid positions are 1-16 in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "1D Maze",
     "moduleID": "OneDimensionalMaze",
     "moduleScoreOverride": false,
@@ -623,6 +638,21 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Alpha",
+    "moduleID": "lgndAlpha",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <#> [Submits the specified number]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2325,6 +2355,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Caesar's Maths",
+    "moduleID": "caesarsMaths",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <pos> [Presses the button in the specified position] | Valid positions are left(l), middle(m), or right(r)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Calculus",
     "moduleID": "calcModule",
     "moduleScoreOverride": false,
@@ -3195,6 +3240,21 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} cut 3 [cut wire 3] | !{0} cut 2 3 6 [cut multiple wires] | Wires are ordered from left to right | Empty spaces are not counted",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Conditional Buttons",
+    "moduleID": "conditionalButtons",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <p1> (p2)... [Presses the button(s) in the specified position(s)] | Valid positions are tl, tm, tr, bl, bm, br, or 1-6 in reading order",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -5038,6 +5098,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Faulty Chinese Counting",
+    "moduleID": "faultyChineseCounting",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <button> [Presses the specified button] | !{0} press <button> <button> [Example of button chaining] | !{0} reset [Resets all inputs] | Valid buttons are tl, tr, bl, br OR 1-4 being the buttons from in reading order. Additionally, l, r, left, and right can be used to press the LEDs.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Faulty Digital Root",
     "moduleID": "faultyDigitalRootModule",
     "moduleScoreOverride": false,
@@ -5884,6 +5962,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Gatekeeper",
+    "moduleID": "gatekeeper",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <pos> [Presses the button in the specified position] | Valid positions are left(l), middle(m), or right(r)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Genetic Sequence",
     "moduleID": "geneticSequence",
     "moduleScoreOverride": false,
@@ -6658,6 +6751,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Hyperactive Numbers",
+    "moduleID": "lgndHyperactiveNumbers",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <color> <parity> [Presses submit when the middle number that has the specified color and parity]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Hyperneedy",
     "moduleID": "hyperneedy",
     "moduleScoreOverride": false,
@@ -7106,6 +7214,21 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Keep Clicking",
+    "moduleID": "keepClicking",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} click <1/2/3> [Clicks the specified button from left to right] | !{0} submit [Clicks the submit button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8999,6 +9122,21 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} transmit 3.573, !{0} trans 573, !{0} transmit 3.573 MHz, !{0} tx 573 [transmit frequency 3.573]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Morse Identification",
+    "moduleID": "lgndMorseIdentification",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <char> [Submits the specified number or letter]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11515,6 +11653,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Reflex",
+    "moduleID": "lgndReflex",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <pos> [Presses the button when the cycling LED is in the specified position] | Valid positions are 1-7 from left to right",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Reformed Role Reversal",
     "moduleID": "ReformedRoleReversal",
     "moduleScoreOverride": false,
@@ -11566,6 +11719,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Regular Hexpressions",
+    "moduleID": "RegularHexpressions",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} press TL TM TR BL BM BR,\n to press the top-left/middle/right and bottom-left/middle/right buttons.\n (Alternatively, you can press buttons by face: !{0} press L U F B D R.)\n Use !{0} cycle TM BL BR, or !{0} cycle U B R, to cycle the corresponding buttons/faces.\n Submit your answer using !{0} submit.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -12446,6 +12617,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Shitass Says",
+    "moduleID": "ShitassSays",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} R/G/B/Y/red/green/blue/yellow to press that button. Chain by using spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Shortcuts",
     "moduleID": "shortcuts",
     "moduleScoreOverride": false,
@@ -13193,6 +13382,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Sound Design",
+    "moduleID": "soundDesign",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} play [Presses the play button] | !{0} submit [Presses the submit button] | !{0} wave <waveform> [Presses the button of the specified waveform] | !{0} set <knob> <dir> [Sets the specified knob in the specified direction] | Valid waveforms are Sine, Tri, Saw, and Square | Valid knobs are P, A, PW, or R | Valid directions are any abbreviated cardinal direction",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Souvenir",
     "moduleID": "SouvenirModule",
     "moduleScoreOverride": false,
@@ -13418,6 +13625,21 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "State of Aggregation",
+    "moduleID": "stateOfAggregation",
+    "moduleScoreOverride": false,
+    "moduleScore": null,
+    "moduleScoreIsDynamic": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cycle temp [Cycles through all temperatures in the temperature display] | !{0} submit <group> <temp> [Submits the specified chemical group and temperature]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
