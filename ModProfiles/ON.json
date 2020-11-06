@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "R4YNeedyFlowerMash",
     "nameChanger",
     "assemblyCode",
     "EarthboundModule",
@@ -11,13 +10,13 @@
     "HoleInOne",
     "Averageh",
     "kugelblitz",
-    "TrainingText",
     "burgerAlarm",
     "theSamsung",
     "qkButtonMesser",
-    "kataDeckCreating",
-    "lyricalNonsense",
-    "xelChineseZodiac"
+    "xelChineseZodiac",
+    "typeRacer",
+    "ForgetAnyColor",
+    "faultyChineseCounting"
   ],
   "Operation": 1
 }
