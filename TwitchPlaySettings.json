@@ -38,7 +38,7 @@
     "Detonation": 66,
     "VSModeToggle": 51
   },
-  "DynamicScorePercentage": 0.5,
+  "DynamicScoreMultiplier": 1.0,
   "EnableTwitchPlayShims": true,
   "UnsubmittablePenaltyPercent": 0.3,
   "UnclaimedColor": "0, 255, 0",
