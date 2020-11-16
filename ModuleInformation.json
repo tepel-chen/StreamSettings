@@ -15103,6 +15103,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Towers",
+    "moduleID": "Towers",
+    "scoreStringOverride": false,
+    "scoreString": "5",
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} A1-E5 to toggle that square. Use !{0} switch to switch between adding and subtracting. Chain with spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Training Text",
     "moduleID": "TrainingText",
     "scoreStringOverride": false,
