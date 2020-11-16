@@ -1,12 +1,9 @@
 {
   "DisabledList": [
-    "nameChanger",
-    "assemblyCode",
     "EarthboundModule",
     "xelNegation",
     "BrokenBinary",
     "xelDcrypt",
-    "Rules",
     "HoleInOne",
     "Averageh",
     "kugelblitz",
@@ -14,9 +11,12 @@
     "theSamsung",
     "qkButtonMesser",
     "xelChineseZodiac",
-    "typeRacer",
-    "ForgetAnyColor",
-    "faultyChineseCounting"
+    "SettlersOfKTaNE",
+    "catchphrase",
+    "assemblyCode",
+    "nameChanger",
+    "coloredHexabuttons",
+    "etterna"
   ],
   "Operation": 1
 }
