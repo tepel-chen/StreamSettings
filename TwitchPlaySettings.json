@@ -54,6 +54,7 @@
   "StrikePenalty": 6,
   "ModuleToStrikeRatio": 8,
   "PacingEventsOnRunBomb": true,
+  "AllowSheetDisabledModules": true,
   "EnableTimeModeForEveryone": true,
   "TimeModeStartingTime": 7.0,
   "TimeModeStartingMultiplier": 9.0,
