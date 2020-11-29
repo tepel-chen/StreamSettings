@@ -181,6 +181,7 @@
     "NoScalar",
     "NoSCF",
     "NoSD",
+    "NoShoddyC",
     "NoStores",
     "NoTax",
     "NoTimeKeep",
