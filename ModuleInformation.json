@@ -1731,7 +1731,7 @@
     "moduleID": "xelBMachine",
     "scoreStringOverride": false,
     "scoreString": "5",
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "use e.g. '!{0} submit 110110' to submit the tape as binary with 1 = marked and 0 = unmarked.",
@@ -1741,7 +1741,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Bob Barks",
@@ -4377,6 +4377,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use !{0} toggle to toggle the audio. Use !{0} raise/lower to press the buttons that adjust the pitch playing. Use !{0} ##### to submit a five digit number.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Double Screen",
+    "moduleID": "doubleScreenModule",
+    "scoreStringOverride": false,
+    "scoreString": "5",
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <top/t/bottom/b> [Presses the top or bottom screen] | !{0} colorblind [Toggles colorblind mode]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -12512,7 +12529,7 @@
     "moduleID": "ShoddyChessModule",
     "scoreStringOverride": false,
     "scoreString": "5",
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Place a piece(s) in a specific location using !{0} place wq1 a2 a3 a4 wb1 b2 wp8 e5, etc. Clear the board using !{0} clear all. Or clear a specific coordinate using !{0} clear a4 b2. (Queen = q;King = k;Knight = n;Bishop = b;Rook = r;Pawn = p) Example: BK1 would place a black king, WP3 would place a white pawn number 3. Use !{0} button, to press the !!! button. Submit your answer using !{0} submit.",
@@ -12522,7 +12539,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Shortcuts",
@@ -14079,6 +14096,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Ternary Tiles",
+    "moduleID": "GSTernaryTiles",
+    "scoreStringOverride": false,
+    "scoreString": "5",
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} A1 A2 submit' to press A1, A2, then the submit button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Terraria Quiz",
     "moduleID": "lgndTerrariaQuiz",
     "scoreStringOverride": false,
@@ -14144,6 +14178,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Tetris Sprint",
+    "moduleID": "tetrisSprint",
+    "scoreStringOverride": false,
+    "scoreString": "5",
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Each command is a letter which can be stringed together. a: move left, d: move right, q: turn left, e: turn right, s: drop, m: mute.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -16896,7 +16947,7 @@
     "moduleID": "kataZenerCards",
     "scoreStringOverride": false,
     "scoreString": "5",
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} <symbol> [Presses the named card, possible shapes are 'Star', 'Circle', 'Cross', 'Waves' and 'Square']",
@@ -16906,7 +16957,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Zoni",
