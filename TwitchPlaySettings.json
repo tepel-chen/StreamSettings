@@ -102,6 +102,7 @@
     "NoFTC",
     "NoFI",
     "NoFAC",
+    "NoFMzN"
     "NoSF",
     "NoStages",
     "NoTall",
@@ -139,6 +140,8 @@
     "NoShoddyC",
     "NoBMach",
     "NoZener",
+    "NoKA",
+    "NoFL",
     "\nModules Profiles",
     "No%",
     "No3CS",
