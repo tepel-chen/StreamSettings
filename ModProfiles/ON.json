@@ -1,23 +1,15 @@
 {
   "DisabledList": [
-    "EarthboundModule",
-    "xelNegation",
     "BrokenBinary",
-    "xelDcrypt",
-    "HoleInOne",
-    "Averageh",
     "burgerAlarm",
     "SettlersOfKTaNE",
     "catchphrase",
-    "assemblyCode",
-    "nameChanger",
-    "coloredHexabuttons",
-    "Dictation",
-    "updog",
     "xelBMachine",
-    "bamboozlingButton",
-    "xelJohnsonSolids",
-    "xelBaybayinWords"
+    "hexabutton",
+    "KritLockpickMaze",
+    "punctuationMarks",
+    "percentGary",
+    "robotProgramming"
   ],
   "Operation": 1
 }
