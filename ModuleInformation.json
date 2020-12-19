@@ -15272,7 +15272,7 @@
     "moduleID": "klaxon",
     "scoreStringOverride": false,
     "scoreString": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Submit a letter with \"!{0} submit <letter>\" or \"!{0} <letter>\".",
@@ -15282,7 +15282,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "The Labyrinth",
