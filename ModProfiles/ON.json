@@ -1,21 +1,15 @@
 {
   "DisabledList": [
-    "BrokenBinary",
     "burgerAlarm",
     "SettlersOfKTaNE",
-    "xelBMachine",
     "hexabutton",
-    "KritLockpickMaze",
     "punctuationMarks",
     "percentGary",
     "robotProgramming",
     "updog",
     "Averageh",
-    "forgetMazeNot",
-    "xelJohnsonSolids",
-    "Krit4CardMonte",
-    "simonForgets",
-    "doubleExpert"
+    "FourtyTwo",
+    "FiveZeroOne"
   ],
   "Operation": 1
 }
