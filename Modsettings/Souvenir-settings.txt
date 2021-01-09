@@ -1,5 +1,5 @@
 {
-  "ExcludeVanillaModules": true,
+  "ExcludeVanillaModules": false,
   "ExcludeIgnoredModules": true,
   "ExcludeMysteryModule": true,
   "ExcludeSouvenir": false
