@@ -724,7 +724,7 @@
     "flutterdash98": "User",
     "xnyandakunx": "User",
     "fluffgd": "User",
-    "m3times": "User",
+    "m3times": "Banned",
     "charlie9631": "User",
     "juelv": "User",
     "septacube": "User",
@@ -1055,6 +1055,11 @@
     },
     "kaoscola": {
       "BannedBy": "xmaster6726",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "m3times": {
+      "BannedBy": "BigLittleOrMe",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
