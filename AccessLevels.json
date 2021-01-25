@@ -27,7 +27,7 @@
     "mrpeanut_bot": "Mod, Admin, SuperUser, Streamer",
     "marknapkin": "User",
     "waterdude123123": "User",
-    "draket333": "Admin",
+    "draket333": "Defuser",
     "dracket333": "User",
     "str3sslord": "User",
     "prettykittyashy": "Mod, Admin, SuperUser",
@@ -904,7 +904,10 @@
     "4andahalf": "User",
     "mini__bomba": "User",
     "mendycz": "User",
-    "savedingrace": "User"
+    "savedingrace": "User",
+    "achyzu": "User",
+    "goodgodlygamin": "User",
+    "supervideoguy": "User"
   },
   "Bans": {
     "bomb_griefer": {

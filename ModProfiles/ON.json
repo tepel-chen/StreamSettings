@@ -5,7 +5,6 @@
     "hexabutton",
     "punctuationMarks",
     "robotProgramming",
-    "updog",
     "Averageh",
     "forgetMazeNot",
     "theSamsung",
@@ -16,8 +15,10 @@
     "xelSymmetriesOfASquare",
     "DoublePitch",
     "xelAnotherKeypadModule",
-    "lyricalNonsense",
-    "notnot"
+    "xelSporadicSegments",
+    "xelSemabols",
+    "Telepathy",
+    "ButtonV2"
   ],
   "Operation": 1
 }
