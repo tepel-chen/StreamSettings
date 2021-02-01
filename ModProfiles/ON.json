@@ -1,24 +1,20 @@
 {
   "DisabledList": [
-    "burgerAlarm",
     "SettlersOfKTaNE",
     "hexabutton",
     "punctuationMarks",
-    "robotProgramming",
-    "Averageh",
     "forgetMazeNot",
     "theSamsung",
     "commuting",
     "qkUCN",
-    "Rules",
     "smallCircle",
     "xelSymmetriesOfASquare",
     "DoublePitch",
-    "xelAnotherKeypadModule",
-    "xelSporadicSegments",
-    "xelSemabols",
     "Telepathy",
-    "ButtonV2"
+    "ButtonV2",
+    "AlienModule",
+    "BaybayinWords",
+    "SimonSmiles"
   ],
   "Operation": 1
 }
