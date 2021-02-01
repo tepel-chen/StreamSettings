@@ -1,76 +1,6 @@
 [
   {
     "moduleDisplayName": "",
-    "moduleID": "abstractSequences",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} press <p1> (p2)... [Presses the numbered button(s) in the specified position(s)] | !{0} submit [Presses the submit button] | Valid positions are 1-16 in reading order",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "AlienModule",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} press <p1> (p2)... [Presses the button(s) in the specified position(s)] | Valid positions are 1-8 in reading order",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "needyMrsBob",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} send <pos> [Sends the emoji in the specified position] | Valid positions are 1-24 in reading order",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "pressTheShape",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} press <shape> [Presses the button with the specified shape] | Valid shapes are triangle, square, and circle",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "QLModule",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": null,
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
     "moduleID": "ShapeMemoryComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -84,34 +14,6 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "simonSquawks",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} press <colour> <colour> [Presses the buttons with the specified colours] | Valid colours are blue, cyan, green, orange, purple, red, white, and yellow",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
-    "moduleID": "standardButtonMasher",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} submit <##> [Presses the push button '##' times and presses submit]",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -469,6 +371,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "81",
+    "moduleID": "GSEightyOne",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} 2' to press the second button in reading order.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "9-Ball",
     "moduleID": "GSNineBall",
     "scoreStringOverride": false,
@@ -571,6 +490,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Abstract Sequences",
+    "moduleID": "abstractSequences",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <p1> (p2)... [Presses the numbered button(s) in the specified position(s)] | !{0} submit [Presses the submit button] | Valid positions are 1-16 in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Accelerando",
     "moduleID": "accelerando",
     "scoreStringOverride": false,
@@ -616,6 +549,9 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -715,6 +651,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Alien Filing Colors",
+    "moduleID": "AlienModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <p1> (p2)... [Presses the button(s) in the specified position(s)] | Valid positions are 1-8 in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1662,7 +1612,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Press the specified arrow button with \"!{0} up/right/down/left\" Words can be substituted as one letter (Ex. right as r). Multiple directions can be issued in one command by spacing them out. Toggle colorblind mode with \"!{0} colorblind\"",
+    "helpText": "Press the specified arrow button with \"!{0} up/right/down/left\" Words can be substituted as one letter (Ex. right as r). Multiple directions can be issued in one command by spacing them out or as 1 word when abbrevivabted, I.E \"!{0} udlr\". Toggle colorblind mode with \"!{0} colorblind\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -4277,6 +4227,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Decay",
+    "moduleID": "decay",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} press l m r' to press those positions.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Deck Creating",
     "moduleID": "kataDeckCreating",
     "scoreStringOverride": false,
@@ -5768,7 +5735,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Press the specified arrow button with \"!{0} up/right/down/left\" Words can be substituted as one letter (Ex. right as r). Multiple directions can be issued in one command by spacing them out. Toggle colorblind mode with \"!{0} colorblind\"",
+    "helpText": "Press the specified arrow button with \"!{0} up/right/down/left\" Words can be substituted as one letter (Ex. right as r). Multiple directions can be issued in one command by spacing them out or as 1 word when abbrevivabted, I.E \"!{0} udlr\". Toggle colorblind mode with \"!{0} colorblind\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -6333,6 +6300,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Functional Mapping",
+    "moduleID": "functionalMapping",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} Surjection (to press the surjection button); !{0} Bijection (to press the bijection file)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7007,6 +6991,9 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7814,6 +7801,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Keypad Maze",
+    "moduleID": "KeypadMaze",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} abcd0123456789rs / press abcd0123456789rs (pressing every valid button). R - reset, S - submit.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8631,7 +8635,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} start (to start the song), !{0} next # (to cycle to the next song in the display a # of times.), !{0} again (to play the same song again), !{0} submit (to submit the current display's.)",
+    "helpText": "!{0} start (to start the song), !{0} next # (to cycle to the next song in the display a # of times.), !{0} again (to play the same song again), !{0} submit (to submit the current displays.)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -10177,6 +10181,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Needy Mrs Bob",
+    "moduleID": "needyMrsBob",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} send <pos> [Sends the emoji in the specified position] | Valid positions are 1-24 in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Needy Piano",
     "moduleID": "needyPiano",
     "scoreStringOverride": false,
@@ -10237,7 +10255,7 @@
     "helpTextOverride": false,
     "helpText": "!{0} yes [press the green yes button] | !{0} no [press the red no button]",
     "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCode": "Shape Memory",
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
@@ -10332,6 +10350,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use !{0} Cut to cut the wire. Use !{0} Next to press the button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Nomai",
+    "moduleID": "nomai",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <#/main/sl> [Presses the specified planet '#', the main planet, or the status light] | Valid planets are 0-4 from top to bottom then left to right | Chainable with spaces",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11723,6 +11758,20 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "Press The Shape",
+    "moduleID": "pressTheShape",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <shape> [Presses the button with the specified shape] | Valid shapes are triangle, square, and circle",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Press X",
     "moduleID": "PressX",
     "scoreStringOverride": false,
@@ -11969,6 +12018,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Quiplash",
+    "moduleID": "QLModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -13770,6 +13833,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Simon Squawks",
+    "moduleID": "simonSquawks",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <colour> <colour> [Presses the buttons with the specified colours] | Valid colours are blue, cyan, green, orange, purple, red, white, and yellow",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Simon Stages",
     "moduleID": "simonStages",
     "scoreStringOverride": false,
@@ -14435,6 +14512,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Standard Button Masher",
+    "moduleID": "standardButtonMasher",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <##> [Presses the push button '##' times and presses submit]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Standard Crazy Talk",
     "moduleID": "StandardCrazyTalk",
     "scoreStringOverride": false,
@@ -14540,7 +14631,7 @@
     "helpTextOverride": false,
     "helpText": "!{0} press <strike/solve> [Presses the strike or solve button]",
     "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCode": "StrikeSolve",
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
@@ -16109,7 +16200,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} succumb (Activate module/Enter submission) | !{0} submit <#> <#> <#>... (Submits on digit #) | !{0} settings (Tells you additional commands to customize the module)",
+    "helpText": "!{0} succumb (Activate module/Enter submission) | !{0} submit <#> <#> <#>... (Submits on digit #) | !{0} settings (Shows additional settings)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -16198,6 +16289,9 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -16460,7 +16554,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} submit 12 6 7 to submit 1267. The number must be in the range 0 - 9.",
+    "helpText": "Use !{0} submit 12 6 7 to submit 1267. The number must be in the range 0 - 9. Use colorblind/colourblind/cb to enable colorblind mode.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -16967,7 +17061,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} Bob, to submit the name Bob.",
+    "helpText": "Use !{0} press bob, to submit the name Bob.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -17374,13 +17468,13 @@
   },
   {
     "moduleDisplayName": "Updog",
-    "moduleID": "updog",
+    "moduleID": "Updog",
     "scoreStringOverride": false,
     "scoreString": null,
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} Dog [U/R/D/L] to press a Dog button of that direction. | !{0} Nor [U/R/D/L] to press a Normal button of that direction. | !{0} Updog to press the middle button.",
+    "helpText": null,
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
