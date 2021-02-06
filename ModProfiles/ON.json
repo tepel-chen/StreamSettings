@@ -2,19 +2,22 @@
   "DisabledList": [
     "SettlersOfKTaNE",
     "hexabutton",
-    "punctuationMarks",
     "forgetMazeNot",
-    "theSamsung",
     "commuting",
     "qkUCN",
-    "smallCircle",
     "xelSymmetriesOfASquare",
     "DoublePitch",
-    "Telepathy",
     "ButtonV2",
     "AlienModule",
     "BaybayinWords",
-    "SimonSmiles"
+    "SimonSmiles",
+    "simonSwindles",
+    "Updog",
+    "nomai",
+    "DiophantineEquations",
+    "xelDcrypt",
+    "pandemoniumCipher",
+    "abstractSequences"
   ],
   "Operation": 1
 }
