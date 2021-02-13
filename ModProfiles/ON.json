@@ -8,16 +8,15 @@
     "xelSymmetriesOfASquare",
     "DoublePitch",
     "ButtonV2",
-    "AlienModule",
     "BaybayinWords",
     "SimonSmiles",
     "simonSwindles",
     "Updog",
     "nomai",
     "DiophantineEquations",
-    "xelDcrypt",
-    "pandemoniumCipher",
-    "abstractSequences"
+    "abstractSequences",
+    "roleReversal",
+    "ultimateCipher"
   ],
   "Operation": 1
 }

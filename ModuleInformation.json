@@ -14648,7 +14648,7 @@
     "helpTextOverride": false,
     "helpText": "!{0} press <strike/solve> [Presses the strike or solve button]",
     "manualCodeOverride": false,
-    "manualCode": "StrikeSolve",
+    "manualCode": null,
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
