@@ -1,18 +1,17 @@
 {
   "DisabledList": [
-    "SettlersOfKTaNE",
     "hexabutton",
-    "forgetMazeNot",
     "qkUCN",
     "DoublePitch",
     "ButtonV2",
     "BaybayinWords",
     "SimonSmiles",
     "simonSwindles",
-    "Updog",
     "nomai",
-    "abstractSequences",
-    "assemblyCode"
+    "assemblyCode",
+    "plus",
+    "NumericalKnightMovement",
+    "Krit4CardMonte"
   ],
   "Operation": 1
 }
