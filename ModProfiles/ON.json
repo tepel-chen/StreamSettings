@@ -3,12 +3,15 @@
     "qkUCN",
     "ButtonV2",
     "BaybayinWords",
-    "simonSwindles",
     "nomai",
     "assemblyCode",
     "plus",
     "NumericalKnightMovement",
-    "Krit4CardMonte"
+    "Krit4CardMonte",
+    "MazeSwitching",
+    "subways",
+    "AlienModule",
+    "NotWhosOnFirst"
   ],
   "Operation": 1
 }
