@@ -1,17 +1,14 @@
 {
   "DisabledList": [
-    "qkUCN",
     "ButtonV2",
     "BaybayinWords",
     "nomai",
     "assemblyCode",
     "plus",
     "NumericalKnightMovement",
-    "Krit4CardMonte",
     "MazeSwitching",
     "subways",
-    "AlienModule",
-    "NotWhosOnFirst"
+    "AlienModule"
   ],
   "Operation": 1
 }
