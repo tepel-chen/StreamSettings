@@ -6,9 +6,10 @@
     "assemblyCode",
     "plus",
     "NumericalKnightMovement",
-    "MazeSwitching",
     "subways",
-    "AlienModule"
+    "AlienModule",
+    "tetrisSprint",
+    "Kahoot"
   ],
   "Operation": 1
 }

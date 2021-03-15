@@ -15898,7 +15898,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Each command is a letter which can be stringed together. a: move left, d: move right, q: turn left, e: turn right, s: drop, m: mute.",
+    "helpText": "Press keys with !{0} AZ DX; possible keys are WASD, ZX, and Spaces. Note: Twitch will automatically remove duplicate simultaneous spaces.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
