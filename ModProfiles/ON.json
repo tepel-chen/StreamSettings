@@ -2,14 +2,16 @@
   "DisabledList": [
     "ButtonV2",
     "BaybayinWords",
-    "nomai",
     "assemblyCode",
     "plus",
     "NumericalKnightMovement",
     "subways",
     "AlienModule",
     "tetrisSprint",
-    "Kahoot"
+    "Kahoot",
+    "NandNs",
+    "theSpeaker",
+    "Jailbreak"
   ],
   "Operation": 1
 }
