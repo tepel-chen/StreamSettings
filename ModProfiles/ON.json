@@ -7,11 +7,12 @@
     "NumericalKnightMovement",
     "subways",
     "AlienModule",
-    "tetrisSprint",
     "Kahoot",
     "NandNs",
-    "theSpeaker",
-    "Jailbreak"
+    "Jailbreak",
+    "QLModule",
+    "hexabutton",
+    "R4YRecoloredSwitches"
   ],
   "Operation": 1
 }
