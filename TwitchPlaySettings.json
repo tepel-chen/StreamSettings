@@ -6,7 +6,7 @@
   "EnableWhispers": false,
   "WhisperCommandsRequireExclaimationPoint": true,
   "EnableMissionBinder": true,
-  "EnableFreeplayBriefcase": true,
+  "EnableFreeplayBriefcase": false,
   "EnableFreeplayNeedy": true,
   "EnableFreeplayHardcore": true,
   "EnableFreeplayModsOnly": true,
