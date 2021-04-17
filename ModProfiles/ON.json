@@ -1,8 +1,6 @@
 {
   "DisabledList": [
-    "ButtonV2",
     "BaybayinWords",
-    "assemblyCode",
     "plus",
     "subways",
     "AlienModule",
@@ -12,7 +10,10 @@
     "QLModule",
     "nameChanger",
     "MazeSwitching",
-    "nomai"
+    "antimatterDimensions",
+    "lyingIndicators",
+    "stateOfAggregation",
+    "TheKanyeEncounter"
   ],
   "Operation": 1
 }
