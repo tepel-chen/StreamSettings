@@ -5,7 +5,6 @@
     "subways",
     "AlienModule",
     "Kahoot",
-    "NandNs",
     "Jailbreak",
     "QLModule",
     "nameChanger",
@@ -13,7 +12,8 @@
     "antimatterDimensions",
     "lyingIndicators",
     "stateOfAggregation",
-    "TheKanyeEncounter"
+    "TheKanyeEncounter",
+    "kataCheatCheckout"
   ],
   "Operation": 1
 }
