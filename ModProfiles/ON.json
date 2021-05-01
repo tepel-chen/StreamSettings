@@ -6,14 +6,16 @@
     "AlienModule",
     "Kahoot",
     "Jailbreak",
-    "QLModule",
     "nameChanger",
     "MazeSwitching",
     "antimatterDimensions",
-    "stateOfAggregation",
     "TheKanyeEncounter",
     "kataCheatCheckout",
-    "tetrisSprint"
+    "tetrisSprint",
+    "RedHerring",
+    "nomai",
+    "anagraphy",
+    "Logging"
   ],
   "Operation": 1
 }
