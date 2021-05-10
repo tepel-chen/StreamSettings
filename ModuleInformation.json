@@ -6300,6 +6300,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Fire Diamonds",
+    "moduleID": "fireDiamondsModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} red/blue/yellow/white' to press the corresponding square (can be chained). Use '!{0} reset' to clear all inputs.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Five Letter Words",
     "moduleID": "FiveLetterWords",
     "scoreStringOverride": false,
