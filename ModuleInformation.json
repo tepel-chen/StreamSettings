@@ -934,6 +934,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Anagraphy",
+    "moduleID": "anagraphy",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} bdpqacs' to press 'top left', 'top right', 'bottom left', 'bottom right' (the tail points toward the corner to press), 'append', 'clear' and 'submit' buttons respectively.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Annoying Arrows",
     "moduleID": "lgndAnnoyingArrows",
     "scoreStringOverride": false,
@@ -1619,6 +1636,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Binary Buttons",
+    "moduleID": "BinaryButtons",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <#####> [Submits the specified 5-digit binary number]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2381,6 +2412,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Bridge",
+    "moduleID": "bridge",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} bid <lvl><deno> [Makes a bid with the specified level and denominator] | !{0} pass/nt [Presses the Pass or NT button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4975,6 +5020,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "DimensionKing",
+    "moduleID": "DimensionKingModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} go [use to begin entering the solution] | !{0} press color1 color2 color3 [clicks vertices with those colors, in that order, accepts any args, also allows only entering the first letter of the color]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Diophantine Equations",
     "moduleID": "DiophantineEquations",
     "scoreStringOverride": false,
@@ -5647,6 +5709,23 @@
     "validCommands": null,
     "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": true
+  },
+  {
+    "moduleDisplayName": "Encrypted Maze",
+    "moduleID": "encryptedMaze",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} move udlr [Move in the specified directions in order; u = up, r = right, d = down, l = left]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Encrypted Morse",
@@ -9240,6 +9319,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Logging",
+    "moduleID": "Logging",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} back, presses back. | !{0} next, presses next. | !{0} peek <MODULE NAME>, peeks into the log of the specified module name. [ZEN/TRAINING ONLY]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Logic",
     "moduleID": "Logic",
     "scoreStringOverride": false,
@@ -9846,6 +9942,23 @@
     "manualCodeOverride": false,
     "manualCode": "Maze",
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Maze Identification",
+    "moduleID": "GSMazeIdentification",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} 1S234' to press 1, the submit button, 2, 3 and 4 (in that order). Use '!{0} delayset 0.5' to set the delay between button presses to 0.5 seconds while traversing the maze (default is 0.1s).",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11685,6 +11798,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Not Timer",
+    "moduleID": "NotTimerModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} tap/hold <timer/strike> [Taps or holds the timer or strike indicator] | !{0} release <#> [Releases when the countdown timer has a '#' in any position]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Not Venting Gas",
     "moduleID": "NotVentingGas",
     "scoreStringOverride": false,
@@ -12404,6 +12531,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Pawns",
+    "moduleID": "pawns",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use [!{0} cycle] to cycle through all 8 coordinate pairs. Use [!{0} left capture right pass] to press those buttons in order. Commands can be chained with spaces. Use [!{0} submit capture pass capture pass capture pass capture pass] to press those buttons, pressing right after each.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Pay Respects",
     "moduleID": "lgndPayRespects",
     "scoreStringOverride": false,
@@ -13092,6 +13236,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Puzzle Identification",
+    "moduleID": "GSPuzzleIdentification",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} Text HERE' to type 'Text HERE' into the module. Use '!{0} #' to clear your input and '!{0} *' to press the Enter key.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Puzzword",
     "moduleID": "PuzzwordModule",
     "scoreStringOverride": false,
@@ -13235,10 +13396,13 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} answer <left/right> [Chooses the left or right answer]",
+    "helpText": "!{0} [answer] | Answer can be numerical or in word form (like \"left\")",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15303,6 +15467,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Simply Simon",
+    "moduleID": "simplysimon",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} RGBYY (Presses Red, Green, Blue, Yellow, and Yellow)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Sink",
     "moduleID": "Sink",
     "scoreStringOverride": false,
@@ -16112,6 +16293,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "SUSadmin",
+    "moduleID": "susadmin",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "\"!{0} command\" - Execute command",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -19246,6 +19444,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Voltorb Flip",
+    "moduleID": "VoltorbFlip",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} flip A1 B2 C4 to flip those tiles. Use !{0} mark A1 B2 C4 to mark those tiles as having a Voltorb.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
