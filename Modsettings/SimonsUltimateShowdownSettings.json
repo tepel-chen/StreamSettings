@@ -4,5 +4,6 @@
   "disableScreams": false,
   "disableStops": false,
   "disableTasha": false,
-  "disableSimons": false
+  "disableSimons": false,
+  "disableSends": false
 }

@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "plus",
     "AlienModule",
     "Jailbreak",
     "nameChanger",
@@ -8,8 +7,13 @@
     "antimatterDimensions",
     "kataCheatCheckout",
     "nomai",
-    "identifyingSoulless",
-    "NandNs"
+    "NandNs",
+    "TheCloseButton",
+    "ColoredLetters",
+    "zhStrokes",
+    "Kahoot",
+    "StockImages",
+    "notColourFlash"
   ],
   "Operation": 1
 }
