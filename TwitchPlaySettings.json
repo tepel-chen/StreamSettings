@@ -14,7 +14,7 @@
   "EnableRankCommand": true,
   "EnableSoloPlayMode": true,
   "EnableRetryButton": true,
-  "EnableWhiteList": false,
+  "EnableWhiteList": true,
   "EnableInteractiveMode": false,
   "EnableAutomaticEdgework": true,
   "EnableEdgeworkCommand": false,
