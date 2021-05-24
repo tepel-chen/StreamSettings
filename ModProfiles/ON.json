@@ -2,11 +2,8 @@
   "DisabledList": [
     "AlienModule",
     "Jailbreak",
-    "nameChanger",
     "MazeSwitching",
-    "antimatterDimensions",
     "kataCheatCheckout",
-    "nomai",
     "NandNs",
     "TheCloseButton",
     "ColoredLetters",
@@ -15,8 +12,7 @@
     "StockImages",
     "notColourFlash",
     "forgetMazeNot",
-    "vigenereCipher",
-    "ForgetsUltimateShowdownModule"
+    "vigenereCipher"
   ],
   "Operation": 1
 }
