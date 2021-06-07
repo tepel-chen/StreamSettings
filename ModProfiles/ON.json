@@ -1,19 +1,17 @@
 {
   "DisabledList": [
-    "AlienModule",
     "Jailbreak",
     "MazeSwitching",
     "kataCheatCheckout",
     "NandNs",
     "TheCloseButton",
-    "ColoredLetters",
     "zhStrokes",
     "Kahoot",
     "StockImages",
     "forgetMazeNot",
     "vigenereCipher",
-    "crystalMaze",
-    "PointlessMachines"
+    "WhiteHoleModule",
+    "Skewers"
   ],
   "Operation": 1
 }
