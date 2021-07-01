@@ -1,14 +1,13 @@
 {
   "DisabledList": [
-    "MazeSwitching",
     "kataCheatCheckout",
-    "NandNs",
     "TheCloseButton",
     "zhStrokes",
     "StockImages",
     "forgetMazeNot",
     "vigenereCipher",
-    "Skewers"
+    "KritBlackjack",
+    "Chalices"
   ],
   "Operation": 1
 }
