@@ -1,13 +1,9 @@
 {
   "DisabledList": [
     "kataCheatCheckout",
-    "TheCloseButton",
-    "zhStrokes",
-    "StockImages",
     "forgetMazeNot",
-    "vigenereCipher",
-    "KritBlackjack",
-    "Chalices"
+    "WhiteHoleModule",
+    "spongebobBirthdayIdentification"
   ],
   "Operation": 1
 }

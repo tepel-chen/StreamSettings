@@ -35,9 +35,11 @@
   "FindClaimAddTime": 5,
   "VoteCountdownTime": 60,
   "EnableVoting": true,
+  "EnableVoteSolve": true,
   "MinimumYesVotes": {
     "Detonation": 66,
-    "VSModeToggle": 51
+    "VSModeToggle": 51,
+    "Solve": 51
   },
   "DynamicScoreMultiplier": 1.0,
   "EnableTwitchPlayShims": true,
