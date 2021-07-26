@@ -1,0 +1,17 @@
+{
+  "FIPPAScaleFactor": 0.5,
+  "SevenHardCapStageGeneration": true,
+  "SevenForceFastReads": false,
+  "SevenPPAScale": 1.0,
+  "SevenMaxPPA": -1,
+  "SevenNoTPUncapping": false,
+  "SimonSemibossMaxFlashes": 40,
+  "LPPEnableLabeledPriorities": true,
+  "LPPEnableUnlabeledPriorities": true,
+  "LPPEnableRelabeledPriorities": true,
+  "LPPEnableMislabeledPriorities": true,
+  "LPPLabeledPrioritiesTPScore": 5,
+  "LPPUnlabeledPrioritiesTPScore": 5,
+  "LPPRelabeledPrioritiesTPScore": 9,
+  "LPPMislabeledPrioritiesTPScore": 9
+}
