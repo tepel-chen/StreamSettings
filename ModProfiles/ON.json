@@ -1,21 +1,16 @@
 {
   "DisabledList": [
     "kataCheatCheckout",
-    "WhiteHoleModule",
-    "TheArena",
     "omegaForget",
     "tallorderedKeys",
     "BinaryButtons",
     "mysterymodule",
-    "symbolicTasha",
-    "1DChess",
-    "Coinage",
-    "Linq",
-    "Logging",
-    "NamingConventions",
-    "Netherite",
-    "PointlessMachines",
-    "Updog"
+    "notSymbolicCoordinates",
+    "warningSigns",
+    "marcoPolo",
+    "rgbMaze",
+    "iconic",
+    "masherTheBottun"
   ],
   "Operation": 1
 }
