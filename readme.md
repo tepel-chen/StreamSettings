@@ -1,0 +1,1 @@
+This is all of the settings used on the official Twitch Plays Keep Talking and Nobody Explodes stream, hosted 24/7 on https://www.twitch.tv/marksam32
