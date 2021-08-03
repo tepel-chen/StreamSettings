@@ -6,11 +6,11 @@
     "BinaryButtons",
     "mysterymodule",
     "notSymbolicCoordinates",
-    "warningSigns",
     "marcoPolo",
     "rgbMaze",
-    "iconic",
-    "masherTheBottun"
+    "masherTheBottun",
+    "diffusion",
+    "HitmanModule"
   ],
   "Operation": 1
 }
