@@ -7675,7 +7675,7 @@
   },
   {
     "moduleDisplayName": "Golf",
-    "moduleID": "SBgolfModule",
+    "moduleID": "golf",
     "scoreStringOverride": false,
     "scoreString": null,
     "announceModule": false,
@@ -20783,7 +20783,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} hold <btn> on <##> [Holds the specified button when the number of seconds remaining is '##'] | !{0} release <btn> at <##> [Releases the specified button when the number of seconds remaining is '##'] | Valid buttons are 1-4 in reading order",
+    "helpText": "!{0} hold <btn> on <##> [Holds the specified button when the number of seconds remaining is '##'] | !{0} release at <##> [Releases the held button when the number of seconds remaining is '##'] | Valid buttons are 1-4 in reading order",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
