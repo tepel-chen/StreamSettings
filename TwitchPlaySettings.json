@@ -95,6 +95,8 @@
   "ProfileWhitelist": [
     "Boss Profiles",
     "NoBW",
+    "NoCon",
+    "NoDKon",
     "NoFMN",
     "NoFE",
     "NoFT",
