@@ -1,19 +1,16 @@
 {
   "DisabledList": [
     "kataCheatCheckout",
-    "omegaForget",
     "tallorderedKeys",
     "BinaryButtons",
     "notSymbolicCoordinates",
-    "marcoPolo",
-    "theSamsung",
     "multitask",
-    "navinums",
     "lyricalNonsense",
-    "beanboozledAgain",
-    "kataZenerCards",
-    "macroMemory",
-    "qkCubeSynchronization"
+    "BoardWalk",
+    "hexabutton",
+    "PurgatoryModule",
+    "Wendithapn",
+	"sysadmin"
   ],
   "Operation": 1
 }
