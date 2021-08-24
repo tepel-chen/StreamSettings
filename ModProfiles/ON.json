@@ -2,15 +2,16 @@
   "DisabledList": [
     "kataCheatCheckout",
     "tallorderedKeys",
-    "BinaryButtons",
     "notSymbolicCoordinates",
     "multitask",
-    "lyricalNonsense",
     "BoardWalk",
     "hexabutton",
     "PurgatoryModule",
     "Wendithapn",
-	"sysadmin"
+    "qkHorsey",
+    "gameOfLifeNeedy",
+    "artPricing",
+    "SaimoeMaze"
   ],
   "Operation": 1
 }
