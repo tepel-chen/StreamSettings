@@ -2,16 +2,21 @@
   "DisabledList": [
     "kataCheatCheckout",
     "tallorderedKeys",
-    "notSymbolicCoordinates",
-    "multitask",
     "BoardWalk",
     "hexabutton",
     "PurgatoryModule",
     "Wendithapn",
     "qkHorsey",
     "gameOfLifeNeedy",
-    "artPricing",
-    "SaimoeMaze"
+    "SaimoeMaze",
+    "lunchtime",
+    "PressX",
+    "GSCorridors",
+    "GameOfColors",
+    "burnt",
+    "derivatives",
+    "cruelModulo",
+    "extendedBooleanVenn"
   ],
   "Operation": 1
 }
