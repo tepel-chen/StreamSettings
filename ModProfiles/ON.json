@@ -1,8 +1,6 @@
 {
   "DisabledList": [
-    "kataCheatCheckout",
     "tallorderedKeys",
-    "BoardWalk",
     "hexabutton",
     "PurgatoryModule",
     "Wendithapn",
@@ -12,11 +10,10 @@
     "lunchtime",
     "PressX",
     "GSCorridors",
-    "GameOfColors",
     "burnt",
     "derivatives",
-    "cruelModulo",
-    "extendedBooleanVenn"
+    "antimatterDimensions",
+    "fursona"
   ],
   "Operation": 1
 }
