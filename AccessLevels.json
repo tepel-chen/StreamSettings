@@ -785,7 +785,7 @@
     "codenametoxicity": "User",
     "mixivr": "User",
     "kingdabura": "User",
-    "danielstigman315": "Defuser",
+    "danielstigman315": "Banned, Defuser",
     "oegamer": "User",
     "sundancingkitty": "User",
     "sammyskye": "User",
@@ -1065,7 +1065,12 @@
     "casdadas": "User",
     "kathy2378": "User",
     "thestig98_": "User",
-    "hitesh_byatroy": "User"
+    "hitesh_byatroy": "User",
+    "crimsonbadger23": "User",
+    "denis_nosko": "User",
+    "eltrick__": "User",
+    "germanlmw": "User",
+    "saopy_": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1235,6 +1240,11 @@
     },
     "m3times": {
       "BannedBy": "BigLittleOrMe",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "danielstigman315": {
+      "BannedBy": "marksam32",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
