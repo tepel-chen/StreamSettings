@@ -1,0 +1,14 @@
+{
+  "DisabledList": [
+    "spwizTetris",
+    "LightsOut",
+    "EdgeworkModule",
+    "EncryptedValuesModule",
+    "QRCode",
+    "silhouettes",
+    "redLightGreenLight",
+    "hyperneedy",
+    "boozleglyphIdentification"
+  ],
+  "Operation": 1
+}

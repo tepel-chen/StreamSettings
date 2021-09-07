@@ -1,0 +1,6 @@
+{
+  "ShowModuleNames": true,
+  "ShowBossStatus": true,
+  "Delay": 0.0,
+  "PopupKeys": "F1"
+}

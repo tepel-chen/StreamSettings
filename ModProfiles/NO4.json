@@ -1,0 +1,12 @@
+{
+  "DisabledList": [
+    "KritCMDPrompt",
+    "commonSense",
+    "KritFlipTheCoin",
+    "needyPiano",
+    "EternitySDec",
+    "Needy Math",
+    "needyShapeMemory"
+  ],
+  "Operation": 1
+}

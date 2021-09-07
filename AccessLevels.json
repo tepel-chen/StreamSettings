@@ -1,0 +1,13 @@
+{
+  "StickyBans": false,
+  "MinimumAccessLevelForBanCommand": "Mod",
+  "MinimumAccessLevelForTimeoutCommand": "Mod",
+  "MinimumAccessLevelForUnbanCommand": "Mod",
+  "UserAccessLevel": {
+    "_usernickname1": "Mod, Admin, SuperUser",
+    "_usernickname2": "Mod",
+    "_tpdebug": "Mod, Admin, SuperUser, Streamer",
+    "tepel#5876": "Mod, Admin, SuperUser, Streamer"
+  },
+  "Bans": {}
+}

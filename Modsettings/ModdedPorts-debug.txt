@@ -1,0 +1,9 @@
+{
+  "SettingsVersion": 4,
+  "EnableExtendedPorts": true,
+  "HowToUse0": "Don't touch.",
+  "DebugModeForceAllPortsInCurrentSet": false,
+  "HowToUse1": "This forces the port plates to have every type possible in the given set.",
+  "DebugModeForceAllPossiblePorts": false,
+  "HowToUse2": "This Forces every port from the first port plate sets to spwan. (This overrides DebugModeForceAllPortsInCurrentSet)"
+}

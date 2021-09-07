@@ -1,0 +1,32 @@
+{
+  "DisabledList": [
+    "draw",
+    "digitalCipher",
+    "needyWingdings",
+    "needyPlunger",
+    "simonsSequence",
+    "theFidgetSpinner",
+    "alphabeticOrder",
+    "lgndMorseIdentification",
+    "NeedyAirTrafficController",
+    "simonSquawks",
+    "needyMrsBob",
+    "lgndPayRespects",
+    "determinant",
+    "needyShapeMemory",
+    "rapidButtons",
+    "Filibuster",
+    "BusGameplayRoom",
+    "triangleButtons",
+    "CrypticPassword",
+    "lgndHyperactiveNumbers",
+    "DiscordRpc(Clone)",
+    "複雑漢字Module",
+    "MagickaModule",
+    "TextAdventureModule",
+    "CruelKanjiModule",
+    "ThonkingModule",
+    "AppreciateArt"
+  ],
+  "Operation": 1
+}

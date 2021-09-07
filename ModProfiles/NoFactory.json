@@ -1,0 +1,8 @@
+{
+  "DisabledList": [
+    "FactoryRoom",
+    "FactoryService(Clone)",
+    "Portal Room"
+  ],
+  "Operation": 1
+}

@@ -1,0 +1,1 @@
+This configuration file is deprecated. Please use the new one. You can safely delete this one.
