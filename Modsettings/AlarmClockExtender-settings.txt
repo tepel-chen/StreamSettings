@@ -5,7 +5,7 @@
   "HowToReset": "Changing this setting to true will reset ALL your setting back to default.",
   "DebugOutput": true,
   "HowToDebug": "This controls whether things will be dumped into the output log at all.",
-  "AlarmClockBuzzerTime": 60.0,
+  "AlarmClockBuzzerTime": 1,
   "HowToUse1": "Sets the number of seconds the Alarm clock will buzz for.",
   "SoundFileDirectory": "C:/Users/totsu/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\\AlarmClockExtender",
   "HowToUse2": "Set this directory to where you will put all your music tracks used for the Alarm clock.",

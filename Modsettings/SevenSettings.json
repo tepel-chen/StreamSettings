@@ -1,7 +1,7 @@
 {
   "hardCapStageGeneration": true,
   "forceFastReads": false,
-  "PPAScale": 1.0,
-  "maxPPA": 35,
+  "PPAScale": 1.25,
+  "maxPPA": -1,
   "noTPUncapping": false
 }
