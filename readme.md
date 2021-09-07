@@ -1,1 +1,1 @@
-This repository contains all of the settings used on the official Twitch Plays Keep Talking and Nobody Explodes stream, hosted 24/7 on https://www.twitch.tv/marksam32
+日本語話者向けのTwitch Play及びDiscord Playの設定ファイル
