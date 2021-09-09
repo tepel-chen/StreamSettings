@@ -12458,7 +12458,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} <###...> | Range: 1-6, flips bottom 6 buttons, then presses the first button to submit | Example: !{0} 123",
+    "helpText": "!{0} <###...> | Range: 1-6, flips bottom 6 buttons | Example: !{0} 123 | !{0} submit <odd/even> | Presses the top button when the last digit of the timer is odd/even.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
