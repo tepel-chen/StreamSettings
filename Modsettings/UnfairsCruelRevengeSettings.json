@@ -1,3 +1,6 @@
 {
-  "noCopyright": true
+  "enableLegacyUCR": false,
+  "cruelerRevenge": false,
+  "noTPCruelerRevenge": false,
+  "version": "2.0"
 }

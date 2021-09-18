@@ -22052,7 +22052,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Select the given button with \"!{0} press R(ed);G(reen);B(lue);C(yan);M(agenta);Y(ellow);Inner;Outer\" To time a specific press, append based only on seconds digits (##), full time stamp (DD:HH:MM:SS), or MM:SS where MM exceeds 99 min. To press the idx/strike screen \"!{0} screen\" Semicolons can be used to combine presses, both untimed and timed.\nEnable autocycle on the screen by using \"!{0} autocycle ##.###\", or turn autocycle off with \"!{0} autocycle off\". Get the colors of the buttons around the module by using \"!{0} colorblind\" or \"!{0} cycle\"",
+    "helpText": "Select the given button with \"!{0} press R(ed);G(reen);B(lue);C(yan);M(agenta);Y(ellow);Inner;Outer\" To time a specific press, append based only on seconds digits (##), up to full time stamp (DD:HH:MM:SS), or MM:SS where MM exceeds 99 min. To press the idx/strike screen \"!{0} screen\" Semicolons can be used to combine presses, both untimed and timed.\nEnable autocycle on the screen by using \"!{0} autocycle ##.###\", turn autocycle off with \"!{0} autocycle off\", or make the autocycle cycle in the opposite direction with \"!{0} autocycle reverse\". Get the colors of the buttons around the module by using \"!{0} colorblind\" or \"!{0} cycle\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
