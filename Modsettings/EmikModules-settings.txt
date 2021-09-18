@@ -1,4 +1,11 @@
 {
+  "TheOctadecayotton -> Dimensions": 9,
+  "TheOctadecayotton -> Rotations": 3,
+  "TheOctadecayotton -> Slowness": 8,
+  "TheOctadecayotton -> ColorAssist": true,
+  "TheOctadecayotton -> InOutBounce": false,
+  "TheOctadecayotton -> InOutElastic": false,
+  "TheOctadecayotton -> StretchToFit": false,
   "hexOS -> DisableOctOS": false,
   "HowToUse0": "Enable/disable the ability to go into hard mode by submitting a number without playing the sequence. (default: false)",
   "hexOS -> FastStrike": false,
@@ -19,14 +26,9 @@
   "HowToUse8": "Mainly for VR, set this to true to prevent problems with the colored screen's KMSelectable. With it disabled, the screen must be held, and markers are disabled. (default: false)",
   "Phosphorescence -> StreamDelay": 0,
   "HowToUse9": "Mainly for TwitchPlays, set this to the amount of seconds of the stream delay. 1 second of stream delay equates to +15 additional seconds on the timer. (default: 0)",
-  "TheOctadecayotton -> Dimensions": 9,
   "HowToUse10": "Amount of dimensions, for accessibility/practice. By default 9, range 3-12. WARNING: Higher dimension may cause lag. (default: 9)",
-  "TheOctadecayotton -> Rotations": 3,
   "HowToUse11": "Amount of rotations, for accessibility/practice. By default 3, range 0-100. (default: 3)",
-  "TheOctadecayotton -> ColorAssist": true,
   "HowToUse12": "Maintains the color that was initially assigned to the sphere while moving around, making reads much easier. (default: false)",
-  "TheOctadecayotton -> InOutBounce": false,
   "HowToUse13": "Makes rotations use the InOutBounce ease, not suitable for serious play. (default: false)",
-  "TheOctadecayotton -> StretchToFit": false,
   "HowToUse14": "Stretches the individual X, Y, and Z axes on the tesseract to always take up the entire module. This does cause proportions to be skewed. (default: false)"
 }
