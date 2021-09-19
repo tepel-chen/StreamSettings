@@ -3342,9 +3342,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4559,7 +4556,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6669,9 +6666,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7859,7 +7853,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} reel [Presses the reel button]",
+    "helpText": "!{0} reel [Presses the reel button] | !{0} keep [Presses the keep button] | !{0} throw [Presses the throw button]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -12767,7 +12761,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} switch [switch between solve screen and current subpuzzle] | !{0} left/right <#> [move between subpuzzles] | !{0} set ABCDE [Encoding Quiz] | !{0} guess A [Hangman] | !{0} input 47 [Mental Math] | !{0} clear/check/fill A1 A2/mark A1 A2 [Nonogram] | !{0} press 1423 [Sorting] | !{0} enter WORD [Spelling Bee] | !{0} tap A2 B5 [Spot The Difference] | !{0} submit ABCDEFG [clears input and submits answer]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -13505,7 +13499,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use [!{0} play] to play the sequence. Use [!{0} submit 01101101] to submit that sequence into the module.",
+    "helpText": "Use [!{0} play] to play the sequence. Use [!{0} submit 01101101] to submit that sequence into the module. Use [!{0} reset] to reset to the initial",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -15405,6 +15399,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Over Kilo",
+    "moduleTranslatedName": null,
+    "moduleID": "overKilo",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Painting",
     "moduleTranslatedName": null,
     "moduleID": "Painting",
@@ -15990,9 +15999,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17949,9 +17955,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17967,9 +17970,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17985,9 +17985,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -23610,9 +23607,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -24062,7 +24056,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Select the given button with \"!{0} press R(ed);G(reen);B(lue);C(yan);M(agenta);Y(ellow);Inner;Outer\" To time a specific press, append based only on seconds digits (##), full time stamp (DD:HH:MM:SS), or MM:SS where MM exceeds 99 min. To press the idx/strike screen \"!{0} screen\" Semicolons can be used to combine presses, both untimed and timed.\nEnable autocycle on the screen by using \"!{0} autocycle ##.###\", or turn autocycle off with \"!{0} autocycle off\". Get the colors of the buttons around the module by using \"!{0} colorblind\" or \"!{0} cycle\"",
+    "helpText": "Select the given button with \"!{0} press R(ed);G(reen);B(lue);C(yan);M(agenta);Y(ellow);Inner;Outer\" To time a specific press, append based only on seconds digits (##), up to full time stamp (DD:HH:MM:SS), or MM:SS where MM exceeds 99 min. To press the idx/strike screen \"!{0} screen\" Semicolons can be used to combine presses, both untimed and timed.\nEnable autocycle on the screen by using \"!{0} autocycle ##.###\", turn autocycle off with \"!{0} autocycle off\", or make the autocycle cycle in the opposite direction with \"!{0} autocycle reverse\". Get the colors of the buttons around the module by using \"!{0} colorblind\" or \"!{0} cycle\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -24693,9 +24687,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -25378,7 +25369,7 @@
   },
   {
     "moduleDisplayName": "キーパッド",
-    "moduleTranslatedName": "キーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "KeypadComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25393,7 +25384,7 @@
   },
   {
     "moduleDisplayName": "サイモンゲーム",
-    "moduleTranslatedName": "サイモンゲーム",
+    "moduleTranslatedName": null,
     "moduleID": "SimonComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25408,7 +25399,7 @@
   },
   {
     "moduleDisplayName": "パスワード",
-    "moduleTranslatedName": "パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "PasswordComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25423,7 +25414,7 @@
   },
   {
     "moduleDisplayName": "ボタン",
-    "moduleTranslatedName": "ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "ButtonComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25438,7 +25429,7 @@
   },
   {
     "moduleDisplayName": "モールス信号",
-    "moduleTranslatedName": "モールス信号",
+    "moduleTranslatedName": null,
     "moduleID": "MorseCodeComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25453,7 +25444,7 @@
   },
   {
     "moduleDisplayName": "ワイヤ",
-    "moduleTranslatedName": "ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "WireSetComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25468,7 +25459,7 @@
   },
   {
     "moduleDisplayName": "表比較",
-    "moduleTranslatedName": "表比較",
+    "moduleTranslatedName": null,
     "moduleID": "WhosOnFirstComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25477,13 +25468,13 @@
     "helpTextOverride": false,
     "helpText": "!{0} 何？ [\"何？\"のボタンを押す] | !{0} press 3 [読み順で3つ目のボタンを押す] | ボタンのラベルは完全一致していなければならない",
     "manualCodeOverride": false,
-    "manualCode": "https://ktane.timwi.de/HTML/Who%27s%20on%20First%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E8%A1%A8%E6%AF%94%E8%BC%83).html",
+    "manualCode": "Who%E2%80%99s on First",
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "複雑ワイヤ",
-    "moduleTranslatedName": "複雑ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "VennWireComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25516,7 +25507,7 @@
   },
   {
     "moduleDisplayName": "記憶",
-    "moduleTranslatedName": "記憶",
+    "moduleTranslatedName": null,
     "moduleID": "MemoryComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25531,7 +25522,7 @@
   },
   {
     "moduleDisplayName": "迷路",
-    "moduleTranslatedName": "迷路",
+    "moduleTranslatedName": null,
     "moduleID": "InvisibleWallsComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25546,7 +25537,7 @@
   },
   {
     "moduleDisplayName": "順番ワイヤ",
-    "moduleTranslatedName": "順番ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "WireSequenceComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25554,7 +25545,7 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} cut 7 [ワイヤ7を切る] | !{0} down, !{0} d [次のパネルに移動] | !{0} up, !{0} u [前のパネルに移動] | !{0} cut 7 8 9 d [複数のワイヤを切って次のパネルに移動] | 数字はモジュール左側の数字を利用する",
-    "manualCodeOverride": false,
+    "manualCodeOverride": true,
     "manualCode": "https://ktane.timwi.de/HTML/Wire%20Sequence%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E9%A0%86%E7%95%AA%E3%83%AF%E3%82%A4%E3%83%A4).html",
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
