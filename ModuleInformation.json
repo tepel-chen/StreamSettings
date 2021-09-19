@@ -6865,7 +6865,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press screen/screen [to press on screen] !{0} start on #[pressing start button at specific time] !{0} submit llllrrrr [pressing left/right input buttons] !{0} reset [to reset your input]",
+    "helpText": "!{0} press screen/screen [to press on screen] !{0} start on # [pressing start button at specific time] !{0} submit llllrrrr [pressing left/right input buttons] !{0} reset [to reset your input]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",

@@ -20,7 +20,9 @@
     "EarthboundModule",
     "GSFaultyButtons",
     "greekLetterGrid",
-    "maskedMorse"
+    "maskedMorse",
+    "CactusPConundram",
+    "PinkButtonModule"
   ],
   "Operation": 1
 }
