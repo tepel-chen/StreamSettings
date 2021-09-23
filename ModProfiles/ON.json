@@ -20,9 +20,10 @@
     "EarthboundModule",
     "GSFaultyButtons",
     "greekLetterGrid",
-    "maskedMorse",
-    "CactusPConundram",
-    "PinkButtonModule"
+    "PinkButtonModule",
+    "wackGameOfLife",
+    "unfairsRevenge",
+    "unfairsRevengeCruel"
   ],
   "Operation": 1
 }
