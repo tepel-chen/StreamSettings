@@ -79,7 +79,7 @@
   "EnableZenModeForEveryone": true,
   "EnableTrainingModeForEveryone": true,
   "EnableFilledgeworkForEveryone": true,
-  "EnableDMGForEveryone": false,
+  "EnableDMGForEveryone": true,
   "TrainingModeDetonationTime": 120,
   "MinTimeLeftForClaims": 60,
   "MinUnsolvedModulesLeftForClaims": 3,
