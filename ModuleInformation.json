@@ -3031,7 +3031,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} press <jeeves/hammer/chicken/cactus/shark/spoon> [Presses the jeeves, hammer, chicken, cactus, shark, or spoon button]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",

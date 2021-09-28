@@ -21,7 +21,8 @@
     "GSFaultyButtons",
     "greekLetterGrid",
     "PinkButtonModule",
-    "wackGameOfLife"
+    "wackGameOfLife",
+    "deafAlleyModule"
   ],
   "Operation": 1
 }
