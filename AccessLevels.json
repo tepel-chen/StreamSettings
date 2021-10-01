@@ -1036,7 +1036,7 @@
     "3520whalien": "User",
     "nitowl12": "User",
     "2q539": "User",
-    "pinhualoh": "User",
+    "pinhualoh": "Banned",
     "zekilla440": "User",
     "エルトリク": "User",
     "the_h3i53nb3rg": "User",
@@ -1086,7 +1086,8 @@
     "happygator4723": "User",
     "bluejay86": "User",
     "hwiggy": "User",
-    "turtlebender78": "User"
+    "turtlebender78": "User",
+    "aop13795": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1261,6 +1262,11 @@
     },
     "danielstigman315": {
       "BannedBy": "marksam32",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "pinhualoh": {
+      "BannedBy": "BigLittleOrMe",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }

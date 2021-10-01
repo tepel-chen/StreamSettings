@@ -13,7 +13,6 @@
     "nameChanger",
     "TheCloseButton",
     "xtrkeywords",
-    "melodySequencer",
     "antimatterDimensions",
     "macroMemory",
     "masherTheBottun",
@@ -22,7 +21,14 @@
     "greekLetterGrid",
     "PinkButtonModule",
     "wackGameOfLife",
-    "deafAlleyModule"
+    "DoublePitch",
+    "RemoteTurnTheKeys",
+    "bandboozledAgain",
+    "BrownButtonModule",
+    "1DChess",
+    "Updog",
+    "forgetOurVoices",
+    "uncolourFlash"
   ],
   "Operation": 1
 }
