@@ -20,15 +20,14 @@
     "GSFaultyButtons",
     "greekLetterGrid",
     "PinkButtonModule",
-    "wackGameOfLife",
-    "DoublePitch",
-    "RemoteTurnTheKeys",
     "bandboozledAgain",
     "BrownButtonModule",
     "1DChess",
     "Updog",
-    "forgetOurVoices",
-    "uncolourFlash"
+    "Skewers",
+    "Towers",
+    "TalkingPoints",
+    "explodingMittens"
   ],
   "Operation": 1
 }
