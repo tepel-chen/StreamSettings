@@ -1,7 +1,6 @@
 {
   "DisabledList": [
     "tallorderedKeys",
-    "hexabutton",
     "PurgatoryModule",
     "Wendithapn",
     "qkHorsey",
@@ -11,7 +10,6 @@
     "GSCorridors",
     "derivatives",
     "nameChanger",
-    "TheCloseButton",
     "xtrkeywords",
     "antimatterDimensions",
     "macroMemory",
@@ -27,7 +25,9 @@
     "Skewers",
     "Towers",
     "TalkingPoints",
-    "explodingMittens"
+    "obamaGroceryStore",
+    "notEmojiMath",
+    "TheAssortedArrangement"
   ],
   "Operation": 1
 }
