@@ -5,7 +5,6 @@
     "Wendithapn",
     "qkHorsey",
     "gameOfLifeNeedy",
-    "SaimoeMaze",
     "PressX",
     "GSCorridors",
     "derivatives",
@@ -15,19 +14,15 @@
     "macroMemory",
     "masherTheBottun",
     "EarthboundModule",
-    "GSFaultyButtons",
     "greekLetterGrid",
     "PinkButtonModule",
     "bandboozledAgain",
     "BrownButtonModule",
     "1DChess",
-    "Updog",
     "Skewers",
-    "Towers",
     "TalkingPoints",
-    "obamaGroceryStore",
     "notEmojiMath",
-    "TheAssortedArrangement"
+	"Updog"
   ],
   "Operation": 1
 }
