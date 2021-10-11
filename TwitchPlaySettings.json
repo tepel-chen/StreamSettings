@@ -33,6 +33,7 @@
   "FindClaimLimit": 3,
   "FindClaimTerms": 3,
   "FindClaimAddTime": 5,
+  "FindClaimDelay": 30,
   "VoteCountdownTime": 60,
   "EnableVoting": true,
   "EnableVoteSolve": true,
