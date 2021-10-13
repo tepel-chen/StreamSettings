@@ -5527,7 +5527,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "DetoNATO",
@@ -21155,7 +21155,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 0 2 3 on off off on on off [wait for this sequence of numbers and tap the button on the last one, then skip one digit, then toggle the light into the specified states]",
+    "helpText": "!{0} 5 1 2 2 2 on off off on on off [wait for this sequence of numbers and tap the button on the last one, then skip one digit, then toggle the light into the specified states]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
