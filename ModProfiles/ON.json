@@ -9,7 +9,6 @@
     "GSCorridors",
     "derivatives",
     "nameChanger",
-    "xtrkeywords",
     "antimatterDimensions",
     "macroMemory",
     "masherTheBottun",
@@ -17,7 +16,6 @@
     "PinkButtonModule",
     "bandboozledAgain",
     "BrownButtonModule",
-    "1DChess",
     "TalkingPoints",
     "notEmojiMath",
     "obamaGroceryStore",
@@ -26,8 +24,9 @@
     "AlienModule",
     "GSSurroundingButtons",
     "cornflowerCipher",
-    "kawaiitlyn",
-    "NotTimerModule"
+    "NotTimerModule",
+    "GSAccessCodes",
+    "multitask"
   ],
   "Operation": 1
 }
