@@ -663,7 +663,7 @@
   "PosPPAEmote": "VoteYea",
   "NegPPAEmote": "VoteNay",
   "BombLiveMessage": "爆弾が起動しました!コマンドを送って解除しよう! MrDestructoid",
-  "MultiBombLiveMessage": "The next set of bombs are now live! Start sending your commands! MrDestructoid",
+  "MultiBombLiveMessage": "次の爆弾が起動しました!コマンドを送って解除しよう! MrDestructoid",
   "BombExplodedMessage": "KAPOW KAPOW 爆弾が爆発しました! 残り時間{0} KAPOW KAPOW",
   "BombDefusedMessage": "PraiseIt PraiseIt 爆弾が解除されました! 残り時間{0}",
   "BombDefusedBonusMessage": "解除に貢献したすべてのプレイヤーに{0}ポイントが追加されます。",

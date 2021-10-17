@@ -3,6 +3,7 @@ Manual/*
 AlarmClockExtender/*
 ModifiedManuals/*
 TwitchPlaysShared/*
+TranslationSettings/*
 Modsettings/BombCreator-settings.txt
 Modsettings/BossModules.json
 Modsettings/CameraZoom-settings.txt
@@ -24,6 +25,7 @@ Modsettings/MusicRhythms-settings.txt
 Modsettings/quizBuzz-settings.txt
 Modsettings/RubiksCube-settings.txt
 Modsettings/TranslatedModules-settings.txt
+Modsettings/TranslationService-settings.json
 Modsettings/TweakSettings.json.bak
 Modsettings/Twitch Plays-settings.txt
 Modsettings/twofactor-settings.txt

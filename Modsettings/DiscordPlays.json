@@ -1,6 +1,6 @@
 {
   "URLOverride": "",
   "UseWSSOnOverride": false,
-  "BlockTwitchInput": "WhenConnected",
+  "BlockTwitchInput": "Never",
   "Server": "Main"
 }
