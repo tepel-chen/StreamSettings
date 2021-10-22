@@ -12,9 +12,7 @@
     "macroMemory",
     "masherTheBottun",
     "greekLetterGrid",
-    "PinkButtonModule",
     "TalkingPoints",
-    "notEmojiMath",
     "obamaGroceryStore",
     "GSEightyOne",
     "GSDirectingButtons",
@@ -22,7 +20,8 @@
     "NotTimerModule",
     "GSAccessCodes",
     "metapuzzle",
-    "SimonSmiles"
+    "SimonSmiles",
+    "drippingTriangles"
   ],
   "Operation": 1
 }
