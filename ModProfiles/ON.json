@@ -4,7 +4,6 @@
     "PurgatoryModule",
     "Wendithapn",
     "qkHorsey",
-    "gameOfLifeNeedy",
     "PressX",
     "GSCorridors",
     "derivatives",
@@ -14,14 +13,14 @@
     "greekLetterGrid",
     "TalkingPoints",
     "obamaGroceryStore",
-    "GSEightyOne",
     "GSDirectingButtons",
     "AlienModule",
     "NotTimerModule",
-    "GSAccessCodes",
     "metapuzzle",
     "SimonSmiles",
-    "drippingTriangles"
+    "drippingTriangles",
+    "forestCipher",
+    "omegaForget"
   ],
   "Operation": 1
 }
