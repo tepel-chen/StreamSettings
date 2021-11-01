@@ -1,26 +1,20 @@
 {
   "DisabledList": [
-    "tallorderedKeys",
     "PurgatoryModule",
     "Wendithapn",
     "qkHorsey",
     "PressX",
     "GSCorridors",
     "derivatives",
-    "antimatterDimensions",
-    "macroMemory",
     "masherTheBottun",
     "greekLetterGrid",
     "TalkingPoints",
-    "obamaGroceryStore",
     "GSDirectingButtons",
-    "AlienModule",
-    "NotTimerModule",
     "metapuzzle",
     "SimonSmiles",
-    "drippingTriangles",
-    "forestCipher",
-    "omegaForget"
+    "QuickArithmetic",
+    "CodeCracker",
+    "AmberButtonModule"
   ],
   "Operation": 1
 }
