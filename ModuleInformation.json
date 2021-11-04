@@ -1025,6 +1025,20 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "amogus",
+    "moduleID": "TDSAmogus",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Amusement Parks",
     "moduleID": "amusementParks",
     "scoreStringOverride": false,
@@ -1182,7 +1196,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} dim [1-8] # (Presses the dimension you want a # number of times.) | !{0} tick # (Presses the tickspeed button a # number of times.) | These first two are only valid if you are on the main game section of the module. | !{0} change (presses the button on the bottom to change the screen) | !{0} upgrade [1-6] (presses the upgrade from 1 to 6, and must be on the upgrade screen) | !{0} boost (presses the boost button, must be on the dim boost page)",
+    "helpText": "!{0} dim [1-8] (Presses the single dimension you want.) | !{0} dimx10 [1-8] (Presses the x10 button of the dimension given.) | !{0} tick (Presses the tickspeed button) | These first two are only valid if you are on the main game section of the module. | !{0} change (presses the button on the bottom to change the screen) | !{0} upgrade [1-8] (presses the upgrade from 1 to 8, and must be on the upgrade screen) | !{0} boost (presses the boost button, must be on the dim boost page)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -4345,7 +4359,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Magyarul, Hungarian - Submit the correct response with !{0} press IGEN 3, or !{0} press NEM 5.",
+    "helpText": "日本語, Japanese - Submit the correct response with !{0} press はい 3, or !{0} press いいえ 5.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -7926,23 +7940,6 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
-    "moduleDisplayName": "Forget Morse Not",
-    "moduleID": "forgetMorseNot",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": true,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} - -..-",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
     "moduleDisplayName": "Forget Our Voices",
     "moduleID": "forgetOurVoices",
     "scoreStringOverride": false,
@@ -8147,6 +8144,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Free Password",
+    "moduleID": "FreePassword",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Friendship",
     "moduleID": "FriendshipModule",
     "scoreStringOverride": false,
@@ -8342,6 +8353,20 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} press <pos> [Presses the button in the specified position] | Valid positions are left(l), middle(m), or right(r)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Gemory",
+    "moduleID": "gemory",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -9018,7 +9043,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} cycle [Quickly hovers over the numbers and shape] | !{0} toggle <##> [Starts or stops hovering over the status light when the last two digits of the bomb's timer are '##']",
+    "helpText": "!{0} cycle [Quickly hovers over the numbers and shape] | !{0} toggle <##> <##₂> [Starts and stops hovering over the status light when the last two digits of the bomb's timer are '##' and '##₂']",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -9382,6 +9407,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Icon Reveal",
+    "moduleID": "IconReveal",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Iconic",
     "moduleID": "iconic",
     "scoreStringOverride": false,
@@ -9576,7 +9615,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Move to other screens using !{0} right|left|r|l|. Submit the decrypted word with !{0} submit qwertyuiopasdfghjklzxcvbnm",
+    "helpText": "!{0} right/left/r/l [move between screens] | !{0} submit answerword",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -10478,6 +10517,34 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Large Free Password",
+    "moduleID": "LargeFreePassword",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Large Password",
+    "moduleID": "LargeVanillaPassword",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -13441,6 +13508,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Needy Wires",
+    "moduleID": "TDSNeedyWires",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Negation",
     "moduleID": "xelNegation",
     "scoreStringOverride": false,
@@ -14336,6 +14417,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "nya~",
+    "moduleID": "TDSNya",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Obama Grocery Store",
     "moduleID": "obamaGroceryStore",
     "scoreStringOverride": false,
@@ -14752,6 +14847,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Parliament",
+    "moduleID": "parliament",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17475,7 +17584,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...>. | Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>. | Build a street with !{0} build street <hexCardinal> <CardinalOfThatHex>. | Claim one or multiple resource with !{0} hex <hexCardinal> <hexCardinal> <...>. | Trade resources using !{0} trade <res> <res>. e.g. !{0} trade brick wood: trades 4 brick for 1 wood. Valid resource are BRICK, WOOD, ORE, GRAIN, WOOL. | Discard resources during thiefmode with !{0} discard <res> <number>. e.g. !{0} discard brick 4, discards 4 brick. | Valid Cardinals are N,NE,SE... & T,TR,BR,M,C... !{0} toggleNoSolveMode <-- its self-explanatory @L.W. :P",
+    "helpText": "Roll the dice with !{0} roll or !{0} roll until <no1> <no2> <...>. | Build a settlement/city with !{0} build house/city/settlement <hexCardinal> <CardinalOfThatHex>. | Build a street with !{0} build street <hexCardinal> <CardinalOfThatHex>. | Claim one or multiple resource with !{0} hex <hexCardinal> <hexCardinal> <...>. | Trade resources using !{0} trade <res> <res>. e.g. !{0} trade brick lumber: trades 4 brick for 1 lumber. Valid resources are BRICK, LUMBER, ORE, GRAIN, WOOL. | Discard resources during thiefmode with !{0} discard <res> <number>. e.g. !{0} discard brick 4, discards 4 brick. | Valid Cardinals are N,NE,SE... & T,TR,BR,M,C... !{0} toggleNoSolveMode <-- its self-explanatory @TheLegendWilleh :P",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -24166,6 +24275,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "X",
+    "moduleID": "xModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "X01",
     "moduleID": "X01",
     "scoreStringOverride": false,
@@ -24231,6 +24354,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Y",
+    "moduleID": "yModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
