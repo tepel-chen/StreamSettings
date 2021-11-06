@@ -1,4 +1,6 @@
 {
+  "Phosphorescence -> CruelMode": false,
+  "Phosphorescence -> StreamDelay": 3,
   "hexOS -> DisableOctOS": false,
   "hexOS -> ForceOctOS": false,
   "hexOS -> FastStrike": false,
@@ -7,8 +9,6 @@
   "hexOS -> FlashOtherColors": 5,
   "hexOS -> DelayPerBeat": 0.07,
   "hexOS -> CustomSolveQuote": "",
-  "Phosphorescence -> CruelMode": false,
-  "Phosphorescence -> StreamDelay": 3,
   "TheOctadecayotton -> Dimensions": 9,
   "TheOctadecayotton -> Rotations": 3,
   "TheOctadecayotton -> Slowness": 8,
