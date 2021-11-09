@@ -14,7 +14,9 @@
     "SimonSmiles",
     "QuickArithmetic",
     "CodeCracker",
-    "AmberButtonModule"
+    "AmberButtonModule",
+    "stoichiometryModule",
+    "QLModule"
   ],
   "Operation": 1
 }
