@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "PurgatoryModule",
     "Wendithapn",
     "qkHorsey",
     "PressX",
@@ -16,7 +15,10 @@
     "CodeCracker",
     "AmberButtonModule",
     "stoichiometryModule",
-    "QLModule"
+    "QLModule",
+    "Updog",
+    "FiveZeroOne",
+    "FourtyTwo"
   ],
   "Operation": 1
 }
