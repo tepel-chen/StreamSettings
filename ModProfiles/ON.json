@@ -18,7 +18,10 @@
     "QLModule",
     "Updog",
     "FiveZeroOne",
-    "FourtyTwo"
+    "FourtyTwo",
+    "extendedButtonOrder",
+    "parliament",
+    "hexOrbits"
   ],
   "Operation": 1
 }
