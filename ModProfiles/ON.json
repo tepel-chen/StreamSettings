@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "Wendithapn",
     "qkHorsey",
     "PressX",
     "GSCorridors",
@@ -10,19 +9,16 @@
     "TalkingPoints",
     "GSDirectingButtons",
     "metapuzzle",
-    "SimonSmiles",
-    "QuickArithmetic",
-    "CodeCracker",
-    "AmberButtonModule",
     "stoichiometryModule",
     "QLModule",
     "Updog",
     "FiveZeroOne",
     "FourtyTwo",
     "extendedButtonOrder",
-    "parliament",
     "hexOrbits",
-    "misterSoftee"
+    "GSSimonShuffles",
+    "UNO",
+    "obamaGroceryStore"
   ],
   "Operation": 1
 }
