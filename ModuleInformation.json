@@ -14141,7 +14141,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use [!{0} start] to press submit. Use [!{0} submit 123 456 789] to submit those numbers into the module.",
+    "helpText": "Use [!{0} start] to press submit. Use [!{0} submit 123 456 789] to submit those numbers into the module. Use [!{0} colorblind] to view the button colors.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
