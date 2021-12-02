@@ -785,7 +785,7 @@
     "codenametoxicity": "User",
     "mixivr": "User",
     "kingdabura": "User",
-    "danielstigman315": "Defuser",
+    "danielstigman315": "Banned, Defuser",
     "oegamer": "User",
     "sundancingkitty": "User",
     "sammyskye": "User",
@@ -1122,7 +1122,9 @@
     "nouser757": "User",
     "hamp_ter": "User",
     "goodhood_real": "User",
-    "sarnoron009": "User"
+    "sarnoron009": "User",
+    "edvardsmazprecnieks": "User",
+    "doseacontaneb": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1297,6 +1299,11 @@
     },
     "pinhualoh": {
       "BannedBy": "BigLittleOrMe",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "danielstigman315": {
+      "BannedBy": "KittyAshy",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
