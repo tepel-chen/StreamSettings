@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "PressX",
     "greekLetterGrid",
     "TalkingPoints",
     "GSDirectingButtons",
@@ -12,11 +11,10 @@
     "hexOrbits",
     "ColourFlashES",
     "nameCodes",
-    "NotColoredSquaresModule",
     "zeroZero",
-    "anagraphy",
     "notProbing",
-    "patience"
+    "patience",
+    "ttBeaver"
   ],
   "Operation": 1
 }

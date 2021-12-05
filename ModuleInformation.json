@@ -1761,6 +1761,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Basegate",
+    "moduleID": "basegate",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} flip <up/right/down/left> [Flips the switch in that direction, initial letters can also be used] | !{0} open <top-left/middle-middle/bottom-right> [Opens the hatch in that position, abbreviations can also be used, e.g. TL] | !{0} set top-left up [If the top-left hatch is open, rotates the dial under it to the up position, initial letters and cardinal directions can also be used] | !{0} submit [Presses the submit button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Bases",
     "moduleID": "bases",
     "scoreStringOverride": false,
@@ -2409,6 +2426,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} right/left [move between screens] | !{0} submit answer",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Blue Whale",
+    "moduleID": "blueWhale",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} answer [1-4] (Selects the specified answer in reading order)",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -3072,6 +3106,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Burnout",
+    "moduleID": "kataBurnout",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} car <name> [Locks in the specified car] | !{0} track <condition> [Locks in the specified track condition] | !{0} boost <#> [Locks in the specified boost amount] | !{0} go/submit [Clicks the 'GO!' button] | !{0} hold/release (##) [Holds/releases the 'BOOST!' button (optionally when the two seconds digits of the timer are '##')] | !{0} reset [Holds the 'GO!' button for three seconds]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4635,7 +4686,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Conditional Buttons",
@@ -6190,6 +6241,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Don't Touch Anything",
+    "moduleID": "dontTouchAnything",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": true,
+    "helpTextOverride": false,
+    "helpText": "Want a free strike? Just enter '!{0} touch'!",
+    "manualCodeOverride": true,
+    "manualCode": "https://ktane.timwi.de/HTML/Don%27t%20Touch%20Anything%20reworded%20(Danny7007).html",
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Dot",
     "moduleID": "dot",
     "scoreStringOverride": false,
@@ -7144,6 +7212,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Face Off",
+    "moduleID": "faceOff",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} <C/U/R/W/D/L> # [Presses the rotation button with that label for # seconds, can be chained e.g. !{0} C 5 D 4] !{0} submit 58 [Presses the red button the next time the seconds digits of the timer are 58]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Face Perception",
     "moduleID": "face_perception",
     "scoreStringOverride": false,
@@ -7260,6 +7345,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Faulty 14 Segment Display",
+    "moduleID": "Faulty14SegmentDisplayModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} swap 1 14 [Swap segments 1 and 14] | !{0} red [Pick colors red/green/blue] | !{0} toggle [Pauses/resumes the cycle] | !{0} left/right [Cycle left/right in the sequence] | !{0} submit [Submit the answer] | Commands can be chained with commas and semicolons.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8073,7 +8175,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Forget Perspective",
@@ -8959,6 +9061,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "'!{0} submit [submission]' will submit the given morse sequence. (Replace [submission] with a series of - and .)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Hand Turkey",
+    "moduleID": "handTurkey",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cycle # [Presses the arrow button # times] !{0} write [Presses the letter button] !{0} switch [Long presses the arrow button]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -12431,6 +12550,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Mililtary Encryption",
+    "moduleID": "xelMilitaryEncryption",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Mind Meld",
     "moduleID": "mindMeld",
     "scoreStringOverride": false,
@@ -12816,6 +12952,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Money Game",
+    "moduleID": "MoneyGame",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} <Label> to press that label, chain commands using spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15511,7 +15664,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "To start the section, use !{0} play | To type in the text box, use !{0} type <text> | To submit, use !{0} submit | To clear the text, use !{0} [clear/fastclear] | Skip animations with !{0} skip (Strike animations cannot be skipped)",
+    "helpText": "To start the section, use !{0} play | To type in the text box, use !{0} type <text> | To submit, use !{0} submit | To clear the text, use !{0} [clear/fastclear] | Skip animations with !{0} skip",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -16047,6 +16200,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "'!{0} 420' to press the button when the bomb timer has 420 seconds left. Commands can be chained using spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Prison Break",
+    "moduleID": "prisonBreak",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "<!{0} start> to sound the alarms, <!{0} urdl> to move up right down left, <!{0} submit> to press the display",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -18649,7 +18819,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press <colour> <colour> [Presses the buttons with the specified colours] | Valid colours are blue, cyan, green, orange, purple, red, white, and yellow",
+    "helpText": "!{0} press <colour> <colour> [Presses the buttons with the specified colours] | Valid colours are (b)lue, (c)yan, (g)reen, (o)range, (p)urple, (r)ed, (w)hite, and (y)ellow",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -19273,7 +19443,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Sound Design",
@@ -20989,6 +21159,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "The Brown Button",
+    "moduleID": "BrownButtonModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} tap jq r [Taps while those letters are displayed, in order]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "The Bulb",
     "moduleID": "TheBulbModule",
     "scoreStringOverride": false,
@@ -21934,6 +22121,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Neutral Button",
+    "moduleID": "NeutralButtonModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} blink [Press the button when it blinks]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -23238,7 +23442,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} go [clicks the wheel] | !{0} toggle [switch between wheel and mat for stage recovery] | !{0} p1 left foot/p1lf [select a body part] | !{0} green 1 [place body part on a circle] | !{0} p1lf g 1 [select a body part and place it] | !{0} submit",
+    "helpText": "!{0} spin [spins the wheel] | !{0} toggle [switch between wheel and mat for stage recovery] | !{0} p1 left foot/p1lf [select a body part] | !{0} green 1 [place body part on a circle] | !{0} p1lfg1 [select a body part and place it] | !{0} submit",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -23664,6 +23868,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Untouchable",
+    "moduleID": "untouchableModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} start [Starts a new round of the game] | !{0} raise <red/green/both/neither> [Raises the specified paddle (can be abbreviated to first letter)] | On Twitch Plays the time limit for deciding on an action increases from 5 to 12 seconds",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
