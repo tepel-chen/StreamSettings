@@ -12846,7 +12846,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "To play the given tapes: \"!{0} play <color>\" Acceptable color options are red, blue, green, yellow. To play all the tapes from left to right \"!{0} play all\"\nTo submit the sequence: \"!{0} press <chars>\" The characters must be on the module and the length must be exactly 20 characters long!",
+    "helpText": "To play the given tapes: \"!{0} play <color>\" Acceptable color options are red, blue, green, yellow. To play all the tapes from left to right \"!{0} play all\"\nTo submit the sequence: \"!{0} press/submit <chars>\" The characters must be on the module and the length must be exactly 20 characters long!",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
