@@ -1,18 +1,15 @@
 {
   "DisabledList": [
     "greekLetterGrid",
-    "TalkingPoints",
-    "GSDirectingButtons",
     "metapuzzle",
     "stoichiometryModule",
-    "QLModule",
     "Updog",
     "extendedButtonOrder",
     "hexOrbits",
     "ColourFlashES",
     "nameCodes",
-    "notProbing",
-    "nomai"
+    "nomai",
+    "bandboozledAgain"
   ],
   "Operation": 1
 }
