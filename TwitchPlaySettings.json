@@ -754,5 +754,6 @@
   "GiveBonusSolves": "{0} awarded {1} solves by {2}",
   "GiveBonusStrikes": "{0} awarded {1} strikes by {2}",
   "UnsubmittableAnswerPenalty": "Sorry {0}, The answer for module {1} ({2}) couldn't be submitted! You lose {3} point{4}, please only submit correct answers.",
-  "UnsupportedNeedyWarning": "Found an unsupported Needy Component. Disabling it."
+  "UnsupportedNeedyWarning": "Found an unsupported Needy Component. Disabling it.",
+  "TechSupportBlock": "@{1}, module {0} ({2}) has been interrupted by Tech Support and is completely inoperable."
 }
