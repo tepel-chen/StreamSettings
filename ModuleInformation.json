@@ -10473,7 +10473,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "Use [!{0} press no RGB] to wait for those word colors to cycle and then press on the last entry. Similarly, use [!{0} press yes RGB] to wait for those words to cycle. Colors are abbreviated by their first letter. “press” is optional.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
