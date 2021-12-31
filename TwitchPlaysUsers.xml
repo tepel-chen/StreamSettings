@@ -19,7 +19,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>TimwiTerby</UserName>
@@ -50,10 +50,10 @@
       <b>0.13333334</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>977</SolveCount>
+    <SolveCount>978</SolveCount>
     <StrikeCount>68</StrikeCount>
-    <SolveScore>7272</SolveScore>
-    <LastAction>2021-12-31T10:57:09.680337+01:00</LastAction>
+    <SolveScore>7276</SolveScore>
+    <LastAction>2021-12-31T11:56:55.3996213+01:00</LastAction>
     <Rank>3</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -61,7 +61,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>uku1928</UserName>
@@ -71,10 +71,10 @@
       <b>0</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>590</SolveCount>
+    <SolveCount>594</SolveCount>
     <StrikeCount>50</StrikeCount>
-    <SolveScore>5501</SolveScore>
-    <LastAction>2021-12-31T09:42:51.6326836+01:00</LastAction>
+    <SolveScore>5535</SolveScore>
+    <LastAction>2021-12-31T12:15:28.2310123+01:00</LastAction>
     <Rank>4</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -92,10 +92,10 @@
       <b>0</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>299</SolveCount>
+    <SolveCount>302</SolveCount>
     <StrikeCount>51</StrikeCount>
-    <SolveScore>5182</SolveScore>
-    <LastAction>2021-12-31T10:57:07.5137463+01:00</LastAction>
+    <SolveScore>5222</SolveScore>
+    <LastAction>2021-12-31T12:19:46.265192+01:00</LastAction>
     <Rank>5</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -103,7 +103,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>ugh_sunlight</UserName>
@@ -386,10 +386,10 @@
       <b>0.7058824</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>392</SolveCount>
+    <SolveCount>394</SolveCount>
     <StrikeCount>29</StrikeCount>
-    <SolveScore>2685</SolveScore>
-    <LastAction>2021-12-31T01:19:51.0196842+01:00</LastAction>
+    <SolveScore>2729</SolveScore>
+    <LastAction>2021-12-31T12:21:06.6975871+01:00</LastAction>
     <Rank>19</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -397,7 +397,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>morimem022</UserName>
@@ -439,7 +439,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>true</Active>
+    <Active>false</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>ScopingLandscape</UserName>
@@ -502,7 +502,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>miki2003pl</UserName>
@@ -1142,10 +1142,10 @@
       <b>0.498039216</b>
       <a>1</a>
     </UserColor>
-    <SolveCount>32</SolveCount>
-    <StrikeCount>7</StrikeCount>
-    <SolveScore>162</SolveScore>
-    <LastAction>2021-12-30T11:56:06.2530234+01:00</LastAction>
+    <SolveCount>33</SolveCount>
+    <StrikeCount>9</StrikeCount>
+    <SolveScore>151</SolveScore>
+    <LastAction>2021-12-31T12:05:08.9602126+01:00</LastAction>
     <Rank>55</Rank>
     <RecordSoloTime>0</RecordSoloTime>
     <TotalSoloTime>0</TotalSoloTime>
@@ -1153,7 +1153,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>weirdthe</UserName>
@@ -2623,7 +2623,7 @@
     <SoloRank>0</SoloRank>
     <OptOut>false</OptOut>
     <Team xsi:nil="true" />
-    <Active>false</Active>
+    <Active>true</Active>
   </LeaderboardEntry>
   <LeaderboardEntry>
     <UserName>kingkongksww</UserName>

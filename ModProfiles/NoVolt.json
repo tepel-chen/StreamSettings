@@ -1,6 +1,6 @@
 {
   "DisabledList": [
-    "voltageMeterWidget"
+    "VoltageMeter"
   ],
   "Operation": 1
 }
