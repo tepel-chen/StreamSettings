@@ -2,17 +2,10 @@
   "DisabledList": [
     "greekLetterGrid",
     "metapuzzle",
-    "stoichiometryModule",
     "Updog",
     "extendedButtonOrder",
     "hexOrbits",
-    "nomai",
-    "zModule",
-    "halliGalli",
-    "juxtacolourFlash",
-    "varicolourFlash",
-    "identificationCrisis",
-    "vigenereCipher"
+    "antimatterDimensions"
   ],
   "Operation": 1
 }

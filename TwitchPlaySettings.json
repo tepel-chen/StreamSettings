@@ -100,6 +100,7 @@
     "NoCon",
     "NoCKeys",
     "NoDKon",
+    "NoEight",
     "NoFMN",
     "NoFMsN",
     "NoFE",
@@ -251,6 +252,7 @@
     "\nTech Profiles",
     "NoFactoryRoom",
     "NoTwo",
+    "NoVolt",
     "ON",
     "VSMode"
   ],
