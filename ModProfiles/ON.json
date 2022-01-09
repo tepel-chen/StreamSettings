@@ -8,7 +8,11 @@
     "antimatterDimensions",
     "magentaCipher",
     "ReformedRoleReversal",
-    "coralCipher"
+    "coralCipher",
+    "xrotor",
+    "DoublePitch",
+    "faceOff",
+    "stainedGlass"
   ],
   "Operation": 1
 }
