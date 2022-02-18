@@ -1,13 +1,13 @@
 {
   "DisabledList": [
-    "Updog",
-    "extendedButtonOrder",
     "antimatterDimensions",
     "faceOff",
-    "ChamberNoFive",
     "masherTheBottun",
     "identificationCrisis",
-    "cruelCandyLand"
+    "cruelCandyLand",
+    "MinesweeperModule",
+    "halliGalli",
+    "GSEavesdropping"
   ],
   "Operation": 1
 }
