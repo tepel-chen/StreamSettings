@@ -58,7 +58,9 @@
     "BoardWalk",
     "whiteout",
     "veryAnnoyingButton",
-    "multitask"
+    "multitask",
+    "GhostModule",
+    "TheHeart"
   ],
   "Operation": 1
 }

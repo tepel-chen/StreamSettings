@@ -1,13 +1,18 @@
 {
   "DisabledList": [
     "antimatterDimensions",
-    "faceOff",
     "masherTheBottun",
-    "identificationCrisis",
     "cruelCandyLand",
-    "MinesweeperModule",
-    "halliGalli",
-    "GSEavesdropping"
+    "GSEavesdropping",
+    "notSymbolicCoordinates",
+    "xModule",
+    "yModule",
+    "xelSporadicSegments",
+    "Quaver",
+    "DimensionKingModule",
+    "forgetUsNot",
+    "keyedButtons",
+    "FaerieFiresModule"
   ],
   "Operation": 1
 }

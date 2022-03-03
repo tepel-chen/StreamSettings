@@ -34,7 +34,8 @@
     "Disable Gridlock": false,
     "Disable Chord Qualities": false,
     "Disable Number Pad": false,
-    "Disable Sea Shells": false
+    "Disable Sea Shells": false,
+    "Disable Neutralization": false
   },
   "note": null
 }

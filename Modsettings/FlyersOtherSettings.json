@@ -1,4 +1,5 @@
 {
+  "UseAuthorSuggestedDynamicScoring": true,
   "InstantMysticLights": false,
   "FIPPAScaleFactor": 0.5,
   "SevenHardCapStageGeneration": true,
