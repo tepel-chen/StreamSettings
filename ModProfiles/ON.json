@@ -3,7 +3,6 @@
     "antimatterDimensions",
     "masherTheBottun",
     "cruelCandyLand",
-    "GSEavesdropping",
     "notSymbolicCoordinates",
     "xModule",
     "yModule",
@@ -12,7 +11,8 @@
     "DimensionKingModule",
     "forgetUsNot",
     "keyedButtons",
-    "FaerieFiresModule"
+    "FaerieFiresModule",
+    "xring"
   ],
   "Operation": 1
 }
