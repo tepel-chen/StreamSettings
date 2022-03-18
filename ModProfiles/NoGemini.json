@@ -1,6 +1,7 @@
 {
   "DisabledList": [
-    "PolluxModule"
+    "PolluxModule",
+	"CastorModule"
   ],
   "Operation": 1
 }
