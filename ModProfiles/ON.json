@@ -1,16 +1,13 @@
 {
   "DisabledList": [
-    "antimatterDimensions",
     "masherTheBottun",
     "cruelCandyLand",
-    "notSymbolicCoordinates",
     "xModule",
     "yModule",
     "xelSporadicSegments",
-    "DimensionKingModule",
-    "forgetUsNot",
     "FaerieFiresModule",
-    "xring"
+    "xring",
+    "Painting"
   ],
   "Operation": 1
 }
