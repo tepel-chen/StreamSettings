@@ -2,12 +2,12 @@
   "DisabledList": [
     "masherTheBottun",
     "cruelCandyLand",
-    "xModule",
-    "yModule",
     "xelSporadicSegments",
     "FaerieFiresModule",
     "xring",
-    "Painting"
+    "Painting",
+    "charms",
+    "remotemath"
   ],
   "Operation": 1
 }
