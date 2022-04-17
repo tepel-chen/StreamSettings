@@ -10,7 +10,8 @@
     "Patterns",
     "MatchingSigns",
     "KritGrandPrix",
-    "ArithmeticCipherModule"
+    "ArithmeticCipherModule",
+    "bandboozledAgain"
   ],
   "Operation": 1
 }
