@@ -9,6 +9,7 @@
   "SevenMaxPPA": -1,
   "SevenNoTPUncapping": false,
   "SevenNoTPRecapping": false,
+  "SimonSemibossDynamicScorePerFlash": 0.15,
   "SimonSemibossMaxFlashes": 40,
   "LPPEnableLabeledPriorities": true,
   "LPPEnableUnlabeledPriorities": true,

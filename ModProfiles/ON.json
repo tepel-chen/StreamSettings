@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "xelSporadicSegments",
     "FaerieFiresModule",
     "charms",
     "remotemath",
@@ -11,7 +10,12 @@
     "MatchingSigns",
     "KritGrandPrix",
     "ArithmeticCipherModule",
-    "bandboozledAgain"
+    "bandboozledAgain",
+    "brownsShadow",
+    "quizbowl",
+    "PressX",
+    "linkedWordleModule",
+    "gameChangerModule"
   ],
   "Operation": 1
 }

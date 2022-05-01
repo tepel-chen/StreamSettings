@@ -2,5 +2,8 @@
   "enableLegacyUCR": false,
   "cruelerRevenge": false,
   "noTPCruelerRevenge": false,
-  "version": "2.0"
+  "debugUCR": false,
+  "debugNumPairsInstructions": 3,
+  "debugCiphersIdxes": null,
+  "version": "2.1"
 }
