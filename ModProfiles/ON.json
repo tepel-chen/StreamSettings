@@ -9,13 +9,11 @@
     "Patterns",
     "MatchingSigns",
     "KritGrandPrix",
-    "ArithmeticCipherModule",
     "bandboozledAgain",
     "brownsShadow",
     "quizbowl",
     "PressX",
-    "linkedWordleModule",
-    "gameChangerModule"
+    "forgetMazeNot"
   ],
   "Operation": 1
 }
