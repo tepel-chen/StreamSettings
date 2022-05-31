@@ -1,9 +1,6 @@
 {
   "DisabledList": [
-    "FaerieFiresModule",
-    "charms",
     "remotemath",
-    "ChamberNoFive",
     "kataMinecraftSurvival",
     "eightTilesPanic",
     "Patterns",
@@ -13,7 +10,11 @@
     "brownsShadow",
     "quizbowl",
     "PressX",
-    "forgetMazeNot"
+    "forgetMazeNot",
+    "forgetMorseNot",
+    "EnglishEntries",
+    "simonSwindles",
+    "masherTheBottun"
   ],
   "Operation": 1
 }
