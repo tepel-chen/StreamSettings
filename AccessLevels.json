@@ -934,7 +934,7 @@
     "panther2788": "User",
     "29ax": "User",
     "zaspar99923": "User",
-    "kittyashy": "SuperUser",
+    "kittyashy": "ScoringManager",
     "infernalonline": "User",
     "ugh_sunlight": "User",
     "panmazzar": "User",
@@ -1246,7 +1246,17 @@
     "taylorv566": "User",
     "wanted_warner": "User",
     "jaydeemangion": "User",
-    "anmolswat": "User"
+    "anmolswat": "User",
+    "darkblu06": "User",
+    "retaked_": "User",
+    "studiokillers": "User",
+    "rohn290": "User",
+    "kingtarkin": "User",
+    "jav1er124": "User",
+    "sykoogs": "User",
+    "thenoname2022": "User",
+    "klyzx": "User",
+    "uncappingfern72": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1425,7 +1435,7 @@
       "BanExpiry": "Infinity"
     },
     "danielstigman315": {
-      "BannedBy": "KittyAshy",
+      "BannedBy": "marksam32",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
