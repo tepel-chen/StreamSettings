@@ -24,7 +24,18 @@
     "Disable Orientation Cube": false,
     "Disable Color Math": false,
     "Disable Microcontroller": false,
-    "Disable Adjacent Letters": false
+    "Disable Adjacent Letters": false,
+    "Disable Combination Lock": false,
+    "Disable neutralization": false,
+    "Disable Morsematics": false,
+    "Disable Adventure Game": false,
+    "Disable Laundry": false,
+    "Disable Alphabet": false,
+    "Disable Gridlock": false,
+    "Disable Chord Qualities": false,
+    "Disable Number Pad": false,
+    "Disable Sea Shells": false,
+    "Disable Neutralization": false
   },
   "note": null
 }

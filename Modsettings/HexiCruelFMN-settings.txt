@@ -1,6 +1,6 @@
 {
     "highVis": true,
-    "scale": 1.399999976158142,
+    "scale": 1.2999999523162842,
     "advanceWithKey": false,
     "reverseDialControls": false,
     "stageRandomForward": 10,
