@@ -2,5 +2,6 @@
   "ExcludeVanillaModules": false,
   "ExcludeIgnoredModules": false,
   "ExcludeMysteryModule": false,
-  "ExcludeSouvenir": false
+  "ExcludeSouvenir": false,
+  "Language": "ja"
 }

@@ -103,6 +103,9 @@ TwitchPlays/Previous Build/*
 Modsettings/Answering Can Be Fun.json
 Modsettings/YesAndNoQuestions.json
 output_log_2.txt
+Modsettings/fonts/
+Modsettings/css/
+Modsettings/img/
 Modsettings/IpaSettings.json
 Modsettings/Fifteen-settings.json
 Modsettings/ModkitSettings.json
@@ -122,3 +125,4 @@ Modsettings/functionalMapping-settings.txt
 RepositoryBackup.json
 TwitchPlaysUsers.xml
 AccessLevels.json
+DMGMissions/

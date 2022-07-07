@@ -163,7 +163,7 @@
   },
   {
     "moduleDisplayName": "101 Dalmatians",
-    "moduleTranslatedName": "101匹ワンちゃん",
+    "moduleTranslatedName": null,
     "moduleID": "OneHundredAndOneDalmatiansModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -181,7 +181,7 @@
   },
   {
     "moduleDisplayName": "1-2-3-2-1",
-    "moduleTranslatedName": "1-2-3-2-1",
+    "moduleTranslatedName": null,
     "moduleID": "12321",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -192,9 +192,6 @@
     "manualCodeOverride": true,
     "manualCode": "https://ktane.timwi.de/HTML/1-2-3-2-1%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%201-2-3-2-1)%20(hatosable).html",
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -235,7 +232,7 @@
   },
   {
     "moduleDisplayName": "16 Coins",
-    "moduleTranslatedName": "16コイン",
+    "moduleTranslatedName": null,
     "moduleID": "sixteenCoins",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -340,7 +337,7 @@
   },
   {
     "moduleDisplayName": "3D Maze",
-    "moduleTranslatedName": "3D迷路",
+    "moduleTranslatedName": null,
     "moduleID": "spwiz3DMaze",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -358,7 +355,7 @@
   },
   {
     "moduleDisplayName": "3D Tunnels",
-    "moduleTranslatedName": "3Dトンネル",
+    "moduleTranslatedName": null,
     "moduleID": "3dTunnels",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -377,23 +374,6 @@
   {
     "moduleDisplayName": "3N+1",
     "moduleTranslatedName": null,
-    "moduleID": "threeNPlusOne",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "Use the command !{0} submit ## to submit a two/one digit number.",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "3N+1",
     "moduleID": "threeNPlusOne",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -573,7 +553,7 @@
   },
   {
     "moduleDisplayName": "A Mistake",
-    "moduleTranslatedName": "間違い",
+    "moduleTranslatedName": null,
     "moduleID": "MistakeModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -696,7 +676,7 @@
   },
   {
     "moduleDisplayName": "Accumulation",
-    "moduleTranslatedName": "蓄積",
+    "moduleTranslatedName": null,
     "moduleID": "accumulation",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -750,7 +730,7 @@
   },
   {
     "moduleDisplayName": "Adjacent Letters",
-    "moduleTranslatedName": "隣接アルファベット",
+    "moduleTranslatedName": null,
     "moduleID": "AdjacentLettersModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -786,7 +766,7 @@
   },
   {
     "moduleDisplayName": "Adventure Game",
-    "moduleTranslatedName": "アドベンチャーゲーム",
+    "moduleTranslatedName": null,
     "moduleID": "spwizAdventureGame",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -840,7 +820,7 @@
   },
   {
     "moduleDisplayName": "Alchemy",
-    "moduleTranslatedName": "錬金術",
+    "moduleTranslatedName": null,
     "moduleID": "JuckAlchemy",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -873,7 +853,7 @@
   },
   {
     "moduleDisplayName": "Algebra",
-    "moduleTranslatedName": "方程式",
+    "moduleTranslatedName": null,
     "moduleID": "algebra",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -942,7 +922,7 @@
   },
   {
     "moduleDisplayName": "Alphabet",
-    "moduleTranslatedName": "アルファベット",
+    "moduleTranslatedName": null,
     "moduleID": "alphabet",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -960,7 +940,7 @@
   },
   {
     "moduleDisplayName": "Alphabet Numbers",
-    "moduleTranslatedName": "アルファベット番号",
+    "moduleTranslatedName": null,
     "moduleID": "alphabetNumbers",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1068,7 +1048,7 @@
   },
   {
     "moduleDisplayName": "A-maze-ing Buttons",
-    "moduleTranslatedName": "アメイジングボタン",
+    "moduleTranslatedName": null,
     "moduleID": "ksmAmazeingButtons",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1104,7 +1084,7 @@
   },
   {
     "moduleDisplayName": "amogus",
-    "moduleTranslatedName": "アモングス",
+    "moduleTranslatedName": null,
     "moduleID": "TDSAmogus",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1115,9 +1095,6 @@
     "manualCodeOverride": true,
     "manualCode": "https://ktane.timwi.de/HTML/amogus%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B0%E3%82%B9)%20(alpha8404).html",
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1140,7 +1117,7 @@
   },
   {
     "moduleDisplayName": "Anagrams",
-    "moduleTranslatedName": "アナグラム",
+    "moduleTranslatedName": null,
     "moduleID": "AnagramsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1182,7 +1159,7 @@
     "helpTextOverride": false,
     "helpText": "Press a button with “!{0} press up”, or chain button presses together with “!{0} press up down left”. Can use the initials of the buttons in place of words (“u” instead of “up” for example).",
     "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCode": "https://ktane.timwi.de/HTML/Annoying%20Arrows%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E6%82%A9%E3%81%BE%E3%81%97%E3%81%8D%E7%9F%A2%E5%8D%B0)%20(hatosable).html",
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
@@ -1389,7 +1366,7 @@
   },
   {
     "moduleDisplayName": "Art Appreciation",
-    "moduleTranslatedName": "芸術鑑賞",
+    "moduleTranslatedName": null,
     "moduleID": "AppreciateArt",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1494,7 +1471,7 @@
   },
   {
     "moduleDisplayName": "Astrology",
-    "moduleTranslatedName": "占星術",
+    "moduleTranslatedName": null,
     "moduleID": "spwizAstrology",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1617,7 +1594,7 @@
   },
   {
     "moduleDisplayName": "Backgrounds",
-    "moduleTranslatedName": "背景",
+    "moduleTranslatedName": null,
     "moduleID": "Backgrounds",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1851,7 +1828,7 @@
   },
   {
     "moduleDisplayName": "Battleship",
-    "moduleTranslatedName": "海戦ゲーム",
+    "moduleTranslatedName": null,
     "moduleID": "BattleshipModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1992,7 +1969,7 @@
   },
   {
     "moduleDisplayName": "Big Circle",
-    "moduleTranslatedName": "ビッグサークル",
+    "moduleTranslatedName": null,
     "moduleID": "BigCircle",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2061,7 +2038,7 @@
   },
   {
     "moduleDisplayName": "Binary LEDs",
-    "moduleTranslatedName": "二進法LED",
+    "moduleTranslatedName": null,
     "moduleID": "BinaryLeds",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2086,23 +2063,6 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Binary Morse",
-    "moduleID": "binaryMorse",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
     "helpText": "!{0} type 69420 to type 69420 into the module, !{0} submit to submit, !{0} clear to clear the display",
     "manualCodeOverride": false,
     "manualCode": null,
@@ -2114,7 +2074,7 @@
   },
   {
     "moduleDisplayName": "Binary Puzzle",
-    "moduleTranslatedName": "二進法パズル",
+    "moduleTranslatedName": null,
     "moduleID": "BinaryPuzzleModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2222,7 +2182,7 @@
   },
   {
     "moduleDisplayName": "Bitmaps",
-    "moduleTranslatedName": "ビットマップ",
+    "moduleTranslatedName": null,
     "moduleID": "BitmapsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2240,7 +2200,7 @@
   },
   {
     "moduleDisplayName": "Bitwise Operations",
-    "moduleTranslatedName": "ビット演算子",
+    "moduleTranslatedName": null,
     "moduleID": "BitOps",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2294,7 +2254,7 @@
   },
   {
     "moduleDisplayName": "Black Hole",
-    "moduleTranslatedName": "ブラックホール",
+    "moduleTranslatedName": null,
     "moduleID": "BlackHoleModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2312,7 +2272,7 @@
   },
   {
     "moduleDisplayName": "Blackjack",
-    "moduleTranslatedName": "ブラックジャック",
+    "moduleTranslatedName": null,
     "moduleID": "KritBlackjack",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2366,7 +2326,7 @@
   },
   {
     "moduleDisplayName": "Blind Alley",
-    "moduleTranslatedName": "ブラインド・アレイ ",
+    "moduleTranslatedName": null,
     "moduleID": "BlindAlleyModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2420,7 +2380,7 @@
   },
   {
     "moduleDisplayName": "Blinkstop",
-    "moduleTranslatedName": "瞬きの停止",
+    "moduleTranslatedName": null,
     "moduleID": "blinkstopModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2456,7 +2416,7 @@
   },
   {
     "moduleDisplayName": "Blockbusters",
-    "moduleTranslatedName": "ブロックバスター",
+    "moduleTranslatedName": null,
     "moduleID": "blockbusters",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2618,7 +2578,7 @@
   },
   {
     "moduleDisplayName": "Boggle",
-    "moduleTranslatedName": "ボグル",
+    "moduleTranslatedName": null,
     "moduleID": "boggle",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2672,7 +2632,7 @@
   },
   {
     "moduleDisplayName": "Bone Apple Tea",
-    "moduleTranslatedName": "ボーンアップルティー",
+    "moduleTranslatedName": null,
     "moduleID": "boneAppleTea",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2726,7 +2686,7 @@
   },
   {
     "moduleDisplayName": "Boolean Keypad",
-    "moduleTranslatedName": "論理キーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "BooleanKeypad",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2744,7 +2704,7 @@
   },
   {
     "moduleDisplayName": "Boolean Maze",
-    "moduleTranslatedName": "論理迷路",
+    "moduleTranslatedName": null,
     "moduleID": "boolMaze",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2776,25 +2736,8 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Boolean Network",
-    "moduleID": "BooleanNetwork",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} 146 [Press the buttons and submit. The buttons are numbered 1-6 starting from top button and going clockwise. \"submit\" or \"press\" is optional.] | !{0} submit [Press one of the button twice and submit] | !{0} colorblind [Toggle colorblind mode]",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
     "moduleDisplayName": "Boolean Venn Diagram",
-    "moduleTranslatedName": "ブール論理ベン図",
+    "moduleTranslatedName": null,
     "moduleID": "booleanVennModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2992,7 +2935,7 @@
   },
   {
     "moduleDisplayName": "Braille",
-    "moduleTranslatedName": "点字",
+    "moduleTranslatedName": null,
     "moduleID": "BrailleModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3115,7 +3058,7 @@
   },
   {
     "moduleDisplayName": "British Slang",
-    "moduleTranslatedName": "イギリススラング",
+    "moduleTranslatedName": null,
     "moduleID": "britishSlang",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3151,7 +3094,7 @@
   },
   {
     "moduleDisplayName": "Broken Buttons",
-    "moduleTranslatedName": "壊れたボタン",
+    "moduleTranslatedName": null,
     "moduleID": "BrokenButtonsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3277,7 +3220,7 @@
   },
   {
     "moduleDisplayName": "Burglar Alarm",
-    "moduleTranslatedName": "盗難警報",
+    "moduleTranslatedName": null,
     "moduleID": "burglarAlarm",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3349,7 +3292,7 @@
   },
   {
     "moduleDisplayName": "Button Grid",
-    "moduleTranslatedName": "ボタングリッド",
+    "moduleTranslatedName": null,
     "moduleID": "buttonGrid",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3385,7 +3328,7 @@
   },
   {
     "moduleDisplayName": "Button Order",
-    "moduleTranslatedName": "ボタンの順序",
+    "moduleTranslatedName": null,
     "moduleID": "buttonOrder",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3400,7 +3343,7 @@
   },
   {
     "moduleDisplayName": "Button Sequence",
-    "moduleTranslatedName": "順番ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "buttonSequencesModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3469,7 +3412,7 @@
   },
   {
     "moduleDisplayName": "Caesar Cipher",
-    "moduleTranslatedName": "カエサル暗号",
+    "moduleTranslatedName": null,
     "moduleID": "CaesarCipherModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3487,7 +3430,7 @@
   },
   {
     "moduleDisplayName": "Caesar Cycle",
-    "moduleTranslatedName": "カエサルサイクル",
+    "moduleTranslatedName": null,
     "moduleID": "caesarCycle",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3628,7 +3571,7 @@
   },
   {
     "moduleDisplayName": "Catchphrase",
-    "moduleTranslatedName": "キャッチフレーズ",
+    "moduleTranslatedName": null,
     "moduleID": "catchphrase",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3736,7 +3679,7 @@
   },
   {
     "moduleDisplayName": "Character Codes",
-    "moduleTranslatedName": "文字コード",
+    "moduleTranslatedName": null,
     "moduleID": "characterCodes",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3772,6 +3715,7 @@
   },
   {
     "moduleDisplayName": "Character Slots",
+    "moduleTranslatedName": null,
     "moduleID": "characterSlots",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3856,7 +3800,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3915,7 +3859,7 @@
   },
   {
     "moduleDisplayName": "Chinese Counting",
-    "moduleTranslatedName": "中国の数え方",
+    "moduleTranslatedName": null,
     "moduleID": "chineseCounting",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3969,7 +3913,7 @@
   },
   {
     "moduleDisplayName": "Chord Progressions",
-    "moduleTranslatedName": "コード進行",
+    "moduleTranslatedName": null,
     "moduleID": "chordProgressions",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3984,7 +3928,7 @@
   },
   {
     "moduleDisplayName": "Chord Qualities",
-    "moduleTranslatedName": "コードクオリティー",
+    "moduleTranslatedName": null,
     "moduleID": "ChordQualities",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4197,7 +4141,7 @@
   },
   {
     "moduleDisplayName": "Colo(u)r Talk",
-    "moduleTranslatedName": "色トーク",
+    "moduleTranslatedName": null,
     "moduleID": "colourTalk",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4251,7 +4195,7 @@
   },
   {
     "moduleDisplayName": "Color Decoding",
-    "moduleTranslatedName": "色の解読",
+    "moduleTranslatedName": null,
     "moduleID": "Color Decoding",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4269,7 +4213,7 @@
   },
   {
     "moduleDisplayName": "Color Generator",
-    "moduleTranslatedName": "色の生成",
+    "moduleTranslatedName": null,
     "moduleID": "Color Generator",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4341,7 +4285,7 @@
   },
   {
     "moduleDisplayName": "Color Morse",
-    "moduleTranslatedName": "カラーモールス",
+    "moduleTranslatedName": null,
     "moduleID": "ColorMorseModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4383,27 +4327,10 @@
     "scoreString": null,
     "announceModule": false,
     "unclaimable": false,
-    "helpTextOverride": true,
-    "helpText": "!{0} press # [#のボタンを押す] | !{0} colorblind [色覚サポートを有効化・無効化する]",
-    "manualCodeOverride": true,
-    "manualCode": "https://ktane.timwi.de/HTML/Color%20One%20Two%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E8%89%B2%E3%81%AE%EF%BC%91%E3%81%A8%EF%BC%92)%20(alpha8404).html",
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Color One Two",
-    "moduleID": "colorOneTwo",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} press # [Presses the button labelled with the number '#'] | !{0} colorblind [Toggles colorblind mode]",
     "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCode": "https://ktane.timwi.de/HTML/Color%20One%20Two%20translated%20(%E6%97%A5%E6%9C%AC%E8%AA%9E%20%E2%80%94%20%E8%89%B2%E3%81%AE%EF%BC%91%E3%81%A8%EF%BC%92)%20(alpha8404).html",
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
@@ -4502,7 +4429,7 @@
   },
   {
     "moduleDisplayName": "Colored Keys",
-    "moduleTranslatedName": "色付きキーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "lgndColoredKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4538,7 +4465,7 @@
   },
   {
     "moduleDisplayName": "Colored Squares",
-    "moduleTranslatedName": "色付き格子",
+    "moduleTranslatedName": null,
     "moduleID": "ColoredSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4556,7 +4483,7 @@
   },
   {
     "moduleDisplayName": "Colored Switches",
-    "moduleTranslatedName": "色付きスイッチ",
+    "moduleTranslatedName": null,
     "moduleID": "ColoredSwitchesModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4592,7 +4519,7 @@
   },
   {
     "moduleDisplayName": "Colorful Insanity",
-    "moduleTranslatedName": "カラフル発狂",
+    "moduleTranslatedName": null,
     "moduleID": "ColorfulInsanity",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4682,7 +4609,7 @@
   },
   {
     "moduleDisplayName": "Colour Flash",
-    "moduleTranslatedName": "カラーフラッシュ",
+    "moduleTranslatedName": null,
     "moduleID": "ColourFlash",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4701,23 +4628,6 @@
   {
     "moduleDisplayName": "Colour Flash ES",
     "moduleTranslatedName": null,
-    "moduleID": "ColourFlashES",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "Presiona (sí|no|s|n) ([1-8]|cualq)",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": true,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Colour Flash ES",
     "moduleID": "ColourFlashES",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4753,6 +4663,7 @@
   },
   {
     "moduleDisplayName": "Colour Flash Translated",
+    "moduleTranslatedName": null,
     "moduleID": "TranslatedColourFlash",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4788,7 +4699,7 @@
   },
   {
     "moduleDisplayName": "Combination Lock",
-    "moduleTranslatedName": "ダイヤル錠",
+    "moduleTranslatedName": null,
     "moduleID": "combinationLock",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4860,7 +4771,7 @@
   },
   {
     "moduleDisplayName": "Complex Keypad",
-    "moduleTranslatedName": "複雑なキーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "complexKeypad",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4932,7 +4843,7 @@
   },
   {
     "moduleDisplayName": "Conditional Buttons",
-    "moduleTranslatedName": "条件ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "conditionalButtons",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5001,7 +4912,7 @@
   },
   {
     "moduleDisplayName": "Connection Check",
-    "moduleTranslatedName": "接続確認",
+    "moduleTranslatedName": null,
     "moduleID": "graphModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5091,7 +5002,7 @@
   },
   {
     "moduleDisplayName": "Cooking",
-    "moduleTranslatedName": "料理",
+    "moduleTranslatedName": null,
     "moduleID": "cooking",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5145,7 +5056,7 @@
   },
   {
     "moduleDisplayName": "Coordinates",
-    "moduleTranslatedName": "座標",
+    "moduleTranslatedName": null,
     "moduleID": "CoordinatesModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5199,7 +5110,7 @@
   },
   {
     "moduleDisplayName": "Corners",
-    "moduleTranslatedName": "コーナー",
+    "moduleTranslatedName": null,
     "moduleID": "CornersModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5289,7 +5200,7 @@
   },
   {
     "moduleDisplayName": "Countdown",
-    "moduleTranslatedName": "カウントダウン",
+    "moduleTranslatedName": null,
     "moduleID": "countdown",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5325,7 +5236,7 @@
   },
   {
     "moduleDisplayName": "Crackbox",
-    "moduleTranslatedName": "クラックボックス",
+    "moduleTranslatedName": null,
     "moduleID": "CrackboxModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5361,7 +5272,7 @@
   },
   {
     "moduleDisplayName": "Crazy Talk",
-    "moduleTranslatedName": "クレイジートーク",
+    "moduleTranslatedName": null,
     "moduleID": "CrazyTalk",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5520,7 +5431,7 @@
   },
   {
     "moduleDisplayName": "Cruel Digital Root",
-    "moduleTranslatedName": "残忍数字根",
+    "moduleTranslatedName": null,
     "moduleID": "cruelDigitalRootModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5628,7 +5539,7 @@
   },
   {
     "moduleDisplayName": "Cruel Piano Keys",
-    "moduleTranslatedName": "残忍鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "CruelPianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5772,7 +5683,7 @@
   },
   {
     "moduleDisplayName": "Cryptic Password",
-    "moduleTranslatedName": "暗号パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "CrypticPassword",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5787,7 +5698,7 @@
   },
   {
     "moduleDisplayName": "Cryptography",
-    "moduleTranslatedName": "暗号化",
+    "moduleTranslatedName": null,
     "moduleID": "CryptModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5946,7 +5857,7 @@
   },
   {
     "moduleDisplayName": "Daylight Directions",
-    "moduleTranslatedName": "日光の方向",
+    "moduleTranslatedName": null,
     "moduleID": "daylightDirections",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6090,7 +6001,7 @@
   },
   {
     "moduleDisplayName": "Decolored Squares",
-    "moduleTranslatedName": "色抜き格子",
+    "moduleTranslatedName": null,
     "moduleID": "DecoloredSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6162,7 +6073,7 @@
   },
   {
     "moduleDisplayName": "DetoNATO",
-    "moduleTranslatedName": "デトナト",
+    "moduleTranslatedName": null,
     "moduleID": "Detonato",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6306,6 +6217,7 @@
   },
   {
     "moduleDisplayName": "Digit Sum",
+    "moduleTranslatedName": null,
     "moduleID": "digit_sum",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6395,7 +6307,7 @@
   },
   {
     "moduleDisplayName": "Digital Root",
-    "moduleTranslatedName": "数字根",
+    "moduleTranslatedName": null,
     "moduleID": "digitalRoot",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6503,7 +6415,7 @@
   },
   {
     "moduleDisplayName": "Discolored Squares",
-    "moduleTranslatedName": "色変え格子",
+    "moduleTranslatedName": null,
     "moduleID": "DiscoloredSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6557,7 +6469,7 @@
   },
   {
     "moduleDisplayName": "Divided Squares",
-    "moduleTranslatedName": "分割スクエア",
+    "moduleTranslatedName": null,
     "moduleID": "DividedSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6575,7 +6487,7 @@
   },
   {
     "moduleDisplayName": "Divisible Numbers",
-    "moduleTranslatedName": "割り切れる数字",
+    "moduleTranslatedName": null,
     "moduleID": "divisibleNumbers",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6611,7 +6523,7 @@
   },
   {
     "moduleDisplayName": "Dominoes",
-    "moduleTranslatedName": "ドミノ",
+    "moduleTranslatedName": null,
     "moduleID": "dominoes",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6701,7 +6613,7 @@
   },
   {
     "moduleDisplayName": "Double Color",
-    "moduleTranslatedName": "二色",
+    "moduleTranslatedName": null,
     "moduleID": "doubleColor",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6827,7 +6739,7 @@
   },
   {
     "moduleDisplayName": "Double-Oh",
-    "moduleTranslatedName": "ダブル･オー",
+    "moduleTranslatedName": null,
     "moduleID": "DoubleOhModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7217,7 +7129,7 @@
   },
   {
     "moduleDisplayName": "Emoji Math",
-    "moduleTranslatedName": "絵文字算",
+    "moduleTranslatedName": null,
     "moduleID": "Emoji Math",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7463,7 +7375,7 @@
   },
   {
     "moduleDisplayName": "Equations",
-    "moduleTranslatedName": "方程式",
+    "moduleTranslatedName": null,
     "moduleID": "equations",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7499,7 +7411,7 @@
   },
   {
     "moduleDisplayName": "Error Codes",
-    "moduleTranslatedName": "エラーコード",
+    "moduleTranslatedName": null,
     "moduleID": "errorCodes",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7658,7 +7570,7 @@
   },
   {
     "moduleDisplayName": "Extended Password",
-    "moduleTranslatedName": "拡張パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "ExtendedPassword",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7747,6 +7659,21 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Factory Code",
+    "moduleTranslatedName": null,
+    "moduleID": "factoryCode",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Factory Maze",
     "moduleTranslatedName": null,
     "moduleID": "factoryMaze",
@@ -7784,7 +7711,7 @@
   },
   {
     "moduleDisplayName": "Fast Math",
-    "moduleTranslatedName": "速算",
+    "moduleTranslatedName": null,
     "moduleID": "fastMath",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7820,7 +7747,7 @@
   },
   {
     "moduleDisplayName": "Faulty Backgrounds",
-    "moduleTranslatedName": "欠陥背景",
+    "moduleTranslatedName": null,
     "moduleID": "FaultyBackgrounds",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7910,7 +7837,7 @@
   },
   {
     "moduleDisplayName": "Faulty Digital Root",
-    "moduleTranslatedName": "欠陥数字根",
+    "moduleTranslatedName": null,
     "moduleID": "faultyDigitalRootModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8000,7 +7927,7 @@
   },
   {
     "moduleDisplayName": "Festive Piano Keys",
-    "moduleTranslatedName": "フェスティバル鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "FestivePianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8054,7 +7981,7 @@
   },
   {
     "moduleDisplayName": "Find The Date",
-    "moduleTranslatedName": "曜日の特定",
+    "moduleTranslatedName": null,
     "moduleID": "DateFinder",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8091,23 +8018,6 @@
   {
     "moduleDisplayName": "Fishing",
     "moduleTranslatedName": null,
-    "moduleID": "fishing",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} reel [Presses the reel button] | !{0} keep [Presses the keep button] | !{0} throw [Presses the throw button]",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Fishing",
     "moduleID": "fishing",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8179,7 +8089,7 @@
   },
   {
     "moduleDisplayName": "Flags",
-    "moduleTranslatedName": "国旗",
+    "moduleTranslatedName": null,
     "moduleID": "FlagsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8197,7 +8107,7 @@
   },
   {
     "moduleDisplayName": "Flash Memory",
-    "moduleTranslatedName": "光の記憶",
+    "moduleTranslatedName": null,
     "moduleID": "FlashMemory",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8233,7 +8143,7 @@
   },
   {
     "moduleDisplayName": "Flashing Lights",
-    "moduleTranslatedName": "点滅ライト",
+    "moduleTranslatedName": null,
     "moduleID": "flashingLights",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8395,7 +8305,7 @@
   },
   {
     "moduleDisplayName": "Follow the Leader",
-    "moduleTranslatedName": "フォロー・ザ・リーダー",
+    "moduleTranslatedName": null,
     "moduleID": "FollowTheLeaderModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8608,7 +8518,7 @@
   },
   {
     "moduleDisplayName": "Forget Me Not",
-    "moduleTranslatedName": "我忘る勿かれ",
+    "moduleTranslatedName": null,
     "moduleID": "MemoryV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8716,7 +8626,7 @@
   },
   {
     "moduleDisplayName": "Forget This",
-    "moduleTranslatedName": "之忘る",
+    "moduleTranslatedName": null,
     "moduleID": "forgetThis",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8871,9 +8781,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9102,9 +9009,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10045,7 +9949,7 @@
   },
   {
     "moduleDisplayName": "Hot Potato",
-    "moduleTranslatedName": "ホットポテト",
+    "moduleTranslatedName": null,
     "moduleID": "HotPotato",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -10179,9 +10083,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10359,9 +10260,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10924,7 +10822,7 @@
   },
   {
     "moduleDisplayName": "Kanji",
-    "moduleTranslatedName": "漢字",
+    "moduleTranslatedName": null,
     "moduleID": "KanjiModule",
     "scoreStringOverride": true,
     "scoreString": "2",
@@ -11209,7 +11107,7 @@
   },
   {
     "moduleDisplayName": "Kudosudoku",
-    "moduleTranslatedName": "クド数独",
+    "moduleTranslatedName": null,
     "moduleID": "KudosudokuModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -11382,9 +11280,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11400,9 +11295,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11566,6 +11458,7 @@
   },
   {
     "moduleDisplayName": "Lempel-Ziv Cipher",
+    "moduleTranslatedName": null,
     "moduleID": "LempelZivCipherModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -11601,7 +11494,7 @@
   },
   {
     "moduleDisplayName": "Letter Keys",
-    "moduleTranslatedName": "文字キー",
+    "moduleTranslatedName": null,
     "moduleID": "LetterKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -11724,7 +11617,7 @@
   },
   {
     "moduleDisplayName": "Lights Out",
-    "moduleTranslatedName": "ライツアウト",
+    "moduleTranslatedName": null,
     "moduleID": "LightsOut",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -11737,7 +11630,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11832,7 +11725,7 @@
   },
   {
     "moduleDisplayName": "Listening",
-    "moduleTranslatedName": "リスニング",
+    "moduleTranslatedName": null,
     "moduleID": "Listening",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -12027,7 +11920,7 @@
   },
   {
     "moduleDisplayName": "Logic Gates",
-    "moduleTranslatedName": "論理ゲート",
+    "moduleTranslatedName": null,
     "moduleID": "logicGates",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -12166,7 +12059,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -12513,6 +12406,7 @@
   },
   {
     "moduleDisplayName": "Maroon Cipher",
+    "moduleTranslatedName": null,
     "moduleID": "maroonCipher",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -12757,9 +12651,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -13370,7 +13261,7 @@
   },
   {
     "moduleDisplayName": "Minesweeper",
-    "moduleTranslatedName": "マインスイーパー",
+    "moduleTranslatedName": null,
     "moduleID": "MinesweeperModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -13790,7 +13681,7 @@
   },
   {
     "moduleDisplayName": "Morsematics",
-    "moduleTranslatedName": "モールスマティック",
+    "moduleTranslatedName": null,
     "moduleID": "MorseV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -13949,7 +13840,7 @@
   },
   {
     "moduleDisplayName": "Murder",
-    "moduleTranslatedName": "殺人",
+    "moduleTranslatedName": null,
     "moduleID": "murder",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14090,7 +13981,7 @@
   },
   {
     "moduleDisplayName": "Mystic Square",
-    "moduleTranslatedName": "神秘スクエア",
+    "moduleTranslatedName": null,
     "moduleID": "MysticSquareModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14288,7 +14179,7 @@
   },
   {
     "moduleDisplayName": "Needy Beer Refill Mod",
-    "moduleTranslatedName": "ビールおかわり!",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyBeer",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14420,7 +14311,7 @@
   },
   {
     "moduleDisplayName": "Needy Math",
-    "moduleTranslatedName": "計算",
+    "moduleTranslatedName": null,
     "moduleID": "Needy Math",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14486,7 +14377,7 @@
   },
   {
     "moduleDisplayName": "Needy Quiz",
-    "moduleTranslatedName": "質問回答",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyVentV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14504,7 +14395,7 @@
   },
   {
     "moduleDisplayName": "Needy Rotary Phone",
-    "moduleTranslatedName": "ダイヤル式電話",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyKnobV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14581,9 +14472,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15475,9 +15363,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15770,7 +15655,7 @@
   },
   {
     "moduleDisplayName": "Orientation Cube",
-    "moduleTranslatedName": "方向キューブ",
+    "moduleTranslatedName": null,
     "moduleID": "OrientationCube",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15937,9 +15822,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -16168,9 +16050,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -16229,7 +16108,7 @@
   },
   {
     "moduleDisplayName": "Perplexing Wires",
-    "moduleTranslatedName": "煩雑ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "PerplexingWiresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16247,7 +16126,7 @@
   },
   {
     "moduleDisplayName": "Perspective Pegs",
-    "moduleTranslatedName": "奥行きペグ",
+    "moduleTranslatedName": null,
     "moduleID": "spwizPerspectivePegs",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16301,7 +16180,7 @@
   },
   {
     "moduleDisplayName": "Piano Keys",
-    "moduleTranslatedName": "鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "PianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16658,7 +16537,7 @@
   },
   {
     "moduleDisplayName": "Plumbing",
-    "moduleTranslatedName": "配管",
+    "moduleTranslatedName": null,
     "moduleID": "MazeV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -17207,6 +17086,7 @@
   },
   {
     "moduleDisplayName": "Quilting",
+    "moduleTranslatedName": null,
     "moduleID": "quilting",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18184,7 +18064,7 @@
   },
   {
     "moduleDisplayName": "Rock-Paper-Scissors-L.-Sp.",
-    "moduleTranslatedName": "グー・チョキ・パー・トカゲ・スポック",
+    "moduleTranslatedName": null,
     "moduleID": "RockPaperScissorsLizardSpockModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18310,7 +18190,7 @@
   },
   {
     "moduleDisplayName": "Round Keypad",
-    "moduleTranslatedName": "円形キーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "KeypadV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18517,7 +18397,7 @@
   },
   {
     "moduleDisplayName": "Safety Safe",
-    "moduleTranslatedName": "セイフティ金庫",
+    "moduleTranslatedName": null,
     "moduleID": "PasswordV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18820,7 +18700,7 @@
   },
   {
     "moduleDisplayName": "Semaphore",
-    "moduleTranslatedName": "セマフォア信号",
+    "moduleTranslatedName": null,
     "moduleID": "Semaphore",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18928,7 +18808,7 @@
   },
   {
     "moduleDisplayName": "Shape Shift",
-    "moduleTranslatedName": "形状変化",
+    "moduleTranslatedName": null,
     "moduleID": "shapeshift",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19732,7 +19612,7 @@
   },
   {
     "moduleDisplayName": "Simon States",
-    "moduleTranslatedName": "サイモンの陳述",
+    "moduleTranslatedName": null,
     "moduleID": "SimonV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20014,7 +19894,7 @@
   },
   {
     "moduleDisplayName": "Skewed Slots",
-    "moduleTranslatedName": "歪曲スロット",
+    "moduleTranslatedName": null,
     "moduleID": "SkewedSlotsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20173,7 +20053,7 @@
   },
   {
     "moduleDisplayName": "Snap!",
-    "moduleTranslatedName": "スナップ!",
+    "moduleTranslatedName": null,
     "moduleID": "lgndSnap",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20335,6 +20215,7 @@
   },
   {
     "moduleDisplayName": "Soulsong",
+    "moduleTranslatedName": null,
     "moduleID": "soulsong",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20370,7 +20251,7 @@
   },
   {
     "moduleDisplayName": "Souvenir",
-    "moduleTranslatedName": "思い出",
+    "moduleTranslatedName": null,
     "moduleID": "SouvenirModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20506,7 +20387,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20702,9 +20583,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20720,9 +20598,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20738,14 +20613,11 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Square Button",
-    "moduleTranslatedName": "四角ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "ButtonV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21234,7 +21106,7 @@
   },
   {
     "moduleDisplayName": "Switches",
-    "moduleTranslatedName": "スイッチ",
+    "moduleTranslatedName": null,
     "moduleID": "switchModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21321,7 +21193,7 @@
   },
   {
     "moduleDisplayName": "Symbolic Password",
-    "moduleTranslatedName": "シンボルパスワード",
+    "moduleTranslatedName": null,
     "moduleID": "symbolicPasswordModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21501,6 +21373,7 @@
   },
   {
     "moduleDisplayName": "Talking Points",
+    "moduleTranslatedName": null,
     "moduleID": "TalkingPoints",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21554,7 +21427,7 @@
   },
   {
     "moduleDisplayName": "Tap Code",
-    "moduleTranslatedName": "タップ・コード",
+    "moduleTranslatedName": null,
     "moduleID": "tapCode",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21590,6 +21463,7 @@
   },
   {
     "moduleDisplayName": "Tasque Managing",
+    "moduleTranslatedName": null,
     "moduleID": "tasqueManaging",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21654,9 +21528,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -21985,7 +21856,7 @@
   },
   {
     "moduleDisplayName": "Text Field",
-    "moduleTranslatedName": "テキストフィールド",
+    "moduleTranslatedName": null,
     "moduleID": "TextField",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22165,6 +22036,7 @@
   },
   {
     "moduleDisplayName": "The Black Button",
+    "moduleTranslatedName": null,
     "moduleID": "BlackButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22200,7 +22072,7 @@
   },
   {
     "moduleDisplayName": "The Block",
-    "moduleTranslatedName": "ブロック",
+    "moduleTranslatedName": null,
     "moduleID": "theBlock",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22218,6 +22090,7 @@
   },
   {
     "moduleDisplayName": "The Blue Button",
+    "moduleTranslatedName": null,
     "moduleID": "BlueButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22253,6 +22126,7 @@
   },
   {
     "moduleDisplayName": "The Brown Button",
+    "moduleTranslatedName": null,
     "moduleID": "BrownButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22270,7 +22144,7 @@
   },
   {
     "moduleDisplayName": "The Bulb",
-    "moduleTranslatedName": "ザ･電球",
+    "moduleTranslatedName": null,
     "moduleID": "TheBulbModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22375,7 +22249,7 @@
   },
   {
     "moduleDisplayName": "The Code",
-    "moduleTranslatedName": "コード",
+    "moduleTranslatedName": null,
     "moduleID": "theCodeModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22393,7 +22267,7 @@
   },
   {
     "moduleDisplayName": "The Colored Maze",
-    "moduleTranslatedName": "色付き迷路",
+    "moduleTranslatedName": null,
     "moduleID": "coloredMaze",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22501,6 +22375,7 @@
   },
   {
     "moduleDisplayName": "The Cyan Button",
+    "moduleTranslatedName": null,
     "moduleID": "CyanButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22572,7 +22447,7 @@
   },
   {
     "moduleDisplayName": "The Digit",
-    "moduleTranslatedName": "数字",
+    "moduleTranslatedName": null,
     "moduleID": "TheDigitModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22731,6 +22606,7 @@
   },
   {
     "moduleDisplayName": "The Glitched Button",
+    "moduleTranslatedName": null,
     "moduleID": "GlitchedButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22748,6 +22624,7 @@
   },
   {
     "moduleDisplayName": "The Gray Button",
+    "moduleTranslatedName": null,
     "moduleID": "GrayButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22783,6 +22660,7 @@
   },
   {
     "moduleDisplayName": "The Green Button",
+    "moduleTranslatedName": null,
     "moduleID": "GreenButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22905,7 +22783,7 @@
   },
   {
     "moduleDisplayName": "The Hypercube",
-    "moduleTranslatedName": "超立方体",
+    "moduleTranslatedName": null,
     "moduleID": "TheHypercubeModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22936,7 +22814,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -23292,6 +23170,7 @@
   },
   {
     "moduleDisplayName": "The Orange Button",
+    "moduleTranslatedName": null,
     "moduleID": "OrangeButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23345,6 +23224,7 @@
   },
   {
     "moduleDisplayName": "The Pink Button",
+    "moduleTranslatedName": null,
     "moduleID": "PinkButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23398,6 +23278,7 @@
   },
   {
     "moduleDisplayName": "The Purple Button",
+    "moduleTranslatedName": null,
     "moduleID": "PurpleButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23487,7 +23368,7 @@
   },
   {
     "moduleDisplayName": "The Screw",
-    "moduleTranslatedName": "ザ･ネジ",
+    "moduleTranslatedName": null,
     "moduleID": "screw",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23667,7 +23548,7 @@
   },
   {
     "moduleDisplayName": "The Swan",
-    "moduleTranslatedName": "スワン",
+    "moduleTranslatedName": null,
     "moduleID": "theSwan",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23703,6 +23584,7 @@
   },
   {
     "moduleDisplayName": "The Teal Button",
+    "moduleTranslatedName": null,
     "moduleID": "TealButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23825,7 +23707,7 @@
   },
   {
     "moduleDisplayName": "The Ultracube",
-    "moduleTranslatedName": "極立方体",
+    "moduleTranslatedName": null,
     "moduleID": "TheUltracubeModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23861,6 +23743,7 @@
   },
   {
     "moduleDisplayName": "The White Button",
+    "moduleTranslatedName": null,
     "moduleID": "WhiteButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23950,6 +23833,7 @@
   },
   {
     "moduleDisplayName": "The Yellow Button",
+    "moduleTranslatedName": null,
     "moduleID": "YellowButtonModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24003,7 +23887,7 @@
   },
   {
     "moduleDisplayName": "Third Base",
-    "moduleTranslatedName": "サードベース",
+    "moduleTranslatedName": null,
     "moduleID": "ThirdBase",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24359,6 +24243,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Trajectory",
+    "moduleTranslatedName": null,
+    "moduleID": "Trajectory",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} setspeed .3 .5  [set speed of trajectory] | First argument is a speed along the X axis, and 2nd argument is a speed along the Y axis | !{0} press <config> (<config> ...) [Press config buttons. Buttons are \"A\", \"B\" and \"C\"] | !{0} submit [Press submit] | !{0} reset [Press reset]",
+    "manualCodeOverride": false,
+    "manualCode": "",
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Transmission Transposition",
     "moduleTranslatedName": null,
     "moduleID": "transmissionTransposition",
@@ -24519,7 +24421,7 @@
   },
   {
     "moduleDisplayName": "Turn The Key",
-    "moduleTranslatedName": "鍵をまわせ!",
+    "moduleTranslatedName": null,
     "moduleID": "TurnTheKey",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24585,6 +24487,7 @@
   },
   {
     "moduleDisplayName": "Twister",
+    "moduleTranslatedName": null,
     "moduleID": "TwisterModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24602,7 +24505,7 @@
   },
   {
     "moduleDisplayName": "Two Bits",
-    "moduleTranslatedName": "ツービッツ",
+    "moduleTranslatedName": null,
     "moduleID": "TwoBits",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24812,7 +24715,7 @@
   },
   {
     "moduleDisplayName": "Uncolored Squares",
-    "moduleTranslatedName": "色無し格子",
+    "moduleTranslatedName": null,
     "moduleID": "UncoloredSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25154,7 +25057,7 @@
   },
   {
     "moduleDisplayName": "Varicolored Squares",
-    "moduleTranslatedName": "色どり格子",
+    "moduleTranslatedName": null,
     "moduleID": "VaricoloredSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25829,7 +25732,7 @@
   },
   {
     "moduleDisplayName": "Wire Placement",
-    "moduleTranslatedName": "配置ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "WirePlacementModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25901,7 +25804,7 @@
   },
   {
     "moduleDisplayName": "Word Scramble",
-    "moduleTranslatedName": "ワードスクランブル",
+    "moduleTranslatedName": null,
     "moduleID": "WordScrambleModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25916,7 +25819,7 @@
   },
   {
     "moduleDisplayName": "Word Search",
-    "moduleTranslatedName": "ワードサーチ",
+    "moduleTranslatedName": null,
     "moduleID": "WordSearchModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -25999,9 +25902,6 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -26060,7 +25960,7 @@
   },
   {
     "moduleDisplayName": "X-Ray",
-    "moduleTranslatedName": "レントゲン",
+    "moduleTranslatedName": null,
     "moduleID": "XRayModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26089,14 +25989,11 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Yahtzee",
-    "moduleTranslatedName": "ヤッツィー",
+    "moduleTranslatedName": null,
     "moduleID": "YahtzeeModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26150,6 +26047,7 @@
   },
   {
     "moduleDisplayName": "Yellow Huffman Cipher",
+    "moduleTranslatedName": null,
     "moduleID": "YellowHuffmanCipherModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26257,7 +26155,7 @@
   },
   {
     "moduleDisplayName": "キーパッド",
-    "moduleTranslatedName": "キーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "KeypadComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26425,7 +26323,7 @@
   },
   {
     "moduleDisplayName": "順番ワイヤ",
-    "moduleTranslatedName": "順番ワイヤ",
+    "moduleTranslatedName": null,
     "moduleID": "WireSequenceComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,
