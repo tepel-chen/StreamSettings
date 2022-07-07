@@ -1270,7 +1270,20 @@
     "undertunneling",
     "widgetModule",
     "memorysShadow",
-    "simonSenses"
+    "simonSenses",
+    "TranslatedColourFlash",
+    "ColourFlashES",
+    "ColourFlashPL",
+    "CrazyTalkTranslated",
+    "AdjacentLettersModule_Rus",
+    "WordSearchModulePL",
+    "BigButtonTranslated",
+    "MorseCodeTranslated",
+    "PasswordsTranslated",
+    "WhosOnFirstTranslated",
+    "insanetalkPL",
+    "caesarCyclePL",
+    "VentGasTranslated"
   ],
   "EnabledList": [
     "hinges",

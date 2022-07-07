@@ -87,7 +87,7 @@
   "VSHPMultiplier": 5.0,
   "IRCManagerBackgroundImage": null,
   "IRCManagerTextColor": "255, 112, 0",
-  "TwitchPlaysDebugEnabled": false,
+  "TwitchPlaysDebugEnabled": true,
   "TwitchPlaysDebugUsername": "_TPDEBUG",
   "TwitchPlaysDebugUsernameColor": "0, 0, 223",
   "TestModuleCompatibility": true,
