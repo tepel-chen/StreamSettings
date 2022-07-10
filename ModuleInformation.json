@@ -199,7 +199,7 @@
   },
   {
     "moduleDisplayName": "1-2-3-2-1",
-    "moduleTranslatedName": "1-2-3-2-1",
+    "moduleTranslatedName": null,
     "moduleID": "12321",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -250,7 +250,7 @@
   },
   {
     "moduleDisplayName": "16 Coins",
-    "moduleTranslatedName": "16コイン",
+    "moduleTranslatedName": null,
     "moduleID": "sixteenCoins",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -355,7 +355,7 @@
   },
   {
     "moduleDisplayName": "3D Maze",
-    "moduleTranslatedName": "3D迷路",
+    "moduleTranslatedName": null,
     "moduleID": "spwiz3DMaze",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -892,7 +892,7 @@
   },
   {
     "moduleDisplayName": "Adventure Game",
-    "moduleTranslatedName": "アドベンチャーゲーム",
+    "moduleTranslatedName": null,
     "moduleID": "spwizAdventureGame",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -964,7 +964,7 @@
   },
   {
     "moduleDisplayName": "Alchemy",
-    "moduleTranslatedName": "錬金術",
+    "moduleTranslatedName": null,
     "moduleID": "JuckAlchemy",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1084,7 +1084,7 @@
   },
   {
     "moduleDisplayName": "Alphabet",
-    "moduleTranslatedName": "アルファベット",
+    "moduleTranslatedName": null,
     "moduleID": "alphabet",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1246,7 +1246,7 @@
   },
   {
     "moduleDisplayName": "amogus",
-    "moduleTranslatedName": "アモングス",
+    "moduleTranslatedName": null,
     "moduleID": "TDSAmogus",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1279,7 +1279,7 @@
   },
   {
     "moduleDisplayName": "Anagrams",
-    "moduleTranslatedName": "アナグラム",
+    "moduleTranslatedName": null,
     "moduleID": "AnagramsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -1564,7 +1564,7 @@
   },
   {
     "moduleDisplayName": "Art Appreciation",
-    "moduleTranslatedName": "芸術鑑賞",
+    "moduleTranslatedName": null,
     "moduleID": "AppreciateArt",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2560,7 +2560,7 @@
   },
   {
     "moduleDisplayName": "Bitwise Operations",
-    "moduleTranslatedName": "ビット演算子",
+    "moduleTranslatedName": null,
     "moduleID": "BitOps",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2794,7 +2794,7 @@
   },
   {
     "moduleDisplayName": "Blinkstop",
-    "moduleTranslatedName": "瞬きの停止",
+    "moduleTranslatedName": null,
     "moduleID": "blinkstopModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3136,7 +3136,7 @@
   },
   {
     "moduleDisplayName": "Boolean Maze",
-    "moduleTranslatedName": "論理迷路",
+    "moduleTranslatedName": null,
     "moduleID": "boolMaze",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3169,7 +3169,7 @@
   },
   {
     "moduleDisplayName": "Boolean Venn Diagram",
-    "moduleTranslatedName": "ブール論理ベン図",
+    "moduleTranslatedName": null,
     "moduleID": "booleanVennModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3832,7 +3832,7 @@
   },
   {
     "moduleDisplayName": "Button Order",
-    "moduleTranslatedName": "ボタンの順序",
+    "moduleTranslatedName": null,
     "moduleID": "buttonOrder",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -3952,7 +3952,7 @@
   },
   {
     "moduleDisplayName": "Caesar Cycle",
-    "moduleTranslatedName": "カエサルサイクル",
+    "moduleTranslatedName": null,
     "moduleID": "caesarCycle",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4399,7 +4399,7 @@
   },
   {
     "moduleDisplayName": "Chess",
-    "moduleTranslatedName": "チェス",
+    "moduleTranslatedName": null,
     "moduleID": "ChessModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4525,7 +4525,7 @@
   },
   {
     "moduleDisplayName": "Chord Progressions",
-    "moduleTranslatedName": "コード進行",
+    "moduleTranslatedName": null,
     "moduleID": "chordProgressions",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4843,7 +4843,7 @@
   },
   {
     "moduleDisplayName": "Color Decoding",
-    "moduleTranslatedName": "色の解読",
+    "moduleTranslatedName": null,
     "moduleID": "Color Decoding",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -4861,7 +4861,7 @@
   },
   {
     "moduleDisplayName": "Color Generator",
-    "moduleTranslatedName": "色の生成",
+    "moduleTranslatedName": null,
     "moduleID": "Color Generator",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5275,7 +5275,7 @@
   },
   {
     "moduleDisplayName": "Colour Flash",
-    "moduleTranslatedName": "カラーフラッシュ",
+    "moduleTranslatedName": null,
     "moduleID": "ColourFlash",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5365,7 +5365,7 @@
   },
   {
     "moduleDisplayName": "Combination Lock",
-    "moduleTranslatedName": "ダイヤル錠",
+    "moduleTranslatedName": null,
     "moduleID": "combinationLock",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5473,7 +5473,7 @@
   },
   {
     "moduleDisplayName": "Complicated Buttons",
-    "moduleTranslatedName": "複雑ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "complicatedButtonsModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5509,7 +5509,7 @@
   },
   {
     "moduleDisplayName": "Conditional Buttons",
-    "moduleTranslatedName": "条件ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "conditionalButtons",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5578,7 +5578,7 @@
   },
   {
     "moduleDisplayName": "Connection Check",
-    "moduleTranslatedName": "接続確認",
+    "moduleTranslatedName": null,
     "moduleID": "graphModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5794,7 +5794,7 @@
   },
   {
     "moduleDisplayName": "Corners",
-    "moduleTranslatedName": "コーナー",
+    "moduleTranslatedName": null,
     "moduleID": "CornersModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -5956,7 +5956,7 @@
   },
   {
     "moduleDisplayName": "Crazy Talk",
-    "moduleTranslatedName": "クレイジートーク",
+    "moduleTranslatedName": null,
     "moduleID": "CrazyTalk",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6277,7 +6277,7 @@
   },
   {
     "moduleDisplayName": "Cruel Piano Keys",
-    "moduleTranslatedName": "残忍鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "CruelPianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6439,7 +6439,7 @@
   },
   {
     "moduleDisplayName": "Cryptic Password",
-    "moduleTranslatedName": "暗号パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "CrypticPassword",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -6454,7 +6454,7 @@
   },
   {
     "moduleDisplayName": "Cryptography",
-    "moduleTranslatedName": "暗号化",
+    "moduleTranslatedName": null,
     "moduleID": "CryptModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -7279,7 +7279,7 @@
   },
   {
     "moduleDisplayName": "Divided Squares",
-    "moduleTranslatedName": "分割スクエア",
+    "moduleTranslatedName": null,
     "moduleID": "DividedSquaresModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8047,7 +8047,7 @@
   },
   {
     "moduleDisplayName": "Emoji Math",
-    "moduleTranslatedName": "絵文字算",
+    "moduleTranslatedName": null,
     "moduleID": "Emoji Math",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8260,7 +8260,7 @@
   },
   {
     "moduleDisplayName": "English Test",
-    "moduleTranslatedName": "英語検定",
+    "moduleTranslatedName": null,
     "moduleID": "EnglishTest",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8365,7 +8365,7 @@
   },
   {
     "moduleDisplayName": "Error Codes",
-    "moduleTranslatedName": "エラーコード",
+    "moduleTranslatedName": null,
     "moduleID": "errorCodes",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -8542,7 +8542,7 @@
   },
   {
     "moduleDisplayName": "Extended Password",
-    "moduleTranslatedName": "拡張パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "ExtendedPassword",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9007,7 +9007,7 @@
   },
   {
     "moduleDisplayName": "Festive Piano Keys",
-    "moduleTranslatedName": "フェスティバル鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "FestivePianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9511,7 +9511,7 @@
   },
   {
     "moduleDisplayName": "Foreign Exchange Rates",
-    "moduleTranslatedName": "外国為替レート",
+    "moduleTranslatedName": null,
     "moduleID": "ForeignExchangeRates",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9580,7 +9580,7 @@
   },
   {
     "moduleDisplayName": "Forget Everything",
-    "moduleTranslatedName": "須く忘る",
+    "moduleTranslatedName": null,
     "moduleID": "HexiEvilFMN",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9706,7 +9706,7 @@
   },
   {
     "moduleDisplayName": "Forget Me Not",
-    "moduleTranslatedName": "我忘る勿かれ",
+    "moduleTranslatedName": null,
     "moduleID": "MemoryV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9832,7 +9832,7 @@
   },
   {
     "moduleDisplayName": "Forget This",
-    "moduleTranslatedName": "之忘る",
+    "moduleTranslatedName": null,
     "moduleID": "forgetThis",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -9976,7 +9976,7 @@
   },
   {
     "moduleDisplayName": "Free Password",
-    "moduleTranslatedName": "自由パスワード",
+    "moduleTranslatedName": null,
     "moduleID": "FreePassword",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -10705,7 +10705,7 @@
   },
   {
     "moduleDisplayName": "Grocery Store",
-    "moduleTranslatedName": "食料品店",
+    "moduleTranslatedName": null,
     "moduleID": "groceryStore",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -12847,7 +12847,7 @@
   },
   {
     "moduleDisplayName": "Laundry",
-    "moduleTranslatedName": "ランドリー",
+    "moduleTranslatedName": null,
     "moduleID": "Laundry",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -12883,7 +12883,7 @@
   },
   {
     "moduleDisplayName": "LED Encryption",
-    "moduleTranslatedName": "暗号化LED",
+    "moduleTranslatedName": null,
     "moduleID": "LEDEnc",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -13042,7 +13042,7 @@
   },
   {
     "moduleDisplayName": "Letter Keys",
-    "moduleTranslatedName": "文字キー",
+    "moduleTranslatedName": null,
     "moduleID": "LetterKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -13183,7 +13183,7 @@
   },
   {
     "moduleDisplayName": "Lights Out",
-    "moduleTranslatedName": "ライツアウト",
+    "moduleTranslatedName": null,
     "moduleID": "LightsOut",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -13309,7 +13309,7 @@
   },
   {
     "moduleDisplayName": "Listening",
-    "moduleTranslatedName": "リスニング",
+    "moduleTranslatedName": null,
     "moduleID": "Listening",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -14938,7 +14938,7 @@
   },
   {
     "moduleDisplayName": "Microcontroller",
-    "moduleTranslatedName": "マイクロコントローラー",
+    "moduleTranslatedName": null,
     "moduleID": "Microcontroller",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15493,7 +15493,7 @@
   },
   {
     "moduleDisplayName": "Modulo",
-    "moduleTranslatedName": "モジュロ",
+    "moduleTranslatedName": null,
     "moduleID": "modulo",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15646,7 +15646,7 @@
   },
   {
     "moduleDisplayName": "Morse War",
-    "moduleTranslatedName": "モールス戦争",
+    "moduleTranslatedName": null,
     "moduleID": "MorseWar",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15679,7 +15679,7 @@
   },
   {
     "moduleDisplayName": "Morsematics",
-    "moduleTranslatedName": "モールスマティック",
+    "moduleTranslatedName": null,
     "moduleID": "MorseV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15892,7 +15892,7 @@
   },
   {
     "moduleDisplayName": "Murder",
-    "moduleTranslatedName": "殺人",
+    "moduleTranslatedName": null,
     "moduleID": "murder",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -15979,7 +15979,7 @@
   },
   {
     "moduleDisplayName": "Mystery Module",
-    "moduleTranslatedName": "ミステリーモジュール",
+    "moduleTranslatedName": null,
     "moduleID": "mysterymodule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16231,7 +16231,7 @@
   },
   {
     "moduleDisplayName": "Needy Beer Refill Mod",
-    "moduleTranslatedName": "ビールおかわり!",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyBeer",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16363,7 +16363,7 @@
   },
   {
     "moduleDisplayName": "Needy Math",
-    "moduleTranslatedName": "計算",
+    "moduleTranslatedName": null,
     "moduleID": "Needy Math",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16429,7 +16429,7 @@
   },
   {
     "moduleDisplayName": "Needy Quiz",
-    "moduleTranslatedName": "質問回答",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyVentV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16447,7 +16447,7 @@
   },
   {
     "moduleDisplayName": "Needy Rotary Phone",
-    "moduleTranslatedName": "ダイヤル式電話",
+    "moduleTranslatedName": null,
     "moduleID": "NeedyKnobV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -16726,7 +16726,7 @@
   },
   {
     "moduleDisplayName": "Nonogram",
-    "moduleTranslatedName": "お絵描きロジック",
+    "moduleTranslatedName": null,
     "moduleID": "NonogramModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -17569,7 +17569,7 @@
   },
   {
     "moduleDisplayName": "Number Nimbleness",
-    "moduleTranslatedName": "俊敏数字",
+    "moduleTranslatedName": null,
     "moduleID": "numberNimbleness",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -17584,7 +17584,7 @@
   },
   {
     "moduleDisplayName": "Number Pad",
-    "moduleTranslatedName": "ナンバーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "NumberPad",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18049,7 +18049,7 @@
   },
   {
     "moduleDisplayName": "Orientation Cube",
-    "moduleTranslatedName": "方向キューブ",
+    "moduleTranslatedName": null,
     "moduleID": "OrientationCube",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18646,7 +18646,7 @@
   },
   {
     "moduleDisplayName": "Piano Keys",
-    "moduleTranslatedName": "鍵盤",
+    "moduleTranslatedName": null,
     "moduleID": "PianoKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18790,7 +18790,7 @@
   },
   {
     "moduleDisplayName": "Pigpen Rotations",
-    "moduleTranslatedName": "ピッグペン暗号",
+    "moduleTranslatedName": null,
     "moduleID": "pigpenRotations",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -18808,7 +18808,7 @@
   },
   {
     "moduleDisplayName": "Pink Arrows",
-    "moduleTranslatedName": "桃色矢印",
+    "moduleTranslatedName": null,
     "moduleID": "pinkArrows",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19021,7 +19021,7 @@
   },
   {
     "moduleDisplayName": "Playfair Cipher",
-    "moduleTranslatedName": "プレイフェア暗号",
+    "moduleTranslatedName": null,
     "moduleID": "Playfair",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19075,7 +19075,7 @@
   },
   {
     "moduleDisplayName": "Plumbing",
-    "moduleTranslatedName": "配管",
+    "moduleTranslatedName": null,
     "moduleID": "MazeV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19360,7 +19360,7 @@
   },
   {
     "moduleDisplayName": "Press X",
-    "moduleTranslatedName": "Ｘを押せ！",
+    "moduleTranslatedName": null,
     "moduleID": "PressX",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19396,7 +19396,7 @@
   },
   {
     "moduleDisplayName": "Prime Encryption",
-    "moduleTranslatedName": "素数暗号",
+    "moduleTranslatedName": null,
     "moduleID": "primeEncryption",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -19447,7 +19447,7 @@
   },
   {
     "moduleDisplayName": "Probing",
-    "moduleTranslatedName": "回路接続",
+    "moduleTranslatedName": null,
     "moduleID": "Probing",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20479,7 +20479,7 @@
   },
   {
     "moduleDisplayName": "Resistors",
-    "moduleTranslatedName": "抵抗器",
+    "moduleTranslatedName": null,
     "moduleID": "resistors",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20764,7 +20764,7 @@
   },
   {
     "moduleDisplayName": "Rhythms",
-    "moduleTranslatedName": "リズム",
+    "moduleTranslatedName": null,
     "moduleID": "MusicRhythms",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -20998,7 +20998,7 @@
   },
   {
     "moduleDisplayName": "Round Keypad",
-    "moduleTranslatedName": "円形キーパッド",
+    "moduleTranslatedName": null,
     "moduleID": "KeypadV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21223,7 +21223,7 @@
   },
   {
     "moduleDisplayName": "Safety Safe",
-    "moduleTranslatedName": "セイフティ金庫",
+    "moduleTranslatedName": null,
     "moduleID": "PasswordV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21511,7 +21511,7 @@
   },
   {
     "moduleDisplayName": "Sea Shells",
-    "moduleTranslatedName": "シーシェル",
+    "moduleTranslatedName": null,
     "moduleID": "SeaShells",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21598,7 +21598,7 @@
   },
   {
     "moduleDisplayName": "Semaphore",
-    "moduleTranslatedName": "セマフォア信号",
+    "moduleTranslatedName": null,
     "moduleID": "Semaphore",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -21724,7 +21724,7 @@
   },
   {
     "moduleDisplayName": "Shape Shift",
-    "moduleTranslatedName": "形状変化",
+    "moduleTranslatedName": null,
     "moduleID": "shapeshift",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22654,7 +22654,7 @@
   },
   {
     "moduleDisplayName": "Simon States",
-    "moduleTranslatedName": "サイモンの陳述",
+    "moduleTranslatedName": null,
     "moduleID": "SimonV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -22816,7 +22816,7 @@
   },
   {
     "moduleDisplayName": "Simon's On First",
-    "moduleTranslatedName": "サイモンの表比較",
+    "moduleTranslatedName": null,
     "moduleID": "simonsOnFirst",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23365,7 +23365,7 @@
   },
   {
     "moduleDisplayName": "Souvenir",
-    "moduleTranslatedName": "思い出",
+    "moduleTranslatedName": null,
     "moduleID": "SouvenirModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -23767,7 +23767,7 @@
   },
   {
     "moduleDisplayName": "Square Button",
-    "moduleTranslatedName": "四角ボタン",
+    "moduleTranslatedName": null,
     "moduleID": "ButtonV2",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24346,7 +24346,7 @@
   },
   {
     "moduleDisplayName": "Switches",
-    "moduleTranslatedName": "スイッチ",
+    "moduleTranslatedName": null,
     "moduleID": "switchModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24433,7 +24433,7 @@
   },
   {
     "moduleDisplayName": "Symbolic Password",
-    "moduleTranslatedName": "シンボルパスワード",
+    "moduleTranslatedName": null,
     "moduleID": "symbolicPasswordModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -24667,7 +24667,7 @@
   },
   {
     "moduleDisplayName": "Tallordered Keys",
-    "moduleTranslatedName": "高順番音板",
+    "moduleTranslatedName": null,
     "moduleID": "tallorderedKeys",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26401,7 +26401,7 @@
   },
   {
     "moduleDisplayName": "The Labyrinth",
-    "moduleTranslatedName": "迷宮",
+    "moduleTranslatedName": null,
     "moduleID": "labyrinth",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26557,7 +26557,7 @@
   },
   {
     "moduleDisplayName": "The Necronomicon",
-    "moduleTranslatedName": "ネクロノミコン",
+    "moduleTranslatedName": null,
     "moduleID": "necronomicon",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26608,7 +26608,7 @@
   },
   {
     "moduleDisplayName": "The Number Cipher",
-    "moduleTranslatedName": "数字暗号",
+    "moduleTranslatedName": null,
     "moduleID": "numberCipher",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -26788,7 +26788,7 @@
   },
   {
     "moduleDisplayName": "The Radio",
-    "moduleTranslatedName": "ラジオ",
+    "moduleTranslatedName": null,
     "moduleID": "KritRadio",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -27040,7 +27040,7 @@
   },
   {
     "moduleDisplayName": "The Swan",
-    "moduleTranslatedName": "スワン",
+    "moduleTranslatedName": null,
     "moduleID": "theSwan",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -27058,7 +27058,7 @@
   },
   {
     "moduleDisplayName": "The Switch",
-    "moduleTranslatedName": "ザ・スイッチ",
+    "moduleTranslatedName": null,
     "moduleID": "BigSwitch",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -27415,7 +27415,7 @@
   },
   {
     "moduleDisplayName": "Third Base",
-    "moduleTranslatedName": "サードベース",
+    "moduleTranslatedName": null,
     "moduleID": "ThirdBase",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -27628,7 +27628,7 @@
   },
   {
     "moduleDisplayName": "Timing is Everything",
-    "moduleTranslatedName": "タイミングが全て",
+    "moduleTranslatedName": null,
     "moduleID": "timingIsEverything",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -28111,7 +28111,7 @@
   },
   {
     "moduleDisplayName": "Turn The Key",
-    "moduleTranslatedName": "鍵をまわせ!",
+    "moduleTranslatedName": null,
     "moduleID": "TurnTheKey",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -28126,7 +28126,7 @@
   },
   {
     "moduleDisplayName": "Turn The Keys",
-    "moduleTranslatedName": "鍵をまわせ!2",
+    "moduleTranslatedName": null,
     "moduleID": "TurnTheKeyAdvanced",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -28195,7 +28195,7 @@
   },
   {
     "moduleDisplayName": "Two Bits",
-    "moduleTranslatedName": "ツービッツ",
+    "moduleTranslatedName": null,
     "moduleID": "TwoBits",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -29764,7 +29764,7 @@
   },
   {
     "moduleDisplayName": "Word Scramble",
-    "moduleTranslatedName": "ワードスクランブル",
+    "moduleTranslatedName": null,
     "moduleID": "WordScrambleModule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -30325,7 +30325,7 @@
   },
   {
     "moduleDisplayName": "記憶",
-    "moduleTranslatedName": "記憶",
+    "moduleTranslatedName": null,
     "moduleID": "MemoryComponentSolver",
     "scoreStringOverride": false,
     "scoreString": null,

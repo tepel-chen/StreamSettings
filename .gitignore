@@ -40,7 +40,6 @@ ModSettings/InternationalSettings.json
 Modsettings/TweakSettings.json
 Modsettings/MysteryModuleSettings.json
 output_log.txt
-modSettings.xml
 modSelectorConfig.json
 demoSettings.xml
 ModProfiles/Defuser Practise.json
@@ -85,7 +84,6 @@ progression.xml
 TwitchPlaysStats.json
 TwitchPlaysLastClaimed.json
 ModProfiles/NoBack.json
-modSettings.xml
 modSelectorConfig.json
 playerSettings.xml
 TwitchPlaysIRCManagerBackground.png
