@@ -26,7 +26,14 @@
     "TextAdventureModule",
     "CruelKanjiModule",
     "ThonkingModule",
-    "AppreciateArt"
+    "AppreciateArt",
+    "VanillaRuleModifier(Clone)",
+    "Profile Revealer Service(Clone)",
+    "ModSelectorTestExtension(Clone)",
+    "Green Screen",
+    "FactoryRoom",
+    "tachycardia",
+    "4buttons"
   ],
   "Operation": 1
 }
