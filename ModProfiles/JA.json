@@ -1303,7 +1303,9 @@
     "puzzlingHexabuttons",
     "simpleHexabuttons",
     "symbolicHexabuttons",
-    "transmittingHexabuttons"
+    "transmittingHexabuttons",
+    "queensWarModule",
+    "twistyTerminals"
   ],
   "EnabledList": [
     "hinges",

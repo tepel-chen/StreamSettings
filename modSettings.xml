@@ -1058,7 +1058,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2340887785</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1697029759</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1709889929</string>
-    <string>E:\Steam\steamapps\workshop\content\341800\2281431586</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2268726777</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2202395827</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1780949902</string>
@@ -1374,7 +1373,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\1724507682</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2528694769</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2526885866</string>
-    <string>E:\Steam\steamapps\workshop\content\341800\2428516855</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1743170479</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1558733443</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2429758090</string>
@@ -1676,5 +1674,9 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2474207387</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1427410301</string>
     <string>mods\Twitch Plays</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2833612078</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2124617814</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2832572191</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2833187812</string>
   </DisabledModPaths>
 </ModSettings>
