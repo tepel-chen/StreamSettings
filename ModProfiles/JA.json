@@ -1305,7 +1305,17 @@
     "symbolicHexabuttons",
     "transmittingHexabuttons",
     "queensWarModule",
-    "twistyTerminals"
+    "twistyTerminals",
+    "ObscurdleModule",
+    "AzureButtonModule",
+    "PokemonSpriteCipherModule",
+    "SapphireButtonModule",
+    "literallyDeaging",
+    "literallyLaughing",
+    "literallyTaunting",
+    "BombItJAModule",
+    "unfairsForgottenCiphers",
+    "JermaJermaDream"
   ],
   "EnabledList": [
     "hinges",

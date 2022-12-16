@@ -1,0 +1,9 @@
+{
+  "DisabledList": [
+    "FactoryRoom",
+    "Portal Room",
+    "Green Screen",
+    "moduleAssemblyStation"
+  ],
+  "Operation": 1
+}

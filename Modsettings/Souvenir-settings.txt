@@ -3,5 +3,5 @@
   "ExcludeIgnoredModules": false,
   "ExcludeMysteryModule": false,
   "ExcludeSouvenir": false,
-  "Language": "ja"
+  "Language": "en"
 }

@@ -1122,7 +1122,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2384710370</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2397444702</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1112930514</string>
-    <string>E:\Steam\steamapps\workshop\content\341800\1604383878</string>
     <string>E:\Steam\steamapps\workshop\content\341800\926836229</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1614789900</string>
     <string>E:\Steam\steamapps\workshop\content\341800\731908781</string>
@@ -1415,7 +1414,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2498110216</string>
     <string>mods\TestModule</string>
     <string>mods\Template</string>
-    <string>mods\NotKanjiModule</string>
     <string>mods\MinorTranslationService</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2622309969</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2618980508</string>
@@ -1479,8 +1477,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2538567808</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2269962970</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2672432597</string>
-    <string>mods\TranslationService</string>
-    <string>mods\StreamerMode</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2671506599</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2680868903</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2678739265</string>
@@ -1664,7 +1660,6 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2824235274</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2824253494</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2824654991</string>
-    <string>E:\Steam\steamapps\workshop\content\341800\2824705216</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2825060899</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2826387132</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2826671739</string>
@@ -1674,9 +1669,85 @@
     <string>E:\Steam\steamapps\workshop\content\341800\2474207387</string>
     <string>E:\Steam\steamapps\workshop\content\341800\1427410301</string>
     <string>mods\Twitch Plays</string>
-    <string>E:\Steam\steamapps\workshop\content\341800\2833612078</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2124617814</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2832572191</string>
     <string>E:\Steam\steamapps\workshop\content\341800\2833187812</string>
+    <string>mods\TranslationService</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2594904915</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2850494805</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2859308894</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2824705216</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2833612078</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2846437023</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2847758957</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2857769105</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2851421888</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2846556079</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2848775947</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2848270160</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2857808331</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2877437684</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2831347779</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2832651402</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2833500866</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2833179754</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2835607013</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2837000587</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2837215603</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2837741576</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2838914426</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2838935067</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2840836058</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2841566746</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2842921669</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2843093848</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2843566251</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2843629562</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2843631456</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2844409203</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2844779347</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2844588174</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2846083481</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2847215270</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2848318657</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2849443228</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2849490824</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2850158391</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2850658715</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2851176581</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2854224140</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2854711296</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2856055416</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2856153677</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2855431507</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2857619279</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2858309858</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2858964835</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2859114583</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2860031600</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2860233022</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2851957443</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2861087876</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2861525831</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2862417058</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2866045056</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2867345154</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2866812416</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2868630574</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2870219864</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2867259080</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2875453585</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2879934976</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2879942577</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2879669884</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2880005767</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2881150386</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2881441908</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2881855719</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2882400839</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2882723249</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2884154662</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2884138619</string>
+    <string>E:\Steam\steamapps\workshop\content\341800\2885091143</string>
   </DisabledModPaths>
 </ModSettings>
